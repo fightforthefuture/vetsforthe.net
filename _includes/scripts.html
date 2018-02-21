@@ -1,0 +1,42 @@
+<!-- nothing here -->
+<script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
+<script type="text/javascript">
+	(function($) {
+		$("#more").click(function(evt) {
+			$("#more").fadeOut();
+			$("#businesses-list").css({
+				"max-height": "9000px"
+			});
+		});
+	}(jQuery));
+</script>
+<script type="text/javascript">
+	(function($) {
+		var $el = $("#petition-form");
+		var $loader = $(".loader", $el);
+		var $message = $(".message", $el);
+		var $form = $("form", $el);
+		if ($form) {
+			$form.on("submit", function(evt) {
+				evt.preventDefault();
+				var args = $form.serialize();
+				$form.fadeOut();
+				$loader.show();
+				$message.hide();
+				$.ajax({
+					type: $form.attr("method").toUpperCase(),
+					url: $form.attr("action"),
+					data: args,
+					dataType: "json"
+				}).done(function() {
+					window.location = "/thanks.html";
+				}).fail(function(xhr, text, err) {
+					$message.text("There was an issue submitting the form, please try again");
+					$message.show();
+					$form.show();
+					$loader.hide();
+				});
+			});
+		}
+	}(jQuery));
+</script>

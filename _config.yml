@@ -1,0 +1,25 @@
+title: 'Businesses for Net Neutrality'
+url: https://www.businessesfornetneutrality.com/
+share_title: "Over 500 small businesses have spoken out for net neutrality."
+share_description: "If you are a small business owner, sign the letter and make sure your voice is heard in this fight."
+fb_share_image: "/images/keepthewebopenforbusiness-og.jpg"
+twitter_share_image: "/images/keepthewebopenforbusiness-og.jpg"
+
+# Build settings
+#sass:
+#  sass_dir: ./_scss
+markdown: kramdown
+#plugins:
+#  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
