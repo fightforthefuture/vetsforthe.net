@@ -13,7 +13,7 @@ Thank you for signing on the to the open letter. We will be sure to add your nam
 
 Now, will you take the next step and share this campaign to maximize your impact? Share now with just a couple of clicks:
 
-<center><a target="_blank" href="https://www.facebook.com/sharer.php?u=https://www.businessesfornetneutrality.com/"><img src="/images/facebook-share.png"></a><a target="_blank" href="https://twitter.com/intent/tweet?related=fightfortheftr&text=500%2B+small+businesses+tell+%40FCC+how+losing+%23NetNeutrality+would+hurt+their+ability+to+reach+customers+%26+grow+online+https%3A%2F%2Fwww.businessesfornetneutrality.com"><img src="/images/twitter-share.png"></a></center>
+<center><a target="_blank" href="https://www.facebook.com/sharer.php?u=https://www.businessesfornetneutrality.com/"><img src="images/facebook-share.png"></a><a target="_blank" href="https://twitter.com/intent/tweet?related=fightfortheftr&text=500%2B+small+businesses+tell+%40FCC+how+losing+%23NetNeutrality+would+hurt+their+ability+to+reach+customers+%26+grow+online+https%3A%2F%2Fwww.businessesfornetneutrality.com"><img src="images/twitter-share.png"></a></center>
 
 *And please forward this open letter to any small or medium-sized businesses that might be interested in signing on.*
 
