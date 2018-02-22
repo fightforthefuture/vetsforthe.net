@@ -7,7 +7,7 @@ body {
 	font-family: $body-font;
 	position: relative;
 	background-color: $darkGray;
-	color: white;
+	color: $white;
 }
 
 #overlord {
@@ -24,7 +24,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-	color: white;
+	color: #fff;
 	text-transform: uppercase;
 }
 
@@ -33,7 +33,7 @@ h2 {
 	text-transform: uppercase;
 }
 h3 {
-	color: white;
+	color: $white;
 	font-size: 16px;
 	line-height: 1.6em;
 }
@@ -54,7 +54,7 @@ strong {
 a {
 	color: #5ea2fd;
 	&:hover {
-		color: white;
+		color: $white;
 	}
 }
 
@@ -101,7 +101,7 @@ dl:first-child {
 			text-transform: uppercase;
 
 			a {
-				color: white;
+				color: $white;
 				font-weight: 600;
 			}
 
@@ -123,14 +123,14 @@ dl:first-child {
 	}
 	padding-bottom: 0px;
 }
-.button {
+.button, a.button {
 	width: 100%;
 	display: block;
 	font-size: 40px;
 	height: 80px;
 	line-height: 80px;
 	background-color: $yellow;
-	color: $darkBlue;
+	color: $darkGray;
 	text-transform: uppercase;
 	font-weight: bold;
 	border-radius: 5px;
@@ -138,7 +138,7 @@ dl:first-child {
 	text-decoration: none;
 	text-align: center;
 	&:hover {
-		background: #6a22ef;
+		background: darken($yellow, 20%);
 	}
 }
 
@@ -185,10 +185,9 @@ dl:first-child {
 		bottom: 0px;
 		height: 100px;
 		width: 100%;
-		background: -moz-linear-gradient(top, rgba(36,34,41,0) 0%, rgba(36,34,41,1) 100%); /* FF3.6-15 */
-		background: -webkit-linear-gradient(top, rgba(36,34,41,0) 0%,rgba(36,34,41,1) 100%); /* Chrome10-25,Safari5.1-6 */
-		background: linear-gradient(to bottom, rgba(36,34,41,0) 0%,rgba(36,34,41,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00242229', endColorstr='#242229',GradientType=0 ); /* IE6-9 */
+		background: -moz-linear-gradient(top, rgba(30,34,51,0) 0%, rgba(30,34,51,1) 100%); /* FF3.6-15 */
+		background: -webkit-linear-gradient(top, rgba(30,34,51,0) 0%,rgba(30,34,51,1) 100%); /* Chrome10-25,Safari5.1-6 */
+		background: linear-gradient(to bottom, rgba(30,34,51,0) 0%,rgba(30,34,51,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 		p {
 			color: #ad9fc6;
 			text-decoration: underline;
@@ -198,7 +197,7 @@ dl:first-child {
 			bottom: 0px;
 			width: 100%;
 			&:hover {
-				color: white;
+				color: $white;
 			}
 		}
 	}
