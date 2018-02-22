@@ -748,7 +748,7 @@ View more
 
 ## Read the Letter
 {: #letter }
-<strong><a href="https://www.keepthewebopenforbusiness.com/FCC_17-108_smallbusiness-ASBC-filing-170830.pdf">Download the PDF</a></strong>
+<strong><a href="//businesses_for_net_neutrality.pdf">Download the PDF</a></strong>
 
 We are companies who rely on the open Internet to grow our business and reach
 customers online. We are asking Congress to issue a “Resolution of Disapproval”
