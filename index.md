@@ -7,8 +7,6 @@ layout: default
 
 <div class="section intro hl-bg">
 
-# Open letter:
-
 ## Businesses for overturning the FCC's Net Neutrality repeal
 
 </div>
