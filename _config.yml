@@ -2,8 +2,8 @@ title: 'Businesses for Net Neutrality'
 url: https://www.businessesfornetneutrality.com/
 share_title: "OPEN LETTER: Businesses are demanding *REAL* net neutrality protections"
 share_description: "Without net neutrality, Internet service providers will be able to add a new tax onto businesses across the country. Sign the open letter to stop this now."
-fb_share_image: "/images/businessesfornetneutrality.png"
-twitter_share_image: "/images/businessesfornetneutrality.png"
+fb_share_image: "images/businessesfornetneutrality.png"
+twitter_share_image: "images/businessesfornetneutrality.png"
 
 # Build settings
 #sass:
