@@ -299,10 +299,10 @@ View more
 
 <div class="section letter">
 
-## Sign the Letter
+## Businesses: Sign the Letter
 {: #signon }
 
-### Add Your Company's Name Below
+### Add your company's information below
 
 {::options parse_block_html="false" /}
 <div id="petition-form">
@@ -313,20 +313,20 @@ View more
 <form method="post" action="https://queue.fightforthefuture.org/action" accept-charset="UTF-8">
 	<div class="message" style="display: none;"></div>
 	<div>
-		<input id='full_name' type="text" name="member[first_name]" placeholder="NAME *" title="Full Name" autocomplete="name" required><input id='company' type="text" name="member[company]" placeholder="COMPANY NAME *" title="Company name" required>
+		<input id='full_name' type="text" name="member[first_name]" placeholder="NAME*" title="Full Name" autocomplete="name" required>
+		<input id='email' type="email" name="member[email]" placeholder="EMAIL*" title="Email" required>
 	</div>
 	<div>
-		<input id='email' type="email" name="member[email]" placeholder="EMAIL *" title="Email" required>
+		<input id='company' type="text" name="member[company]" placeholder="COMPANY NAME*" title="Company name" required>
+		<input id='company_url' type="text" name="meta_data" placeholder="COMPANY URL*" title="Company URL" required>
 	</div>
 	<div>
-		<input id="phone" type="tel" name="member[phone_number]" placeholder="PHONE NUMBER" title="Phone"><input id="postcode" type="text" name="member[postcode]" placeholder="ZIP *" title="Zip" required>
-	</div>
-	<div>
-		<p>Adding your number is optional, but will allow us to get in contact if there are any campaign developments we think you should be aware of.</p>
+		<input id="phone" type="tel" name="member[phone_number]" placeholder="PHONE NUMBER" title="Phone">
+		<input id="postcode" type="tel" name="member[postcode]" placeholder="ZIP*" title="Zip" required>
 	</div>
 	<div>
 		<textarea name="action_comment" title="Comments" placeholder="COMMENTS"></textarea>
-		<p>Tell decision-makers why net neutrality matters to your business.</p>
+		<label><input type="checkbox" required> I am authorized to represent my company's position on net neutrality</label>
 	</div>
 
 	<div>

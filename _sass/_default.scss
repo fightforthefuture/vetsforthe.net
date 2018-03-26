@@ -263,6 +263,9 @@ form {
 		font-size: 12px;
 		margin: 10px 0;
 	}
+	.button {
+		width: 99%;
+	}
 	input, textarea {
 		width: 99%;
 		display: inline-block;
@@ -272,15 +275,18 @@ form {
 		font-size: 20px;
 		margin: 0px;
 	}
-	#full_name {
-		width: 50%;
+	input[type="checkbox"] {
+		width: auto;
 	}
-	#company {
+	#full_name, #company {
+		width: 49.5%;
+	}
+	#email, #company_url {
 		width: 48%;
 		margin-left: 1%;
 	}
 	#phone {
-		width: 66%;
+		width: 65.5%;
 	}
 	#postcode {
 		width: 32%;
