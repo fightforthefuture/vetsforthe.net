@@ -104,7 +104,21 @@ Thank you for considering our views.
 Sincerely,
 
 </div>
-<div class="section businesses">
+
+<div class="section">
+
+## MAY 2, 2018: Host or Join an Event
+{: #events }
+On May 2nd, at 12pm local time, small business owners and net neutrality 
+supporters will gather at Congressional offices across the country, deliver 
+the letter, and hold a short press conference outside for local media. If 
+you’d like to organize a letter delivery to a congressperson in your area, 
+sign the letter above and we’ll contact you at a later date with detailed 
+instructions.
+
+</div>
+
+<div class="section businesses hl-bg" >
 
 ## Businesses
 {: #businesses }
@@ -365,20 +379,6 @@ View more
 </div>
 
 </div>
-
-<div class="section">
-
-## MAY 2, 2018: Host or Join an Event
-{: #events }
-On May 2nd, at 12pm local time, small business owners and net neutrality 
-supporters will gather at Congressional offices across the country, deliver 
-the letter, and hold a short press conference outside for local media. If 
-you’d like to organize a letter delivery to a congressperson in your area, 
-sign the letter above and we’ll contact you at a later date with detailed 
-instructions.
-
-</div>
-
 
 <div class="section footer">
 
