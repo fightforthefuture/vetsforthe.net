@@ -7,25 +7,15 @@ layout: default
 
 <div class="section intro hl-bg">
 
-## Businesses for overturning the FCC's Net Neutrality repeal
+## Small businesses can save the Internet
 
 </div>
 
 <div class="section intro-copy">
 
-Since the FCC’s December vote to kill net neutrality, companies and
-users across the country have been pressuring Congress to pass a
-Congressional Review Act (CRA) resolution that would overturn the
-agency’s repeal.
+The first week of May is national “Small Business Week.” Thousands of small businesses are signing on to this open letter to our elected officials in Congress, just weeks before they’re expected to vote on the Congressional Review Act (CRA) resolution to block the FCC’s repeal of net neutrality.
 
-If passed, the CRA would restore protections that stop ISPs from
-blocking and throttling your sites and apps, or charging companies new
-fees to reach customers online.
-
-To get this CRA passed, we’re organizing an open letter from businesses
-who want to see strong net neutrality rules in place. Enter your info
-below to add your company’s name and ask Congress to overturn the FCC’s
-net neutrality repeal.
+Small businesses will be hurt the most by the loss of net neutrality, but we can also play a key role in saving it. Members of Congress take small businesses from their district very seriously. We have until May 2 to get as many small businesses to sign the letter as possible. Please spread the word!
 
 <a href="#signon" class="button">Sign The Letter</a>
 
@@ -378,23 +368,16 @@ Sincerely,
 
 </div>
 
-<div class="section" style="display:none">
+<div class="section">
 
-## Host an Event
+## MAY 2, 2018: Host or Join an Event
 {: #events }
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+On May 2nd, at 12pm local time, small business owners and net neutrality 
+supporters will gather at Congressional offices across the country, deliver 
+the letter, and hold a short press conference outside for local media. If 
+you’d like to organize a letter delivery to a congressperson in your area, 
+sign the letter above and we’ll contact you at a later date with detailed 
+instructions.
 
 </div>
 
