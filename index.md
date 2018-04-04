@@ -85,6 +85,8 @@ Small businesses will be hurt the most by the loss of net neutrality, but we can
 {: #letter }
 <strong><a href="businesses_for_net_neutrality.pdf">Download the PDF</a></strong>
 
+Dear Congress, 
+
 We are companies who rely on the open Internet to grow our business and reach
 customers online. We are asking Congress to issue a “Resolution of Disapproval”
 to restore net neutrality and the other consumer protections that were lost
@@ -100,8 +102,6 @@ Please ensure the FCC keeps its tools to protect consumers and business like
 ours.
 
 Thank you for considering our views.
-
-Sincerely,
 
 </div>
 
