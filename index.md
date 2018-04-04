@@ -9,8 +9,6 @@ layout: default
 
 ## Small businesses can save the Internet
 
-</div>
-
 <div class="section intro-copy">
 
 The first week of May is national “Small Business Week.” Thousands of small businesses are signing on to this open letter to our elected officials in Congress, just weeks before they’re expected to vote on the Congressional Review Act (CRA) resolution to block the FCC’s repeal of net neutrality.
