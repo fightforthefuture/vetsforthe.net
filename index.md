@@ -13,7 +13,7 @@ layout: default
 
 The first week of May is national “Small Business Week.” Thousands of small businesses are signing on to this open letter to our elected officials in Congress, just weeks before they’re expected to vote on the Congressional Review Act (CRA) resolution to block the FCC’s repeal of net neutrality.
 
-Small businesses will be hurt the most by the loss of net neutrality, but we can also play a key role in saving it. Members of Congress take small businesses from their district very seriously. We have until May 2 to get as many small businesses to sign the letter as possible. Please spread the word!
+Small businesses will be hurt the most by the loss of net neutrality, but we can also play a key role in saving it. Members of Congress take small businesses from their district very seriously. We have until May 2nd, 2018 to get as many small businesses to sign the letter as possible. Please spread the word!
 
 <a href="#signon" class="button">Sign The Letter</a>
 
