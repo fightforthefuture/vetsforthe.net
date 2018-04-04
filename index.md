@@ -17,18 +17,19 @@ Small businesses will be hurt the most by the loss of net neutrality, but we can
 
 <a href="#signon" class="button">Sign The Letter</a>
 
-* [Participating Businesses](#businesses)
+
 * [Read the Letter](#letter)
+* [Participating Businesses](#businesses)
 
 </div>
 </div>
 
 <div class="section letter">
 
-## Businesses: Sign the Letter
+## Sign the Letter
 {: #signon }
 
-### Add your company's information below
+### Businesses: add your company's information below
 
 {::options parse_block_html="false" /}
 <div id="petition-form">
@@ -103,7 +104,7 @@ Thank you for considering our views.
 Sincerely,
 
 </div>
-<div class="section businesses hl-bg">
+<div class="section businesses">
 
 ## Businesses
 {: #businesses }
