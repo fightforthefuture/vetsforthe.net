@@ -379,6 +379,7 @@ View more
 </div>
 
 </div>
+</div>
 
 <div class="section footer">
 
