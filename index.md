@@ -17,8 +17,8 @@ Small businesses will be hurt the most by the loss of net neutrality, but we can
 
 <a href="#signon" class="button">Sign The Letter</a>
 
-
 * [Read the Letter](#letter)
+* [Join an Event](#events)
 * [Participating Businesses](#businesses)
 
 </div>
@@ -107,7 +107,7 @@ Sincerely,
 
 <div class="section">
 
-## MAY 2, 2018: Host or Join an Event
+## May 2nd, 2018: Host or Join an Event
 {: #events }
 On May 2nd, at 12pm local time, small business owners and net neutrality 
 supporters will gather at Congressional offices across the country, deliver 
