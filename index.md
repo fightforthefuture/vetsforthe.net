@@ -23,7 +23,88 @@ Small businesses will be hurt the most by the loss of net neutrality, but we can
 * [Read the Letter](#letter)
 
 </div>
+</div>
 
+<div class="section letter">
+
+## Businesses: Sign the Letter
+{: #signon }
+
+### Add your company's information below
+
+{::options parse_block_html="false" /}
+<div id="petition-form">
+<p class="loader" style="display: none;">
+	Submitting form...<br />
+	<img src="/images/loader.gif" />
+</p>
+<form method="post" action="https://queue.fightforthefuture.org/action" accept-charset="UTF-8">
+	<div class="message" style="display: none;"></div>
+	<div>
+		<input id='full_name' type="text" name="member[first_name]" placeholder="NAME*" title="Full Name" autocomplete="name" required>
+		<input id='email' type="email" name="member[email]" placeholder="EMAIL*" title="Email" required>
+	</div>
+	<div>
+		<input id='company' type="text" name="member[company]" placeholder="COMPANY NAME*" title="Company name" required>
+		<input id='company_url' type="text" name="meta_data" placeholder="COMPANY URL*" title="Company URL" required>
+	</div>
+	<div>
+		<input id="phone" type="tel" name="member[phone_number]" placeholder="PHONE NUMBER" title="Phone">
+		<input id="postcode" type="tel" name="member[postcode]" placeholder="ZIP*" title="Zip" required>
+	</div>
+	<div>
+		<textarea name="action_comment" title="Comments" placeholder="COMMENTS"></textarea>
+		<label><input type="checkbox" required> I am authorized to represent my company's position on net neutrality</label>
+	</div>
+
+	<div>
+		<button class="button">Sign On</button>
+	</div>
+
+	<div class="disclaimer">
+	  <p>Fight for the Future will contact you about future campaigns. <a href="https://www.fightforthefuture.org/privacy/">Privacy Policy</a></p>
+	</div>
+
+	<input type="hidden" name="subject" value="Protect Net Neutrality!"/>
+
+	<!-- Mothership Honeypot Bot Defense -->
+	<input class="hide" type="checkbox" checked="checked" name="hp_enabled" />
+	<input class="hide" type="checkbox" name="hp_disabled" />
+	<input class="hide" type="text" name="guard" value="" />
+
+	<!-- Action Network -->
+	<input type="hidden" name="an_tags" value="[&quot;net-neutrality&quot;]"/>
+	<input type="hidden" name="an_petition_id" value="94ac8142-99b8-411f-83af-133d02649af1"/>
+	<input id="source" type="hidden" name="subscription[source]" value=""/>
+</form>
+</div>
+{::options parse_block_html="true" /}
+
+<div class="section hl-bg">
+
+## Read the Letter
+{: #letter }
+<strong><a href="businesses_for_net_neutrality.pdf">Download the PDF</a></strong>
+
+We are companies who rely on the open Internet to grow our business and reach
+customers online. We are asking Congress to issue a “Resolution of Disapproval”
+to restore net neutrality and the other consumer protections that were lost
+when the Federal Communications Commission (FCC) voted to repeal the 2015 Open
+Internet Order in December 2017.
+
+Users and businesses need certainty that they will not be blocked, throttled or
+charged extra fees by Internet service providers. We cannot afford to be left
+unprotected while Congress deliberates.
+
+We will accept nothing less than the protections embodied in the 2015 order.
+Please ensure the FCC keeps its tools to protect consumers and business like
+ours.
+
+Thank you for considering our views.
+
+Sincerely,
+
+</div>
 <div class="section businesses hl-bg">
 
 ## Businesses
@@ -283,88 +364,6 @@ Small businesses will be hurt the most by the loss of net neutrality, but we can
 <div id="more">
 View more
 </div>
-
-</div>
-</div>
-
-<div class="section letter">
-
-## Businesses: Sign the Letter
-{: #signon }
-
-### Add your company's information below
-
-{::options parse_block_html="false" /}
-<div id="petition-form">
-<p class="loader" style="display: none;">
-	Submitting form...<br />
-	<img src="/images/loader.gif" />
-</p>
-<form method="post" action="https://queue.fightforthefuture.org/action" accept-charset="UTF-8">
-	<div class="message" style="display: none;"></div>
-	<div>
-		<input id='full_name' type="text" name="member[first_name]" placeholder="NAME*" title="Full Name" autocomplete="name" required>
-		<input id='email' type="email" name="member[email]" placeholder="EMAIL*" title="Email" required>
-	</div>
-	<div>
-		<input id='company' type="text" name="member[company]" placeholder="COMPANY NAME*" title="Company name" required>
-		<input id='company_url' type="text" name="meta_data" placeholder="COMPANY URL*" title="Company URL" required>
-	</div>
-	<div>
-		<input id="phone" type="tel" name="member[phone_number]" placeholder="PHONE NUMBER" title="Phone">
-		<input id="postcode" type="tel" name="member[postcode]" placeholder="ZIP*" title="Zip" required>
-	</div>
-	<div>
-		<textarea name="action_comment" title="Comments" placeholder="COMMENTS"></textarea>
-		<label><input type="checkbox" required> I am authorized to represent my company's position on net neutrality</label>
-	</div>
-
-	<div>
-		<button class="button">Sign On</button>
-	</div>
-
-	<div class="disclaimer">
-	  <p>Fight for the Future will contact you about future campaigns. <a href="https://www.fightforthefuture.org/privacy/">Privacy Policy</a></p>
-	</div>
-
-	<input type="hidden" name="subject" value="Protect Net Neutrality!"/>
-
-	<!-- Mothership Honeypot Bot Defense -->
-	<input class="hide" type="checkbox" checked="checked" name="hp_enabled" />
-	<input class="hide" type="checkbox" name="hp_disabled" />
-	<input class="hide" type="text" name="guard" value="" />
-
-	<!-- Action Network -->
-	<input type="hidden" name="an_tags" value="[&quot;net-neutrality&quot;]"/>
-	<input type="hidden" name="an_petition_id" value="94ac8142-99b8-411f-83af-133d02649af1"/>
-	<input id="source" type="hidden" name="subscription[source]" value=""/>
-</form>
-</div>
-{::options parse_block_html="true" /}
-
-<div class="section hl-bg">
-
-## Read the Letter
-{: #letter }
-<strong><a href="businesses_for_net_neutrality.pdf">Download the PDF</a></strong>
-
-We are companies who rely on the open Internet to grow our business and reach
-customers online. We are asking Congress to issue a “Resolution of Disapproval”
-to restore net neutrality and the other consumer protections that were lost
-when the Federal Communications Commission (FCC) voted to repeal the 2015 Open
-Internet Order in December 2017.
-
-Users and businesses need certainty that they will not be blocked, throttled or
-charged extra fees by Internet service providers. We cannot afford to be left
-unprotected while Congress deliberates.
-
-We will accept nothing less than the protections embodied in the 2015 order.
-Please ensure the FCC keeps its tools to protect consumers and business like
-ours.
-
-Thank you for considering our views.
-
-Sincerely,
 
 </div>
 
