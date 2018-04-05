@@ -11,15 +11,15 @@ layout: default
 
 <div class="section intro-copy">
 
-The first week of May is national “Small Business Week.” Thousands of small businesses are signing on to this open letter to our elected officials in Congress, just weeks before they’re expected to vote on the Congressional Review Act (CRA) resolution to block the FCC’s repeal of net neutrality.
+The first week of May is national “Small Business Week.” Thousands of small businesses are signing on to this open letter to Congress, just weeks before they’re expected to vote on the Congressional Review Act (CRA) resolution to block the FCC’s repeal of net neutrality.
 
-Small businesses will be hurt the most by the loss of net neutrality, but we can also play a key role in saving it. Members of Congress take small businesses from their district very seriously. We have until May 2nd, 2018 to get as many small businesses to sign the letter as possible. Please spread the word!
+Small businesses will be hurt the most by the loss of net neutrality, but can also play a key role in saving it. Members of Congress take businesses owners from their district very seriously. We're delivering the letter on May 2, so we have until then to get as many businesses to sign as possible. Please spread the word!
 
 <a href="#signon" class="button">Sign The Letter</a>
 
 * [Read the Letter](#letter)
-* [Join an Event](#events)
 * [Participating Businesses](#businesses)
+* [Join an Event](#events)
 
 </div>
 </div>
@@ -105,20 +105,7 @@ Thank you for considering our views.
 
 </div>
 
-<div class="section">
-
-## May 2nd, 2018: Host or Join an Event
-{: #events }
-On May 2nd, at 12pm local time, small business owners and net neutrality 
-supporters will gather at Congressional offices across the country, deliver 
-the letter, and hold a short press conference outside for local media. If 
-you’d like to organize a letter delivery to a congressperson in your area, 
-sign the letter above and we’ll contact you at a later date with detailed 
-instructions.
-
-</div>
-
-<div class="section businesses hl-bg" >
+<div class="section businesses">
 
 ## Businesses
 {: #businesses }
@@ -376,6 +363,20 @@ instructions.
 
 <div id="more">
 View more
+
+</div>
+
+<div class="section hl-bg" >
+
+## May 2nd, 2018: Host or Join an Event
+{: #events }
+On May 2nd, at 12pm local time, small business owners and net neutrality 
+supporters will gather at Congressional offices across the country, deliver 
+the letter, and hold a short press conference outside for local media. If 
+you’d like to organize a letter delivery to a congressperson in your area, 
+sign the letter above and we’ll contact you at a later date with detailed 
+instructions.
+
 </div>
 
 </div>
