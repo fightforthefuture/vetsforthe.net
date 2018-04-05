@@ -365,8 +365,10 @@ Thank you for considering our views.
 View more
 
 </div>
+</div>
+</div>
 
-<div class="section hl-bg" >
+<div class="section hl-bg">
 
 ## May 2nd, 2018: Host or Join an Event
 {: #events }
@@ -377,9 +379,6 @@ you’d like to organize a letter delivery to a congressperson in your area,
 sign the letter above and we’ll contact you at a later date with detailed 
 instructions.
 
-</div>
-
-</div>
 </div>
 
 <div class="section footer">
