@@ -62,7 +62,7 @@ Small businesses will be hurt the most by the loss of net neutrality, but can al
 
 	<div class="disclaimer">
 	  <p>Fight for the Future will email you updates, and you can unsubscribe at any time. If you enter your 
-	  number (it's optional) we will follow up by SMS (message & data rates apply.) You can always text STOP 
+	  number (it's optional) we will follow up by SMS. Message & data rates apply. You can always text STOP 
 	  to stop receiving messages. <a href="https://www.fightforthefuture.org/privacy/">Privacy Policy</a></p>
 	</div>
 
