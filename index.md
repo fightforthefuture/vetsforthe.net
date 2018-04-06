@@ -381,7 +381,7 @@ you’d like to organize a letter delivery to a congressperson in your area,
 sign the letter above and we’ll contact you at a later date with detailed 
 instructions.
 
-<strong>ORGANIZED BY:</strong> Fight for the Future, The American Sustainable Business Council, Engine Advocacy, The Main Street Alliance, Good Business Colorado, the Small Business Majority.
+<strong>ORGANIZED BY: Fight for the Future, The American Sustainable Business Council, Engine Advocacy, The Main Street Alliance, Good Business Colorado, the Small Business Majority</strong>
 
 </div>
 
