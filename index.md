@@ -45,7 +45,7 @@ Small businesses will be hurt the most by the loss of net neutrality, but can al
 	</div>
 	<div>
 		<input id='company' type="text" name="member[company]" placeholder="COMPANY NAME*" title="Company name" required>
-		<input id='company_url' type="text" name="meta_data" placeholder="COMPANY URL*" title="Company URL" required>
+		<input id='company_url' type="text" name="member[company_url]" placeholder="COMPANY URL*" title="Company URL" required>
 	</div>
 	<div>
 		<input id="phone" type="tel" name="member[phone_number]" placeholder="PHONE NUMBER" title="Phone">
