@@ -1,3 +1,16 @@
-.sass-cache/
-_site/
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+static/pdfs/*pdf
+
+# etc
 logs/
+.DS_Store

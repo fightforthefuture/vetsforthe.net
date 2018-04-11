@@ -1,0 +1,48 @@
+// Colors
+// ------
+
+$white: #fff;
+$black: #333;
+$darkGray: #171a29;
+$blueBlack: #1D2B36;
+$darkBlue: #0f1620;
+$yellow: #f6ec3f;
+$hlBg: #1e2133;
+
+$facebook-blue: #3C5A96;
+$twitter-blue: #2ecbf8;
+$section-bg-odd: #1E2133;
+$border-radius: 5px;
+
+
+// Typography
+// ----------
+
+$body-font: 'open sans', Arial, sans-serif;
+$serif-font: 'open sans';
+$heading-font: 'Montserrat', Impact, sans-serif;
+$handwriting-font: "gooddog-new", Chalkboard, "Comic Sans", fantasy;
+
+
+// Viewports
+// ---------
+
+$standard-def : '(-webkit-max-device-pixel-ratio: 1.49), (max-resolution: 143.9dpi), (max-resolution: 1.5dppx)';
+$retina : '(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi), (min-resolution: 1.49dppx)';
+
+$small-phone: 480px;
+$large-phone: 640px;
+$small-tablet: 800px;
+$large-tablet: 960px;
+$small-laptop: 1120px;
+$medium-laptop: 1280px;
+$large-laptop: 1440px;
+$small-desktop: 1000px;
+$medium-desktop: 1760px;
+$large-desktop: 1920px;
+
+@mixin mobile {
+  @media only screen and (max-device-width: $small-phone) {
+    @content;
+  }
+}
