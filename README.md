@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/fightforthefuture/businessesfornetneutrality.com.svg?style=svg)](https://circleci.com/gh/fightforthefuture/businessesfornetneutrality.com)
+
 # bfnn-nuxt
 
 > Nuxt.js project
