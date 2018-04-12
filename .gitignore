@@ -3,6 +3,7 @@ node_modules
 
 # logs
 npm-debug.log
+logs/
 
 # Nuxt build
 .nuxt
@@ -11,6 +12,8 @@ npm-debug.log
 dist
 static/pdfs/*pdf
 
-# etc
-logs/
+# local config
+.env
+
+# detritus
 .DS_Store
