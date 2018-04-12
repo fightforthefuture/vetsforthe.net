@@ -7,8 +7,6 @@ require('dotenv').config()
 
 const dataFile = path.resolve(__dirname, '../assets/data/businesses.json')
 
-console.log(process.env.GOOGLE_PRIVATE_KEY)
-
 const googleCreds = {
   type: 'service_account',
   project_id: process.env.GOOGLE_PROJECT_ID,
