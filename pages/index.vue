@@ -118,7 +118,7 @@
 
           <div class="organize">
             <p><b>Don’t worry if you’ve never done anything like this before.  Many people who organize a delivery are doing it for the first time.  Organizing a delivery will make a difference, and we’ll be here to help you.</b></p>
-            <a href="http://act.demandprogress.org/event/team-internet/create/" target="_blank">Organize a Delivery</a>
+            <a href="http://act.demandprogress.org/event/team-internet/create/" target="_blank" @click="$ga.event('button', 'clicked', 'Organize a Delivery')">Organize a Delivery</a>
           </div>
         </li>
       </ol>
