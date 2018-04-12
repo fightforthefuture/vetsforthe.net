@@ -5,12 +5,12 @@
       <input v-model="email" type="email" placeholder="Email*" required="">
     </div>
     <div class="row">
-      <input v-model="company" type="text" placeholder="Company name*" required="">
-      <input v-model="companyURL" type="text" placeholder="Company URL*" required>
+      <input v-model="company" type="text" placeholder="Company Name*" required="">
+      <input v-model="companyURL" type="text" placeholder="Company URL* (Website, LinkedIn, etc.)" required>
     </div>
     <div class="row">
       <input v-model="phone" type="tel" placeholder="Phone">
-      <input v-model="zipCode" type="tel" placeholder="Zip Code*" required>
+      <input v-model="zipCode" type="tel" placeholder="ZIP Code*" required>
     </div>
     <div class="comments">
       <textarea v-model="comments" placeholder="Comments" class="display-block"></textarea>
