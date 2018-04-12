@@ -185,6 +185,7 @@ export default {
 
   methods: {
     printLetter() {
+      this.$ga.event('button', 'clicked', 'Print the Letter')
       window.open(`/pdfs/${this.selectedState.toLowerCase()}.pdf`, '_blank')
     }
   }

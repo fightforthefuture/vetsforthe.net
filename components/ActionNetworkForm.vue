@@ -58,6 +58,7 @@ export default {
 
     async submitForm() {
       this.isSending = true
+      this.$ga.event('form', 'submitted', 'Sign the Letter')
 
       try {
         const { data } = await axios.post(
