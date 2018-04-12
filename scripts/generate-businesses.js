@@ -55,7 +55,7 @@ async function main() {
     }
   }
 
-  const sorted = Object.values(unique).sort((a, b) => a.name - b.name)
+  const sorted = Object.values(unique).sort((a, b) => a.name.toLowerCase() - b.name.toLowerCase())
 
   fs.writeFileSync(dataFile, JSON.stringify(sorted, null, 2))
 }
