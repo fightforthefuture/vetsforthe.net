@@ -28,7 +28,7 @@ async function main() {
 
   await setAuth(googleCreds)
   const rows = await getRows(worksheet)
-  const verifiedRows = rows.filter(r => r.verified && r.verified.toUpperCase() === 'Y')
+  const verifiedRows = rows.filter(r => r.verified && r.verified.toUpperCase() === 'Y' || verified === '*')
 
   const businesses = verifiedRows.map(row => {
     let zip = row.zipcode.trim()
