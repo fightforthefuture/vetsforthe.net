@@ -166,10 +166,7 @@ a {
   }
 }
 
-input[type="email"],
-input[type="tel"],
-input[type="text"],
-textarea {
+input, textarea {
   border-radius: $border-radius;
   font-family: $body-font;
   font-weight: normal;
