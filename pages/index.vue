@@ -87,7 +87,7 @@
         <b>Check out the map to find events related to net neutrality in your area</b><br>
         If you’d like to organize a letter delivery to a congressperson in your area, read the instructions below and click the link to Organize a Delivery.
       </p>
-      <iframe class="map" src="https://events.battleforthenet.com/iframe"></iframe>
+      <iframe class="map" :src="eventsMapURL"></iframe>
 
       <h3>
         How to Organize a Letter Delivery
@@ -120,7 +120,7 @@
 
           <div class="organize">
             <p><b>Don’t worry if you’ve never done anything like this before.  Many people who organize a delivery are doing it for the first time.  Organizing a delivery will make a difference, and we’ll be here to help you.</b></p>
-            <a href="http://act.demandprogress.org/event/team-internet/create/?source=businessesfornetneutrality" target="_blank" @click="$ga.event('button', 'clicked', 'Organize a Delivery')">Organize a Delivery</a>
+            <a :href="createEventURL" target="_blank" @click="$ga.event('button', 'clicked', 'Organize a Delivery')">Organize a Delivery</a>
           </div>
         </li>
       </ol>
@@ -142,6 +142,7 @@
 
 <script>
 import { mapState } from 'vuex'
+import { stringify } from 'querystring'
 import ActionNetworkForm from '~/components/ActionNetworkForm'
 import SocialSidebar from '~/components/SocialSidebar'
 import FacebookButton from '~/components/FacebookButton'
@@ -165,7 +166,21 @@ export default {
     ...mapState(['hasSigned']),
     states: () => states,
     businesses: () => businesses,
-    letterToCongress: () => simpleFormat(settings.letterToCongress)
+    letterToCongress: () => simpleFormat(settings.letterToCongress),
+    
+    eventsQueryString() {
+      return stringify(Object.assign({
+        source: 'businessesfornetneutrality'
+      }, this.$route.query))
+    },
+
+    createEventURL() {
+      return `https://act.demandprogress.org/event/team-internet/create/?${this.eventsQueryString}`
+    },
+
+    eventsMapURL() {
+      return `https://events.battleforthenet.com/iframe?${this.eventsQueryString}`
+    }
   },
 
   data() {
