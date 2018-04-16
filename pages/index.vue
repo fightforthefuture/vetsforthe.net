@@ -26,7 +26,9 @@
         <action-network-form></action-network-form>
       </div>
       <div class="thanks" v-else>
-        <h2>Thanks for signing!</h2>
+        <h2>Thanks for signing on.</h2>
+        <p>Thank you for signing on the to the open letter in support of the Congressional Review Act (CRA) resolution to restore net neutrality. Please forward widely and spread the word to other small business owners you know:</p>
+
         <p>Thank you for signing on the to the open letter. We will be sure to add your name.</p>
         <p>Now, will you take the next step and share this campaign to maximize your impact? Share now with just a couple of clicks:</p>
 
@@ -38,13 +40,13 @@
           <linked-in-button></linked-in-button>
         </p>
 
-        <p>And please forward this open letter to any small or medium-sized businesses that might be interested in signing on.</p>
+        <p>Now we need you to help deliver the open letter directly to Congress:</p>
 
-        <p>Email or text the URL <a href="https://www.businessesfornetneutrality.com">https://www.businessesfornetneutrality.com</a> to everyone you know in the business community.</p>
+        <p>
+          <a class="btn btn-block" href="#events">Let's go!</a>
+        </p>
 
-        <p>If the business community can show Congress and FCC Chairman Ajit Pai that they are deeply concerned about the loss of net neutrality, we can win. But this only works if you help spread the word.</p>
-
-        <p>This is one of the best opportunities since the historic July 12th day of action to speak up for net neutrality. The letter will help send a clear message to decison-makers that small businesses cannot afford to lose these common sense protections, and put us in the strongest possible position to protect the open Internet going forward.</p>
+        <p>Sharing the open letter widely and helping a delivery and press conference happen will make a difference, and we’ll be here to help you every step of the way.</p>
       </div>
     </section>
 
