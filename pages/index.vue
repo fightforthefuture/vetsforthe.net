@@ -64,6 +64,7 @@
       <div class="logos">
         <img src="~/assets/images/logos/asbc.png" alt="The American Sustainable Business Council">
         <img src="~/assets/images/logos/engine.png" alt="Engine Advocacy">
+        <img src="~/assets/images/logos/etsy.svg" alt="Etsy" class="padded">
         <img src="~/assets/images/logos/fftf-dark.svg" alt="Fight for the Future">
         <img src="~/assets/images/logos/good-business-colorado.png" alt="Good Business Colorado">
         <img src="~/assets/images/logos/msa.png" alt="The Main Street Alliance">
