@@ -63,6 +63,7 @@
       <p>Thousands of businesses have signed the letter to support the CRA to save net neutrality.  Will your business join us?</p>
       <div class="logos">
         <img src="~/assets/images/logos/asbc.png" alt="The American Sustainable Business Council">
+        <img src="~/assets/images/logos/demand-progress.png" alt="Demand Progress">
         <img src="~/assets/images/logos/engine.png" alt="Engine Advocacy">
         <img src="~/assets/images/logos/etsy.svg" alt="Etsy" class="padded">
         <img src="~/assets/images/logos/fftf-dark.svg" alt="Fight for the Future">
