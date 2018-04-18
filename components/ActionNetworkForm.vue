@@ -53,6 +53,18 @@ export default {
     }
   },
 
+  computed: {
+    tags() {
+      const tags = ['bfnn', 'net-neutrality']
+
+      if (this.$route.query.source === 'dp') {
+        tags.push('bfnn-dp')
+      }
+
+      return tags
+    }
+  },
+
   methods: {
     ...mapMutations(['setHasSigned']),
 
@@ -72,7 +84,8 @@ export default {
             custom: {
               company: this.company,
               company_url: this.companyURL,
-            }
+            },
+            tags: this.tags
           }
         )
 
