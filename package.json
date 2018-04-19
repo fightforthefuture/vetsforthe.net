@@ -14,7 +14,8 @@
     "pregenerate": "npm run generate-businesses && npm run generate-pdfs",
     "generate-businesses": "node scripts/generate-businesses.js",
     "generate-pdfs": "node scripts/generate-pdfs.js",
-    "deploy": "aws s3 sync dist s3://www.businessesfornetneutrality.com --delete"
+    "deploy": "aws s3 sync dist s3://www.businessesfornetneutrality.com --delete",
+    "deploy-branch": "bash scripts/deploy-branch.sh"
   },
   "dependencies": {
     "nuxt": "^1.0.0"
