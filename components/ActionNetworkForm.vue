@@ -26,7 +26,7 @@
       </button>
     </div>
     <div class="disclaimer">
-      <a href="https://www.fightforthefuture.org">Fight for the Future</a> will email you updates, and you can unsubscribe at any time. If you enter your number (it's optional) we will follow up by SMS. Message &amp; data rates apply. You can always text STOP to stop receiving messages. <a href="https://www.fightforthefuture.org/privacy/">Privacy Policy</a>
+      <a href="https://www.fightforthefuture.org">Fight for the Future</a> and <a href="https://demandprogress.org">Demand Progress</a> will email you updates, and you can unsubscribe at any time. If you enter your number (it's optional) we will follow up by SMS. Message &amp; data rates apply. You can always text STOP to stop receiving messages. <a href="https://www.battleforthenet.com/privacy/">Privacy Policy</a>
     </div>
   </form>
 </template>
