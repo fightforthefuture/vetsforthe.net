@@ -69,6 +69,7 @@
         <img src="~/assets/images/logos/fftf-dark.svg" alt="Fight for the Future">
         <img src="~/assets/images/logos/good-business-colorado.png" alt="Good Business Colorado">
         <img src="~/assets/images/logos/msa.png" alt="The Main Street Alliance">
+        <img src="~/assets/images/logos/patreon.svg" alt="Patreon">
         <img src="~/assets/images/logos/small-business-majority.png" alt="Small Business Majority">
       </div>
 
@@ -169,7 +170,7 @@ export default {
     states: () => states,
     businesses: () => businesses,
     letterToCongress: () => simpleFormat(settings.letterToCongress),
-    
+
     eventsQueryString() {
       return stringify(Object.assign({
         source: 'businessesfornetneutrality'
