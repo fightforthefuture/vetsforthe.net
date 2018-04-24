@@ -57,8 +57,8 @@ export default {
     tags() {
       const tags = ['bfnn', 'net-neutrality']
 
-      if (this.$route.query.source === 'dp') {
-        tags.push('bfnn-dp')
+      if (this.$route.query.source) {
+        tags.push(`bfnn-${this.$route.query.source}`)
       }
 
       return tags
