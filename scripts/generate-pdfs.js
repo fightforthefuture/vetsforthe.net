@@ -84,7 +84,22 @@ function createPDF(selectedState) {
   doc.end()
 }
 
-for (let abbr of Object.keys(states)) {
-  createPDF({ name: states[abbr], abbr: abbr })
-  console.log(`Created ${abbr.toLowerCase()}.pdf`)
+if (process.argv[2]) {
+  const abbr = process.argv[2].toUpperCase()
+  const name = states[abbr]
+
+  if (name) {
+    createPDF({ name: name, abbr: abbr })
+    console.log(`Created ${abbr.toLowerCase()}.pdf`)
+  }
+  else {
+    return console.error(`Invalid state: ${abbr}`)
+  }
+}
+else {
+  for (let abbr of Object.keys(states)) {
+    console.log({ name: states[abbr], abbr: abbr })
+    createPDF({ name: states[abbr], abbr: abbr })
+    console.log(`Created ${abbr.toLowerCase()}.pdf`)
+  }
 }
