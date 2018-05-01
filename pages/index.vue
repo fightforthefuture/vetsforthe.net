@@ -206,6 +206,15 @@ export default {
     }
   },
 
+  mounted() {
+    if (window.location.hash) {
+      const el = document.querySelector(window.location.hash)
+      if (el) {
+        el.scrollIntoView()
+      }
+    }
+  },
+
   methods: {
     printLetter() {
       this.$ga.event('button', 'clicked', 'Print the Letter')
