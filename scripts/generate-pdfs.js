@@ -4,7 +4,7 @@ const path = require('path')
 const uniq = require('lodash/uniq')
 
 const settings = require(path.join(__dirname, '../config.json'))
-const businesses = require(path.join(__dirname, '../assets/data/businesses.json'))
+const businesses = require(path.join(__dirname, '../static/businesses.json'))
 const states = require(path.join(__dirname, '../assets/data/states.json'))
 
 // font styles

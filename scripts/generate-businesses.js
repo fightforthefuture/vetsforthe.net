@@ -2,10 +2,12 @@ const Promise = require('bluebird')
 const GoogleSpreadsheet = require('google-spreadsheet')
 const fs = require('fs')
 const path = require('path')
+const crypto = require('crypto')
 
 require('dotenv').config()
 
-const dataFile = path.resolve(__dirname, '../assets/data/businesses.json')
+const dataFile = path.resolve(__dirname, '../static/businesses.json')
+const configFile = path.resolve(__dirname, '../config.json')
 
 const googleCreds = {
   type: 'service_account',
@@ -20,6 +22,10 @@ const googleCreds = {
   client_x509_cert_url: "https://www.googleapis.com/robot/v1/metadata/x509/editor%40business-data-munger.iam.gserviceaccount.com"
 }
 
+function md5(str) {
+  return crypto.createHash('md5').update(str).digest("hex")
+}
+
 async function main() {
   const doc = new GoogleSpreadsheet(process.env.GOOGLE_SHEET_ID)
   const setAuth = Promise.promisify(doc.useServiceAccountAuth)
@@ -32,12 +38,13 @@ async function main() {
 
   const businesses = verifiedRows.map(row => {
     let zip = row.zipcode.trim()
-    
+
     if (zip.length === 4) {
       zip = `0${zip}`
     }
 
     return {
+      id: md5([row.company, row.city, row.state].join('')),
       name: row.company.trim(),
       city: row.city.trim(),
       state: row.state.trim(),
@@ -66,6 +73,11 @@ async function main() {
   })
 
   fs.writeFileSync(dataFile, JSON.stringify(sorted, null, 2))
+
+  // update config with new signature count
+  const config = require(configFile)
+  config.signatureCount = sorted.length
+  fs.writeFileSync(configFile, JSON.stringify(config, null, 2))
 }
 
 main().catch(console.error)

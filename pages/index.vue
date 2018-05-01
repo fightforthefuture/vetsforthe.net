@@ -73,10 +73,11 @@
         <img src="~/assets/images/logos/small-business-majority.png" alt="Small Business Majority">
       </div>
 
-      <a @click.prevent="businessListIsVisible = !businessListIsVisible" href="#" class="view-all"><span v-if="businessListIsVisible"><strong>-</strong> Hide</span><span v-else><strong>+</strong> View</span> all {{ businesses.length }} Businesses</a>
+      <a @click.prevent="toggleBusinessList()" href="#" class="view-all"><span v-if="businessListIsVisible"><strong>-</strong> Hide</span><span v-else><strong>+</strong> View</span> all {{ signatureCount }} Businesses</a>
       <div v-if="businessListIsVisible">
-        <ul>
-          <li v-for="biz in businesses" :key="biz.name">
+        <p v-if="isLoading"><i>Loading businesses...</i></p>
+        <ul v-else>
+          <li v-for="biz in businesses" :key="biz.id">
             {{ biz.name }}
             <small v-if="biz.city && biz.state">{{ biz.city }}, {{ biz.state }}</small>
           </li>
@@ -152,9 +153,9 @@ import FacebookButton from '~/components/FacebookButton'
 import TwitterButton from '~/components/TwitterButton'
 import LinkedInButton from '~/components/LinkedInButton'
 import states from '~/assets/data/states.json'
-import businesses from '~/assets/data/businesses.json'
 import { geocodeState, simpleFormat } from '~/assets/js/helpers.js'
 import settings from '~/config.json'
+import axios from 'axios'
 
 export default {
   components: {
@@ -168,7 +169,7 @@ export default {
   computed: {
     ...mapState(['hasSigned']),
     states: () => states,
-    businesses: () => businesses,
+    signatureCount: () => settings.signatureCount,
     letterToCongress: () => simpleFormat(settings.letterToCongress),
 
     eventsQueryString() {
@@ -189,7 +190,9 @@ export default {
   data() {
     return {
       selectedState: null,
-      businessListIsVisible: false
+      businessListIsVisible: false,
+      businesses: [],
+      isLoading: false
     }
   },
 
@@ -207,6 +210,21 @@ export default {
     printLetter() {
       this.$ga.event('button', 'clicked', 'Print the Letter')
       window.open(`/pdfs/${this.selectedState.toLowerCase()}.pdf`, '_blank')
+    },
+
+    toggleBusinessList() {
+      this.businessListIsVisible = !this.businessListIsVisible
+
+      if (this.businessListIsVisible && this.businesses.length === 0) {
+        this.fetchBusinesses()
+      }
+    },
+
+    async fetchBusinesses() {
+      this.isLoading = true
+      const { data } = await axios.get('/businesses.json')
+      this.businesses = data
+      this.isLoading = false
     }
   }
 }
