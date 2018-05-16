@@ -1,5 +1,12 @@
 [
   {
+    "id": "7838d53f07829dc99a51952a574d974f",
+    "name": "(Taiwan) Taipei Economic and Cultural Representative Office in the United States",
+    "city": "Washington",
+    "state": "DC",
+    "zip_code": "20016"
+  },
+  {
     "id": "312c438747037637eaa3294723c79764",
     "name": "1045 River House, LLC",
     "city": "Gardiner",
@@ -12,6 +19,13 @@
     "city": "New York",
     "state": "NY",
     "zip_code": "10003"
+  },
+  {
+    "id": "45b1134c8378bc6bff9824afc2b48f94",
+    "name": "120 Tinker St., LLC",
+    "city": "Woodstock",
+    "state": "NY",
+    "zip_code": "12498"
   },
   {
     "id": "d44ee3e43a365357a4c5b73a42e604ef",
@@ -47,6 +61,13 @@
     "city": "La Habra",
     "state": "CA",
     "zip_code": "90631"
+  },
+  {
+    "id": "9b147b97176d09d27aece8f8438a7094",
+    "name": "1st Line of Defense",
+    "city": "Russellville, MO",
+    "state": "MO",
+    "zip_code": "65074"
   },
   {
     "id": "31c62b8e7486badc2326a4c12731a26c",
@@ -110,6 +131,13 @@
     "city": "New York",
     "state": "NY",
     "zip_code": "10009"
+  },
+  {
+    "id": "d624a56457b3cd24bf903ca24ea4f840",
+    "name": "360APPOACH",
+    "city": "Houston",
+    "state": "TX",
+    "zip_code": "77004"
   },
   {
     "id": "785171e2717eaf7b74756a6cfa0b94e1",
@@ -231,6 +259,20 @@
     "zip_code": "78660"
   },
   {
+    "id": "93a713cecc36c9dd81a2be41d3432193",
+    "name": "A Bit Above, LLC",
+    "city": "Clearwater",
+    "state": "FL",
+    "zip_code": "33764"
+  },
+  {
+    "id": "9d5ec36e3e314bfbbc0be1bc1d82512c",
+    "name": "A Book Apart",
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10001"
+  },
+  {
     "id": "ba0187e4bf6a0a199ef59cfd428e69ab",
     "name": "A Bork Endeavors",
     "city": "IRVINE",
@@ -315,6 +357,13 @@
     "zip_code": "85257"
   },
   {
+    "id": "c4011c04f92cddb007dbba036dd2a6bd",
+    "name": "A-HA Creativity Training",
+    "city": "San Diego",
+    "state": "CA",
+    "zip_code": "92117"
+  },
+  {
     "id": "1d73582741b9851d5f6a9384402aba31",
     "name": "A-Z Masonry LLC",
     "city": "Cherryfield",
@@ -378,6 +427,13 @@
     "zip_code": "33458"
   },
   {
+    "id": "34d6868f52d963e5c54b3a544590a9cf",
+    "name": "AaronScottBell Landscaping",
+    "city": "san antonio",
+    "state": "TX",
+    "zip_code": ""
+  },
+  {
     "id": "63d6d59c9b48751887e2ed39d26485ed",
     "name": "Aase Sales",
     "city": "Galena",
@@ -406,8 +462,8 @@
     "zip_code": "97210"
   },
   {
-    "id": "bf54a4bff50b52ad6fb20cc2d03ff4ea",
-    "name": "Abbie Jones Consulying",
+    "id": "c2ecca7d173430dc597c9744377f970b",
+    "name": "Abbie Jones Consulting",
     "city": "Lexington",
     "state": "KY",
     "zip_code": "40502"
@@ -532,6 +588,13 @@
     "zip_code": "73070"
   },
   {
+    "id": "94060a1c8476f79c76958c30f1662e2c",
+    "name": "Academic Process Tutoring",
+    "city": "Norman",
+    "state": "OK",
+    "zip_code": ""
+  },
+  {
     "id": "06661d1c94df633b60c4aaeb11e7cc46",
     "name": "Accents Away",
     "city": "Sarasota",
@@ -565,6 +628,13 @@
     "city": "Santa Rosa",
     "state": "CA",
     "zip_code": "95402"
+  },
+  {
+    "id": "f9566980234e06bfbfb3c77e247787df",
+    "name": "Accurate Vision Clinic",
+    "city": "Anchorage",
+    "state": "AK",
+    "zip_code": "99508"
   },
   {
     "id": "d173933332912576c85f335e716405e7",
@@ -861,6 +931,13 @@
     "zip_code": "97113"
   },
   {
+    "id": "a10ac28b16b2ae89d66b17f50c3ea55b",
+    "name": "Advancing Movement",
+    "city": "Berkley",
+    "state": "MI",
+    "zip_code": "48072"
+  },
+  {
     "id": "48b31716ae6ff07d169038a19c5e67c4",
     "name": "advantage billing service",
     "city": "TINLEY PARK",
@@ -922,6 +999,13 @@
     "city": "Colorado Springs",
     "state": "CO",
     "zip_code": "80906"
+  },
+  {
+    "id": "607625de51f6f6d879812acd8a3a613d",
+    "name": "Aether Bird",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip_code": "11234"
   },
   {
     "id": "160996ecde0e828d80ed0a3cd0488d37",
@@ -1071,6 +1155,13 @@
     "zip_code": "92117"
   },
   {
+    "id": "3f3f995971f3c4869cbdfcab72259924",
+    "name": "Aharoni Business Law, PC",
+    "city": "Oakland",
+    "state": "CA",
+    "zip_code": "94607"
+  },
+  {
     "id": "5d833c150fb25bea9c016f57718ce9a4",
     "name": "Ahner Commercial",
     "city": "Port Clinton",
@@ -1176,6 +1267,13 @@
     "zip_code": "11372"
   },
   {
+    "id": "e048bbc51e5f7fe50a93624763a80ac9",
+    "name": "akinnovations",
+    "city": "santa monica",
+    "state": "CA",
+    "zip_code": "90405"
+  },
+  {
     "id": "a5b520485e0025f791e428e89f01a11b",
     "name": "Al Capone's Used Furniture,Inc.",
     "city": "hastings",
@@ -1265,6 +1363,13 @@
     "city": "New Orleans",
     "state": "LA",
     "zip_code": "70117"
+  },
+  {
+    "id": "437bb40a2d1f7249a0970aad3a7f6c71",
+    "name": "Alexa Smythe Illustration",
+    "city": "Smyrna",
+    "state": "DE",
+    "zip_code": "19977"
   },
   {
     "id": "e4d332886e90f7a2439e6860c9d4f9db",
@@ -1414,6 +1519,13 @@
     "zip_code": "85296"
   },
   {
+    "id": "c1c28739793a746d6a8927b8e94d1991",
+    "name": "Allegro Property Trading",
+    "city": "Cocoa",
+    "state": "FL",
+    "zip_code": "32922"
+  },
+  {
     "id": "48e9e27a6268b5b5fc74763f13406e6c",
     "name": "Allen's Kitchen & Bath",
     "city": "Saint Johnsbury",
@@ -1449,6 +1561,13 @@
     "zip_code": "07930"
   },
   {
+    "id": "8c866ab31fe3407c8ed1b277468208a0",
+    "name": "Alliance Spectrum Group, L.L.C.",
+    "city": "ANNA",
+    "state": "TX",
+    "zip_code": "76262"
+  },
+  {
     "id": "198975c01ed432e55ef61ee4257a82a5",
     "name": "Allie Salas Fitness",
     "city": "Reno",
@@ -1475,6 +1594,13 @@
     "city": "San Jose",
     "state": "CA",
     "zip_code": "95118"
+  },
+  {
+    "id": "57302bf9c44ae2dbb2abbeaa4103ea3f",
+    "name": "Aloevera Company USA",
+    "city": "Bellmead",
+    "state": "TX",
+    "zip_code": "11111"
   },
   {
     "id": "7dca781037e95f0d04080e5e764d3c64",
@@ -1519,6 +1645,13 @@
     "zip_code": "33068"
   },
   {
+    "id": "616e5a3063c4365ea2726dbc57b5c1d8",
+    "name": "Alpha Proteins LTD.",
+    "city": "Alva,FL",
+    "state": "FL",
+    "zip_code": ""
+  },
+  {
     "id": "45a818cc72eaa31e33aae2bb91756d28",
     "name": "Alpine Property Management",
     "city": "Longmont",
@@ -1538,6 +1671,13 @@
     "city": "Bel Air",
     "state": "MD",
     "zip_code": "21014"
+  },
+  {
+    "id": "d3804f111566cd3f422eb180fd4fd546",
+    "name": "Alt Systems, Inc.",
+    "city": "BUFFALO",
+    "state": "NY",
+    "zip_code": "14226"
   },
   {
     "id": "7e83d672ab95f7f70409ffa1131f32b4",
@@ -1610,6 +1750,13 @@
     "zip_code": "92025"
   },
   {
+    "id": "b90e1a5cc23fc1fa4775d6e99b8589e4",
+    "name": "Always Ready For Every Rover",
+    "city": "Haddonfield",
+    "state": "NJ",
+    "zip_code": "08033"
+  },
+  {
     "id": "916e395ddb2a353e3b9431d36a83ad14",
     "name": "Alycat Photo & Video Services",
     "city": "DURHAM",
@@ -1629,6 +1776,13 @@
     "city": "NEW HOPE",
     "state": "PA",
     "zip_code": "18938"
+  },
+  {
+    "id": "a82bba227469c6f935fbbe17b8d808f9",
+    "name": "Amanda Mathson Photography",
+    "city": "Fairfax",
+    "state": "CA",
+    "zip_code": "94930"
   },
   {
     "id": "3504c389e944d1b6e5abd952ea55971f",
@@ -1659,6 +1813,13 @@
     "zip_code": "96734"
   },
   {
+    "id": "3adcee6da1d41d5916b20bc8168f626c",
+    "name": "Amazing Stories",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip_code": ""
+  },
+  {
     "id": "8ec513cb80dec9db2cdac97eac80b728",
     "name": "Amber Nest Design",
     "city": "Bellmead",
@@ -1685,6 +1846,13 @@
     "city": "East Corinth",
     "state": "VT",
     "zip_code": "05040"
+  },
+  {
+    "id": "3efac5344b624c9565197a8d833a1c76",
+    "name": "Amcrete Products, Inc.",
+    "city": "New Windsor",
+    "state": "NY",
+    "zip_code": ""
   },
   {
     "id": "0ef42886137ed7d6ade6b587e20c6269",
@@ -1778,6 +1946,13 @@
     "zip_code": "21703-5830"
   },
   {
+    "id": "564a066e63f4e5f2982c750a3b76aa5f",
+    "name": "America’s Real Estate Properties",
+    "city": "San Tan Valley",
+    "state": "AZ",
+    "zip_code": ""
+  },
+  {
     "id": "7dfb96793e2085c313f3198e1eba6925",
     "name": "AMORC",
     "city": "Baltimore",
@@ -1862,6 +2037,13 @@
     "zip_code": "84084"
   },
   {
+    "id": "b4faad98e20780270359d0cf3f67e95f",
+    "name": "Anathema Studio",
+    "city": "Collingswood",
+    "state": "NJ",
+    "zip_code": "08107"
+  },
+  {
     "id": "51d70b565e77637697a33542c1226084",
     "name": "Ancient Coins for Education, Inc.",
     "city": "Chicopee",
@@ -1916,6 +2098,13 @@
     "city": "Columbus",
     "state": "OH",
     "zip_code": "43202"
+  },
+  {
+    "id": "b3276e2985bb201d2799c858ded40352",
+    "name": "Andrea Byers",
+    "city": "Oakland",
+    "state": "CA",
+    "zip_code": "946062559"
   },
   {
     "id": "4ab4668aa3e05e5b16b0b052e9d4c340",
@@ -2058,6 +2247,13 @@
     "zip_code": "53508"
   },
   {
+    "id": "0d5beb4548ba97bde97bca1d5d4dabd5",
+    "name": "Anita C Hill, Realtor",
+    "city": "Saint Paul",
+    "state": "MN",
+    "zip_code": ""
+  },
+  {
     "id": "8451fcca9130a34e81d10293a288d139",
     "name": "Anjevine Ltd. Custom jewelry",
     "city": "Denver",
@@ -2100,6 +2296,13 @@
     "zip_code": "49621"
   },
   {
+    "id": "c7c326dcc211f850f567699282ef4cfd",
+    "name": "Annteeke",
+    "city": "Owasso",
+    "state": "OK",
+    "zip_code": "74055"
+  },
+  {
     "id": "817bca047418d67883a0a60e88632701",
     "name": "Annuity Ally",
     "city": "San Diego",
@@ -2119,6 +2322,13 @@
     "city": "Riverside",
     "state": "IA",
     "zip_code": "52327"
+  },
+  {
+    "id": "54da9290621ae49df89fd32377c46215",
+    "name": "Ansmoon",
+    "city": "Myrtle Beach",
+    "state": "SC",
+    "zip_code": "29577"
   },
   {
     "id": "85998e9f89aba94b0921846f063c94a2",
@@ -2175,6 +2385,13 @@
     "city": "Cambridge",
     "state": "MA",
     "zip_code": "02139"
+  },
+  {
+    "id": "fb7615ba61c6c6d469523b7b48a62302",
+    "name": "Anya Overmann LLC",
+    "city": "Saint Louis",
+    "state": "MO",
+    "zip_code": "63122"
   },
   {
     "id": "64e0cccc6beb73ec5e6228325db3c3f9",
@@ -2287,6 +2504,13 @@
     "city": "Columbus",
     "state": "OH",
     "zip_code": "43085"
+  },
+  {
+    "id": "b23b36ba295d83808cd0db2a53534722",
+    "name": "ARA Consulting",
+    "city": "n collins",
+    "state": "NY",
+    "zip_code": ""
   },
   {
     "id": "d86047deebc0a2c166a803b87bdcd8ea",
@@ -2485,18 +2709,18 @@
     "zip_code": "52245"
   },
   {
-    "id": "be175c38b3444cf07bfd365bb181b1cd",
-    "name": "Armoire Boutique",
-    "city": "New Orleans",
-    "state": "LA",
-    "zip_code": "70115"
-  },
-  {
     "id": "73c80cb550282960acdcdeae5fefdc0c",
     "name": "Armoire Boutique",
     "city": "Metairie",
     "state": "LA",
     "zip_code": "70001"
+  },
+  {
+    "id": "be175c38b3444cf07bfd365bb181b1cd",
+    "name": "Armoire Boutique",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip_code": "70115"
   },
   {
     "id": "3f08036277802b26817839b7e1037243",
@@ -2597,6 +2821,13 @@
     "zip_code": "33437"
   },
   {
+    "id": "5442efcacbfc185c28f7f99278fbd911",
+    "name": "ART SLIDESHOWS",
+    "city": "Jersey City",
+    "state": "NJ",
+    "zip_code": "07304"
+  },
+  {
     "id": "f9bde5d9123ff428df089ca563ea59ad",
     "name": "Art Tannahill Ins",
     "city": "Derby",
@@ -2651,6 +2882,13 @@
     "city": "Lincoln",
     "state": "NE",
     "zip_code": "68516"
+  },
+  {
+    "id": "bc7919e480fb1ace76822cc60abdfc0e",
+    "name": "Arthroventions, LLC",
+    "city": "Denver",
+    "state": "CO",
+    "zip_code": "80204"
   },
   {
     "id": "3b4bb8b251dcf2e71f560d8ffb4b184d",
@@ -2765,6 +3003,13 @@
     "zip_code": "94043"
   },
   {
+    "id": "a0b3e4d6bf9c7bef8b8a661bb56fb74a",
+    "name": "Asgard Heavy Industries",
+    "city": "Ozark",
+    "state": "MO",
+    "zip_code": "65721"
+  },
+  {
     "id": "bf762c74ec01d2c121ffdc752464414a",
     "name": "Ashe Art",
     "city": "Conneaut",
@@ -2821,6 +3066,13 @@
     "zip_code": "90046"
   },
   {
+    "id": "860b85fb3e92ddc9ec41ff96a0f43808",
+    "name": "Ask Cann",
+    "city": "saint louis",
+    "state": "MO",
+    "zip_code": ""
+  },
+  {
     "id": "5774278f8be450682ad18ab9513f68d0",
     "name": "Aspen Scientific Design, Inc.",
     "city": "Nashua",
@@ -2847,6 +3099,13 @@
     "city": "Walled Lake",
     "state": "MI",
     "zip_code": "48390"
+  },
+  {
+    "id": "161e6410659705632a419d6a9c7e6e65",
+    "name": "Astral Secrets",
+    "city": "Agency",
+    "state": "MO",
+    "zip_code": "64401"
   },
   {
     "id": "fdc8e8603deeb25a33178bf8bd09caf1",
@@ -2933,6 +3192,13 @@
     "zip_code": "30316"
   },
   {
+    "id": "64bc14c8a5dc69c6cb85bd20b4d91f98",
+    "name": "Atlantic Computer Group, Inc.",
+    "city": "Plainview",
+    "state": "NY",
+    "zip_code": "11803"
+  },
+  {
     "id": "2c62287323f441eb511a7f61d41ee07c",
     "name": "Atlantic Institute, Inc.",
     "city": "Vero Beach",
@@ -3008,6 +3274,13 @@
     "city": "Goodlettsville",
     "state": "TN",
     "zip_code": "37072"
+  },
+  {
+    "id": "49d4e4a10e6ff502b7efe7d7d932c670",
+    "name": "Audrey Tessar LMT LLC",
+    "city": "Columbus",
+    "state": "OH",
+    "zip_code": "43212"
   },
   {
     "id": "00956c1901a0ffb6c13c0e7567fb0242",
@@ -3099,6 +3372,20 @@
     "city": "Stillwater",
     "state": "MN",
     "zip_code": "55082"
+  },
+  {
+    "id": "fe1ce288b8a9ab0bd085d576a0027db2",
+    "name": "Awake, Powerful & Free LLC",
+    "city": "Seattle",
+    "state": "WA",
+    "zip_code": "98177"
+  },
+  {
+    "id": "aca7afa5b72268cd4204034600d9e3cf",
+    "name": "Awards Service Inc.",
+    "city": "Mukilteo",
+    "state": "WA",
+    "zip_code": ""
   },
   {
     "id": "c8a38cfbf3e305afb66dbe8e7cfc05b4",
@@ -3304,11 +3591,32 @@
     "zip_code": "96778"
   },
   {
+    "id": "9455a64a114ee755ca46e5e2ba74be50",
+    "name": "Bamboo Sourcery Nursery & Gardens",
+    "city": "Sebastopol",
+    "state": "CA",
+    "zip_code": "95472"
+  },
+  {
     "id": "40c7a139838de68d5ead6fdd85c98e9b",
     "name": "BanditBoutique",
     "city": "Bellmead",
     "state": "TX",
     "zip_code": "91830"
+  },
+  {
+    "id": "be72018ae1d25fe4d3eeef2f764354bd",
+    "name": "Banyan Project Inc.",
+    "city": "Newburyport",
+    "state": "MA",
+    "zip_code": "01950"
+  },
+  {
+    "id": "eded41994748516af91d1c1ed68d47df",
+    "name": "Bar-w-Ford",
+    "city": "Tulia",
+    "state": "TX",
+    "zip_code": "79088"
   },
   {
     "id": "11812077f1d5e304371892fb9805b777",
@@ -3353,11 +3661,25 @@
     "zip_code": "96708"
   },
   {
+    "id": "32ff90dfde8f123cc97785ee1b92b2bf",
+    "name": "Bargain Upholstery",
+    "city": "Saint Paul",
+    "state": "MN",
+    "zip_code": ""
+  },
+  {
     "id": "3bddabae650d9ea9a1a36772e3ec5fac",
     "name": "Barlow & Prepfire",
     "city": "Madison",
     "state": "WI",
     "zip_code": "53703"
+  },
+  {
+    "id": "d3f248829a48f8c84612a76af3569d77",
+    "name": "Barn Productions, LLC",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip_code": "90029"
   },
   {
     "id": "023c842d121cd626b6519e1d9533b2b8",
@@ -3570,6 +3892,13 @@
     "zip_code": "34287"
   },
   {
+    "id": "f03d8e0871dc6c2b23510804a4c9624a",
+    "name": "Beadles of Colorado",
+    "city": "Aurora",
+    "state": "CO",
+    "zip_code": ""
+  },
+  {
     "id": "582bce2ff163b1a825a10f39e7474e16",
     "name": "Bean's Heating and Cooling",
     "city": "Nashville",
@@ -3603,6 +3932,13 @@
     "city": "Rotterdam Town of",
     "state": "NY",
     "zip_code": "12303"
+  },
+  {
+    "id": "b85e1b96d45b5c709c7a996eab469f9a",
+    "name": "Bear Lake Getaway LLC",
+    "city": "New London",
+    "state": "WI",
+    "zip_code": ""
   },
   {
     "id": "7cce9d4a9c8132d7cb39fe9c0d235c5d",
@@ -3801,11 +4137,25 @@
     "zip_code": "98117"
   },
   {
+    "id": "c06ba037d80e7a98cacff4a5c2c89afc",
+    "name": "Ben Russell  carpentry",
+    "city": "Hart",
+    "state": "MI",
+    "zip_code": "49420"
+  },
+  {
     "id": "963f6ca28264496bfaf1d9b70d44468c",
     "name": "Ben Russell Construction",
     "city": "Hart",
     "state": "MI",
     "zip_code": "49420"
+  },
+  {
+    "id": "40e4774270d9c2552e629f31de97055b",
+    "name": "Benedev",
+    "city": "Portland",
+    "state": "OR",
+    "zip_code": "97201"
   },
   {
     "id": "a5d3e81aedb467ccb2812ceaafdc9a9a",
@@ -3864,6 +4214,13 @@
     "zip_code": "55124"
   },
   {
+    "id": "4d366d2fd01dd1f0a11457eb30a26896",
+    "name": "bernal cutlery",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip_code": "94110"
+  },
+  {
     "id": "de174bfa2d99de7b5b3d4750fc58e452",
     "name": "Bert's Vintage N Collectible Goodies",
     "city": "College Park",
@@ -3890,6 +4247,13 @@
     "city": "Bellevue",
     "state": "KY",
     "zip_code": "41073"
+  },
+  {
+    "id": "7a87c4f4ffd464bf31f272091a2fa0c1",
+    "name": "Best Choice Ice, LLC",
+    "city": "Huntington",
+    "state": "WV",
+    "zip_code": ""
   },
   {
     "id": "631d300bf9f52940128f8a2f03b32fa8",
@@ -3941,11 +4305,25 @@
     "zip_code": "44266"
   },
   {
+    "id": "7104f6b6b2cf1acaafda7c609c552abe",
+    "name": "Better Hearing Care, Inc",
+    "city": "Ravenna",
+    "state": "OH",
+    "zip_code": ""
+  },
+  {
     "id": "fc56cd03b4f6f62faa6dd4cc7273acfb",
     "name": "Better Hearing Care, Inc.",
     "city": "Ravenna",
     "state": "OH",
     "zip_code": "44266"
+  },
+  {
+    "id": "613d99a93ad5b17a73892a8ec48892bd",
+    "name": "Better Homes and Garden Realty Advantage",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip_code": "96815"
   },
   {
     "id": "d482e105590a998eb0460acd6a631c12",
@@ -4004,11 +4382,25 @@
     "zip_code": "55040"
   },
   {
+    "id": "39f5f0fd0df9ccd584d34b92ef5657a7",
+    "name": "Beyond Envisioning LLC",
+    "city": "Las Cruces",
+    "state": "NM",
+    "zip_code": ""
+  },
+  {
     "id": "5a5e1cfe4170037bf88c8a3366e21ea9",
     "name": "Beyond Properties Realty",
     "city": "Oak Park",
     "state": "IL",
     "zip_code": "60301"
+  },
+  {
+    "id": "50a151692700a9f45ac2a79b45ddc96c",
+    "name": "Beyond Wood",
+    "city": "Hailey",
+    "state": "ID",
+    "zip_code": ""
   },
   {
     "id": "9dedd2956e16ff44338ff22b5cc5b429",
@@ -4081,6 +4473,27 @@
     "zip_code": "96011"
   },
   {
+    "id": "63882a8457c29435662cd812e3d391fe",
+    "name": "Big Cartel",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip_code": "84101"
+  },
+  {
+    "id": "63bd8020747551c26b17412a1b2c263c",
+    "name": "Big Dog Internet",
+    "city": "Ponce",
+    "state": "PR",
+    "zip_code": "00717"
+  },
+  {
+    "id": "8343a4bd3b6409e8b63de5dcf4a0398f",
+    "name": "Big Easy Sailing",
+    "city": "Round Rock",
+    "state": "TX",
+    "zip_code": "78664"
+  },
+  {
     "id": "4f8cf7368db95fea1d5f0aa6ac408bdc",
     "name": "Big Ed’s alley inn",
     "city": "Reno",
@@ -4102,11 +4515,32 @@
     "zip_code": "85711"
   },
   {
+    "id": "a582ecc1698c062c8fef5974bebd38e0",
+    "name": "BIG HUE LLC",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip_code": "90035"
+  },
+  {
     "id": "d45296acba0f06d88703b6537bf3c1f4",
     "name": "Big Peach Running Co.",
     "city": "Marietta",
     "state": "GA",
     "zip_code": "30068"
+  },
+  {
+    "id": "4960aa01a42a44b5cfe43139000b5374",
+    "name": "Big Planet Comics",
+    "city": "Washington",
+    "state": "DC",
+    "zip_code": "20009"
+  },
+  {
+    "id": "2d224034ac71a54909f11713f8f8e525",
+    "name": "Big Red Running LLC, dba Runners Roost",
+    "city": "Denver",
+    "state": "CO",
+    "zip_code": "80222"
   },
   {
     "id": "897f6c8136fd4da90b3768eae904575d",
@@ -4135,6 +4569,13 @@
     "city": "SACRAMENTO",
     "state": "CA",
     "zip_code": "95822"
+  },
+  {
+    "id": "70fca8f5b742c076aac986bfacaa31f8",
+    "name": "BigHit",
+    "city": "Cambridge",
+    "state": "MA",
+    "zip_code": "02138"
   },
   {
     "id": "e9ca6ca12c32eabe8c41348e4be9af80",
@@ -4263,6 +4704,13 @@
     "zip_code": "90804"
   },
   {
+    "id": "b6bad627b3d07224503bab4e02712804",
+    "name": "BizKiss LLC",
+    "city": "Walnut",
+    "state": "CA",
+    "zip_code": "91789"
+  },
+  {
     "id": "59e35404f54d5a510a9884cfc9c087ee",
     "name": "BJLBA",
     "city": "Bloomington",
@@ -4289,6 +4737,13 @@
     "city": "Emeryville",
     "state": "CA",
     "zip_code": "94608"
+  },
+  {
+    "id": "12e278a3b3c2afb6943c431357c2ea66",
+    "name": "Black Forest Photography",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip_code": "80918"
   },
   {
     "id": "13d2ebdaf29e3cb17c74c81573819897",
@@ -4352,6 +4807,13 @@
     "city": "Dyke",
     "state": "VA",
     "zip_code": "22935-1111"
+  },
+  {
+    "id": "b061340de89bed1e6dc7d76ec72a682c",
+    "name": "Bliss Point Farm and B&B, LLC",
+    "city": "Dyke",
+    "state": "VA",
+    "zip_code": ""
   },
   {
     "id": "47301d32268b6fa43fbe17ce0855fa8c",
@@ -4438,6 +4900,13 @@
     "zip_code": "799852"
   },
   {
+    "id": "d302467795b600d9912a036baedd04a9",
+    "name": "Blossoms and Roots Wellness",
+    "city": "Lancaster",
+    "state": "PA",
+    "zip_code": "17602"
+  },
+  {
     "id": "8711f30fb1ee79aef847c1157c49b6ba",
     "name": "Blue Advertising",
     "city": "Charlotte",
@@ -4485,6 +4954,13 @@
     "city": "Missoula",
     "state": "MT",
     "zip_code": "59804"
+  },
+  {
+    "id": "fd51eec6b09c73b94f7c1092fc5144ed",
+    "name": "Blue Fission LLC",
+    "city": "Wilmington",
+    "state": "NC",
+    "zip_code": "28405"
   },
   {
     "id": "501e2907c52a46502b0cad5fa99815da",
@@ -4599,6 +5075,13 @@
     "zip_code": "30338"
   },
   {
+    "id": "bece0f697ff10f444702cd8666aec14d",
+    "name": "Bluespark Photography",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip_code": "11216"
+  },
+  {
     "id": "1d407dd50ed9ed7eef1b889afddbdc34",
     "name": "Bluestem Studio, LLC",
     "city": "Lafayette",
@@ -4606,11 +5089,25 @@
     "zip_code": "80026"
   },
   {
+    "id": "95b6214ebe8c583c289f0eeb42e6f5cc",
+    "name": "Bmr.Graphics",
+    "city": "Quitman",
+    "state": "TX",
+    "zip_code": "75783"
+  },
+  {
     "id": "f95546da23403a79b7054841c67bf2b3",
     "name": "BMU Labs",
     "city": "manhattan",
     "state": "NY",
     "zip_code": "12585"
+  },
+  {
+    "id": "10ceedf51558dec4e272ca7bd0ff26c6",
+    "name": "BNI Riverside and San Bernardino Cos.",
+    "city": "Riverside",
+    "state": "CA",
+    "zip_code": "92509"
   },
   {
     "id": "249d9ce1cefe93148c4e78c346aa5e65",
@@ -4711,6 +5208,13 @@
     "zip_code": "47401"
   },
   {
+    "id": "cec8433cd26e1d47722a33a38831a77b",
+    "name": "Body Wisdom",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip_code": ""
+  },
+  {
     "id": "dd792597ca59653d71522965180641f7",
     "name": "Body Wisdom Therapeutic Massage",
     "city": "Albuquerque",
@@ -4809,6 +5313,13 @@
     "zip_code": "53583"
   },
   {
+    "id": "52e102b9600da2e59cecb5b7fcc9df59",
+    "name": "Bonnie Slotnick Cookbooks",
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10003"
+  },
+  {
     "id": "ac60033a31062dcdf61f5069b04866ea",
     "name": "bonnieanderson.com",
     "city": "Brooklyn",
@@ -4842,6 +5353,13 @@
     "city": "Eugene",
     "state": "OR",
     "zip_code": "97401-4261"
+  },
+  {
+    "id": "6756c849552792864080f250735fefd9",
+    "name": "bookkeeping services",
+    "city": "dedham",
+    "state": "MA",
+    "zip_code": ""
   },
   {
     "id": "0c01a48f502a0e7fe7c43c2249955e11",
@@ -4942,6 +5460,13 @@
     "zip_code": "07302"
   },
   {
+    "id": "996479c8032dd3b3cecbd396d1e598c3",
+    "name": "Bowling Green Photo Booth",
+    "city": "Bowling Green",
+    "state": "KY",
+    "zip_code": "42101"
+  },
+  {
     "id": "06daecad6a63a04c1d6f0cdb328525b5",
     "name": "Box Paper Scissor",
     "city": "New Orleans",
@@ -5026,6 +5551,13 @@
     "zip_code": "48879"
   },
   {
+    "id": "2d1a9da82fa10fe6f92f89bd563facec",
+    "name": "Brattleboro Retreat",
+    "city": "Brattleboro",
+    "state": "VT",
+    "zip_code": "05302"
+  },
+  {
     "id": "0e58a8894dfa765a1b000e7edb7c34aa",
     "name": "Brazos IT Services",
     "city": "Zavalla",
@@ -5052,6 +5584,13 @@
     "city": "Linn",
     "state": "PR",
     "zip_code": "945"
+  },
+  {
+    "id": "c502829ad6cb2a8d2705edf02ea8fdc8",
+    "name": "Brechan Administrative Assistance",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip_code": ""
   },
   {
     "id": "0efa9ffbf6ce96f54830df49eb63cf49",
@@ -5094,6 +5633,13 @@
     "city": "SAN DIEGO",
     "state": "CA",
     "zip_code": "92102"
+  },
+  {
+    "id": "4b6f64f38cb40f9b99010723082a6741",
+    "name": "Brian D. Westrom, Attorney at Law",
+    "city": "Chapel Hill",
+    "state": "NC",
+    "zip_code": "27517"
   },
   {
     "id": "80d35d3adfcf4a008a8ffea03938d319",
@@ -5185,6 +5731,13 @@
     "city": "Box Elder",
     "state": "SD",
     "zip_code": "57719"
+  },
+  {
+    "id": "36fc373662eac7fca676f3087a32924c",
+    "name": "British Embassy Washington",
+    "city": "Washington",
+    "state": "DC",
+    "zip_code": "20008"
   },
   {
     "id": "cbd9256b6b5e7d59f1fce8cac9dfd37a",
@@ -5502,6 +6055,13 @@
     "zip_code": "14024"
   },
   {
+    "id": "d9766178268bb0002c57bf9bba1ce4a3",
+    "name": "Buxton Services Roofing & Home Inprovement",
+    "city": "Wilton",
+    "state": "CT",
+    "zip_code": ""
+  },
+  {
     "id": "535b5edf8f4bce8ef05ad189b5faf81e",
     "name": "Buy Gold and Silver Safely",
     "city": "San Diego",
@@ -5528,6 +6088,13 @@
     "city": "La Vergne",
     "state": "TN",
     "zip_code": "37086"
+  },
+  {
+    "id": "7343ea74214815aa5b1dc9ba1d60c3a6",
+    "name": "Byjilly",
+    "city": "Apalachicola",
+    "state": "FL",
+    "zip_code": "32320"
   },
   {
     "id": "ce561cb68ae84e08e8de479e5b04e4da",
@@ -5600,6 +6167,20 @@
     "zip_code": "91342"
   },
   {
+    "id": "8b1c3d27eb40fc06809e707e81151d32",
+    "name": "C. Wolfe Software Engineering & Pony Named Bill Tack Shop",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip_code": ""
+  },
+  {
+    "id": "89cd72f7cb10afc885f5883cf7facb6c",
+    "name": "C.F. Communications",
+    "city": "Farmington",
+    "state": "NY",
+    "zip_code": ""
+  },
+  {
     "id": "f4f0e9e4b8b87db9b7ad06eb94abfe41",
     "name": "C.I. Britten",
     "city": "Woodinville",
@@ -5647,6 +6228,13 @@
     "city": "Fairfield",
     "state": "IA",
     "zip_code": "52556"
+  },
+  {
+    "id": "dae9d30b9e8f2063dd57365a43904339",
+    "name": "Cafe Roka",
+    "city": "Bisbee",
+    "state": "AZ",
+    "zip_code": "85603"
   },
   {
     "id": "b09f3c6e09bb710385699c2154d45382",
@@ -5726,6 +6314,13 @@
     "zip_code": "93010"
   },
   {
+    "id": "19aab78490c5f69a9597a531bfc12666",
+    "name": "Camarillo Technology Associates",
+    "city": "Reno",
+    "state": "NV",
+    "zip_code": "89519"
+  },
+  {
     "id": "0a27d168aa8188770f44adb3ba2be13a",
     "name": "Cambridge Technical Services",
     "city": "CAMBRIDGE",
@@ -5794,6 +6389,13 @@
     "city": "",
     "state": "",
     "zip_code": "W8 7ER"
+  },
+  {
+    "id": "903fd5b89ead49f911bb8ed93f334467",
+    "name": "CANVAS News, Inc.",
+    "city": "Bloomingburg",
+    "state": "NY",
+    "zip_code": ""
   },
   {
     "id": "2094773d42153dc7c70e64de265516b8",
@@ -6062,6 +6664,13 @@
     "zip_code": "92649"
   },
   {
+    "id": "fdbf4c77bcfdd9adab43dc19c2321496",
+    "name": "CASCADE HOMES CUSTOM CNSTR LLC",
+    "city": "Olympia",
+    "state": "WA",
+    "zip_code": "98502"
+  },
+  {
     "id": "f9b96c01a17e93491d94f50f6294a04f",
     "name": "Cascadia Stoneware USA, Inc.",
     "city": "Mount Vernon",
@@ -6088,6 +6697,13 @@
     "city": "Hollywood",
     "state": "FL",
     "zip_code": "33023"
+  },
+  {
+    "id": "c3cee9d59fc3477fe51fc6b90ead941e",
+    "name": "Cassidy Language Consulting",
+    "city": "Corvallis",
+    "state": "OR",
+    "zip_code": ""
   },
   {
     "id": "0f4a10a27d336ebd6a207dc81f2a01d2",
@@ -6167,6 +6783,13 @@
     "zip_code": "11372"
   },
   {
+    "id": "b5217e5771b4d2e46aa3630c1de3f863",
+    "name": "Catapult Consulting",
+    "city": "Anchorage",
+    "state": "AK",
+    "zip_code": ""
+  },
+  {
     "id": "ae08b6a293b75d5b985650b7688689bb",
     "name": "Catherine Armer",
     "city": "Dorchester",
@@ -6216,6 +6839,13 @@
     "zip_code": "05733"
   },
   {
+    "id": "523909e6d93d3077a2827746ad745526",
+    "name": "Cattywampus Vintage",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip_code": ""
+  },
+  {
     "id": "a05904853520ee14c18618ce54241f45",
     "name": "CaucusCare",
     "city": "Ann Arbor",
@@ -6256,6 +6886,13 @@
     "city": "North Little Rock",
     "state": "AR",
     "zip_code": "72117"
+  },
+  {
+    "id": "801cc237e4659b9704f7ba4412eb2700",
+    "name": "CC Events",
+    "city": "Newport Beach",
+    "state": "CA",
+    "zip_code": "92663"
   },
   {
     "id": "3eede2e5191a0226abbac96ad10bb131",
@@ -6391,6 +7028,13 @@
     "zip_code": "32701"
   },
   {
+    "id": "e2b8346677d732260c9d0fca00644ce8",
+    "name": "Ceremonies and Celebrations",
+    "city": "Oakland",
+    "state": "CA",
+    "zip_code": ""
+  },
+  {
     "id": "270bf8d67ddfff8eed63af02ff7079a1",
     "name": "Ceremoonies of Heart",
     "city": "Wilton",
@@ -6496,6 +7140,13 @@
     "zip_code": "87501"
   },
   {
+    "id": "d68f034c419975bdf75a60426ce62c9e",
+    "name": "Chaney Plumbing Heating and A/C",
+    "city": "Garber",
+    "state": "OK",
+    "zip_code": "73738"
+  },
+  {
     "id": "94b64fd018f4c33eda6e64d958a888ba",
     "name": "Change.org",
     "city": "San Francisco",
@@ -6543,6 +7194,13 @@
     "city": "Winona",
     "state": "MN",
     "zip_code": "55987"
+  },
+  {
+    "id": "2bd61aae67da89dc6b040c830ecc3cd8",
+    "name": "Chapters Books and Coffee",
+    "city": "newberg",
+    "state": "OR",
+    "zip_code": ""
   },
   {
     "id": "8eda884495bf5a4997bdbcae0cd56646",
@@ -6643,6 +7301,13 @@
     "zip_code": "11217"
   },
   {
+    "id": "7dac7990917a18e11b2f3df28ed07a7d",
+    "name": "Cherish Ireland Graphic Design",
+    "city": "Etobicoke",
+    "state": "TX",
+    "zip_code": "M8W 4Y3"
+  },
+  {
     "id": "4efcaeb6990ac8c41ba57521b5f5db7a",
     "name": "Cheryl Elkins Jewelry",
     "city": "San Diego",
@@ -6664,6 +7329,13 @@
     "zip_code": "01464"
   },
   {
+    "id": "60465bb27d80979313952f5cb8942c9e",
+    "name": "Chicago Digital",
+    "city": "forest park",
+    "state": "IL",
+    "zip_code": ""
+  },
+  {
     "id": "3fa6669c09287d341cbfa72246269215",
     "name": "Chief Screen Printing, LLC",
     "city": "Kettering",
@@ -6683,6 +7355,13 @@
     "city": "Miranda",
     "state": "CA",
     "zip_code": "95553-0511"
+  },
+  {
+    "id": "2cdf7f84662092c7eab1b46733e6f16c",
+    "name": "ChiLiving",
+    "city": "Asheville",
+    "state": "NC",
+    "zip_code": ""
   },
   {
     "id": "5917d551d8aca7702b8fa546e8ceeb13",
@@ -6804,6 +7483,13 @@
     "zip_code": "95465"
   },
   {
+    "id": "584fdf2bc938dfc2572aba1736ec204a",
+    "name": "Christy Marie photography and design",
+    "city": "Tampa",
+    "state": "FL",
+    "zip_code": "33605"
+  },
+  {
     "id": "d88e4128d760e498840a9baafe2df782",
     "name": "Chuckling Cherubs Spiritual Ministry",
     "city": "Yachats",
@@ -6867,6 +7553,13 @@
     "zip_code": "37921"
   },
   {
+    "id": "e4e5211c0cf8c03bb79280f5ee54d2cf",
+    "name": "CinematicCritic Movies Reviews",
+    "city": "Portsmouth Town of",
+    "state": "RI",
+    "zip_code": "02871"
+  },
+  {
     "id": "a2f13c094c32d4c3a340d598a789ea36",
     "name": "Circuit Acupuncture",
     "city": "MN",
@@ -6921,6 +7614,13 @@
     "city": "Waterport",
     "state": "NY",
     "zip_code": "14571"
+  },
+  {
+    "id": "521ea1faabbd94297c0f8ebff85f89ba",
+    "name": "CJAM Enterprises, L.L.C.",
+    "city": "Kihei",
+    "state": "HI",
+    "zip_code": ""
   },
   {
     "id": "81ca50d3845a5c79aae6f3139c24ec0f",
@@ -7035,6 +7735,13 @@
     "zip_code": "78219"
   },
   {
+    "id": "26d54a380ab62579710322c81901d9f5",
+    "name": "Clayton Consulting, Inc.",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip_code": "30327"
+  },
+  {
     "id": "f5e70aa223d1c1cf16937bf30232bdf4",
     "name": "CleanBreezes",
     "city": "Coldwater",
@@ -7047,6 +7754,13 @@
     "city": "Portland",
     "state": "TN",
     "zip_code": "37148"
+  },
+  {
+    "id": "a03778b7493703aa00d87049276dc78b",
+    "name": "Clear Sky Institute, Inc",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip_code": "85743"
   },
   {
     "id": "658112fcae9701c339a75c1244ef9a31",
@@ -7133,6 +7847,13 @@
     "zip_code": "49341"
   },
   {
+    "id": "6f70924b401b90e38d563fae41083d2b",
+    "name": "Closing The Loop, LLC",
+    "city": "San Diego",
+    "state": "CA",
+    "zip_code": ""
+  },
+  {
     "id": "42788f8c465c46e8ecfbc023e6f5058b",
     "name": "Cloudsphere Computing Services, LLC",
     "city": "Pearland",
@@ -7166,6 +7887,13 @@
     "city": "Massillon",
     "state": "OH",
     "zip_code": "44646"
+  },
+  {
+    "id": "7a16770a7b81748535530e835bcd3dba",
+    "name": "CMO Sync",
+    "city": "Miller Place",
+    "state": "NY",
+    "zip_code": "11764"
   },
   {
     "id": "93a3b88eb252173e231238ebf3f25f13",
@@ -7278,6 +8006,13 @@
     "city": "Binghamton",
     "state": "NY",
     "zip_code": "13903"
+  },
+  {
+    "id": "f7e8854fc8731601b9efad261dabd6dc",
+    "name": "Collective Fruitions",
+    "city": "Saint Paul",
+    "state": "MN",
+    "zip_code": "55122"
   },
   {
     "id": "a5084b5b05f0a47ebf9254e617fe390f",
@@ -7427,6 +8162,13 @@
     "zip_code": "49201"
   },
   {
+    "id": "cd9544d2d3fa57abb324baf28fdbb0bb",
+    "name": "CommitChange",
+    "city": "Appleton",
+    "state": "WI",
+    "zip_code": "54915"
+  },
+  {
     "id": "3ca38f9518583194e9e0cc5aa6b88b22",
     "name": "Common Ground",
     "city": "Asheville",
@@ -7439,6 +8181,13 @@
     "city": "Milwaukee",
     "state": "WI",
     "zip_code": "53211"
+  },
+  {
+    "id": "859511b046973ab86111dd257481db7b",
+    "name": "Common Sense Media",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip_code": "94103"
   },
   {
     "id": "48ba8613685151eb3ee90a0885069f3e",
@@ -7500,6 +8249,13 @@
     "id": "77e6f7d96bac86a2e7669b2d1272af99",
     "name": "Complete teacher Academy",
     "city": "Barnegat nj",
+    "state": "NJ",
+    "zip_code": "08005"
+  },
+  {
+    "id": "a14e6f21a47f0da265205eb3ce86bfbb",
+    "name": "Complete Teacher Academy",
+    "city": "Barnegat",
     "state": "NJ",
     "zip_code": "08005"
   },
@@ -7679,6 +8435,20 @@
     "zip_code": "93103"
   },
   {
+    "id": "b631220321b521914cb4f2b5ee1b4a3c",
+    "name": "Conservation Technology Solutions Inc",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip_code": "84108"
+  },
+  {
+    "id": "e9be7ebef40bd83e2ab1e61161a1dde8",
+    "name": "CONSOLIDATED COMMUNICATIONS",
+    "city": "Mattoon",
+    "state": "IL",
+    "zip_code": "61938"
+  },
+  {
     "id": "28b0ebd5656205e0bcae2e13c14dd499",
     "name": "Consolidated Information Systems",
     "city": "CARLISLE",
@@ -7768,6 +8538,13 @@
     "city": "Avon",
     "state": "CO",
     "zip_code": "81620"
+  },
+  {
+    "id": "0ed085afbb46c3efd59d578c42f499dc",
+    "name": "Convonomics",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip_code": "46835"
   },
   {
     "id": "4bab42f4c8851087c35f5f6fd441e0ad",
@@ -7987,6 +8764,13 @@
     "zip_code": "H2L0E8"
   },
   {
+    "id": "c2d6252e23d8170ca50966b469324b36",
+    "name": "Courtney’s Cleaning",
+    "city": "Clifton Park",
+    "state": "NY",
+    "zip_code": "12065"
+  },
+  {
     "id": "4f1ba309b04eb541d9ff5a23f709b05d",
     "name": "Cousin & Kid",
     "city": "Orrville",
@@ -8078,6 +8862,13 @@
     "zip_code": "29609"
   },
   {
+    "id": "9787bc6d3c4fcfb7fc8df064987c60be",
+    "name": "Crayon Comics",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip_code": "87112"
+  },
+  {
     "id": "8822325e777f8f0fb330a2fc86ccc805",
     "name": "Cream of the Crop llc",
     "city": "New York",
@@ -8132,6 +8923,13 @@
     "city": "Hanover",
     "state": "MD",
     "zip_code": "21076"
+  },
+  {
+    "id": "3218bb1df0d9fb1f41bf559b4f427e32",
+    "name": "Creative Intervention LLP",
+    "city": "Ramsey",
+    "state": "MN",
+    "zip_code": ""
   },
   {
     "id": "0bb75db8b0fb785a1bd432b76424f5b5",
@@ -8323,6 +9121,13 @@
     "zip_code": "85051"
   },
   {
+    "id": "0687f7032c3642f94ce4ff1a43075ff9",
+    "name": "CSArt Maine",
+    "city": "Vienna",
+    "state": "ME",
+    "zip_code": "04360"
+  },
+  {
     "id": "f5e6b124e11427cefceb29695f1d56d6",
     "name": "CSC Law, PC",
     "city": "Chicago",
@@ -8351,6 +9156,13 @@
     "zip_code": "85281"
   },
   {
+    "id": "f789325b0e372684112a3c36d75556d5",
+    "name": "Cubizm",
+    "city": "San Carlos",
+    "state": "CA",
+    "zip_code": "94070"
+  },
+  {
     "id": "f31d39c150cc7154ed02d5af0d8e2858",
     "name": "Cubizm, LLC",
     "city": "San Carlos",
@@ -8363,6 +9175,13 @@
     "city": "IL",
     "state": "IL",
     "zip_code": "60436"
+  },
+  {
+    "id": "8f8e8c447b5b5191f753c6599d41e75e",
+    "name": "Cultivate Coworking",
+    "city": "Murfreesboro",
+    "state": "TN",
+    "zip_code": "37130"
   },
   {
     "id": "2bf96e22f5138776202e893c3ff83455",
@@ -8386,6 +9205,13 @@
     "zip_code": "93560"
   },
   {
+    "id": "4b3bedd8ad84ce1c44f5bbf00c7017a7",
+    "name": "CultureWeave",
+    "city": "Monterey",
+    "state": "CA",
+    "zip_code": "93940"
+  },
+  {
     "id": "81035197d90037c6483c120f0e4254d6",
     "name": "Cummings Family Partners",
     "city": "Greensboro",
@@ -8405,6 +9231,13 @@
     "city": "New York",
     "state": "NY",
     "zip_code": "10003"
+  },
+  {
+    "id": "d6c05dcee3ad9ea2ce421f0e41d5af74",
+    "name": "Curai",
+    "city": "Portola Valley",
+    "state": "CA",
+    "zip_code": "94028"
   },
   {
     "id": "238ccf0bea30d0f750b2bf1f92e0778c",
@@ -8484,6 +9317,13 @@
     "zip_code": "27607"
   },
   {
+    "id": "bfaf5fc64fce32a871171d076c3c27ed",
+    "name": "CyberKnight Industries",
+    "city": "Aurora",
+    "state": "CO",
+    "zip_code": "80015"
+  },
+  {
     "id": "6b5d47884f412463f786590b2ed93b8a",
     "name": "Cybersalesbyrick",
     "city": "VANCOUVER",
@@ -8498,11 +9338,25 @@
     "zip_code": "56441"
   },
   {
+    "id": "b51aa1cc88ddf2d38e5487c59ef1c5b3",
+    "name": "Cygnus Home Improvement",
+    "city": "Black River Falls",
+    "state": "WI",
+    "zip_code": ""
+  },
+  {
     "id": "a1bae7e459dee8dfd41a7f89b3e89295",
     "name": "Cynelic Gast Music, LLC",
     "city": "Blacksburg",
     "state": "VA",
     "zip_code": "24060"
+  },
+  {
+    "id": "9c38dc1408fc73f93586270456523c09",
+    "name": "Cypherlox",
+    "city": "Dublin",
+    "state": "OH",
+    "zip_code": "43017"
   },
   {
     "id": "2a1780d316985a686e3103a82e5f57be",
@@ -8594,6 +9448,13 @@
     "city": "ny",
     "state": "NY",
     "zip_code": "12833"
+  },
+  {
+    "id": "5c6710da57fdf6c801d7cb6a22e9f532",
+    "name": "DAFFI Foods",
+    "city": "Greenfield",
+    "state": "NY",
+    "zip_code": ""
   },
   {
     "id": "2dd9618715d7cbab1c288100b8fdeb6e",
@@ -8729,11 +9590,25 @@
     "zip_code": "10014"
   },
   {
+    "id": "eb80ba9ae805cece78238ac173964986",
+    "name": "Dancing at the Crossroads Counseling",
+    "city": "Lakeport",
+    "state": "CA",
+    "zip_code": "95453"
+  },
+  {
     "id": "c20da7171c949b076ef2463a60c836e2",
     "name": "Dancing Bear Productions",
     "city": "Portland",
     "state": "OR",
     "zip_code": "97212"
+  },
+  {
+    "id": "35c731cdae8d1463082d16ca4c5502f8",
+    "name": "Dancing Dragon Animal Health",
+    "city": "Manchester Town of",
+    "state": "VT",
+    "zip_code": "05255"
   },
   {
     "id": "fa1ec6c1cda8d3a92e08b72ec6de3e0f",
@@ -8806,11 +9681,25 @@
     "zip_code": "10708"
   },
   {
+    "id": "77a904f599a66d5c6da63493fa8bffe9",
+    "name": "Dani's Catering",
+    "city": "Wailuku",
+    "state": "HI",
+    "zip_code": "96793"
+  },
+  {
     "id": "01a067deb1494588221274bbd1e26019",
     "name": "Daniel 13 Press",
     "city": "Carrboro",
     "state": "NC",
     "zip_code": "27510"
+  },
+  {
+    "id": "e14258c1209eb93df07d6f1e30296e8d",
+    "name": "Daniels Consulting",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip_code": "94110"
   },
   {
     "id": "751dd062cd824e3f11cf57685943024b",
@@ -8911,6 +9800,13 @@
     "zip_code": "97006"
   },
   {
+    "id": "3639e9ed1c394ecbcb56561afec7dcfe",
+    "name": "Darnell Digital Ink",
+    "city": "Oakland",
+    "state": "MD",
+    "zip_code": "21550"
+  },
+  {
     "id": "87ab665d8c4359b6619921eecf0a2d91",
     "name": "DART Technologies, Inc.",
     "city": "New York",
@@ -8981,6 +9877,13 @@
     "zip_code": "89014"
   },
   {
+    "id": "f64caf3ea98e3af50441fc5d73bd6899",
+    "name": "David Adler Design",
+    "city": "Henderson",
+    "state": "NV",
+    "zip_code": "89014"
+  },
+  {
     "id": "9cf527f74ccb362178ec84fc711b9c0b",
     "name": "David B. Manley, III, PC",
     "city": "Peachtree Corners",
@@ -9007,6 +9910,13 @@
     "city": "Centennial",
     "state": "CO",
     "zip_code": "80122"
+  },
+  {
+    "id": "d98e962b78f465f081a9eca9b1fe207c",
+    "name": "David Stratton Designs",
+    "city": "Trinidad",
+    "state": "CA",
+    "zip_code": "95570"
   },
   {
     "id": "57a75c8b890ef07e22b21622499336d0",
@@ -9205,11 +10115,25 @@
     "zip_code": "94110"
   },
   {
+    "id": "9795a8fd4a19195e83398077424942f9",
+    "name": "Debra Ticktin, self employed",
+    "city": "Beachwood",
+    "state": "OH",
+    "zip_code": ""
+  },
+  {
     "id": "555cc5f815f592c0e3da150c7819da95",
     "name": "DECETS LLC, IAS LLC",
     "city": "Edmond",
     "state": "OK",
     "zip_code": "73025"
+  },
+  {
+    "id": "463eb4ca7865e05c622d0d3538fd74f6",
+    "name": "Decimation Design",
+    "city": "Dublin",
+    "state": "OH",
+    "zip_code": "43017"
   },
   {
     "id": "fac0911f4123837cec4508117d4f30d4",
@@ -9345,18 +10269,18 @@
     "zip_code": "78729"
   },
   {
-    "id": "e309e859bc24ac7e27494b846d049901",
-    "name": "Depop",
-    "city": "Plano",
-    "state": "TX",
-    "zip_code": "75075"
-  },
-  {
     "id": "84b5ec7d81819f863c48e5745731831a",
     "name": "Depop",
     "city": "Hilliard",
     "state": "OH",
     "zip_code": "43026"
+  },
+  {
+    "id": "e309e859bc24ac7e27494b846d049901",
+    "name": "Depop",
+    "city": "Plano",
+    "state": "TX",
+    "zip_code": "75075"
   },
   {
     "id": "17355d38d39b90b106a2df8ac38b656a",
@@ -9380,16 +10304,16 @@
     "zip_code": "34607"
   },
   {
-    "id": "b6b6ebfaf4838a0d2635176ced375de0",
+    "id": "49f995fa26dc8d63bff6a6a83426651d",
     "name": "DeRep Ltd",
-    "city": "",
+    "city": "Leeds",
     "state": "",
     "zip_code": "LS20 8JZ"
   },
   {
-    "id": "49f995fa26dc8d63bff6a6a83426651d",
+    "id": "b6b6ebfaf4838a0d2635176ced375de0",
     "name": "DeRep Ltd",
-    "city": "Leeds",
+    "city": "",
     "state": "",
     "zip_code": "LS20 8JZ"
   },
@@ -9443,13 +10367,6 @@
     "zip_code": "98258"
   },
   {
-    "id": "9cb2a9952c5bfaf3d3a77b7daa1ebb9e",
-    "name": "Design to Print",
-    "city": "Missoula",
-    "state": "MT",
-    "zip_code": "59801"
-  },
-  {
     "id": "f7ec3f70afa9648f73707617fc7dfb2c",
     "name": "Design to Print",
     "city": "Great Falls",
@@ -9457,11 +10374,25 @@
     "zip_code": "59405"
   },
   {
+    "id": "9cb2a9952c5bfaf3d3a77b7daa1ebb9e",
+    "name": "Design to Print",
+    "city": "Missoula",
+    "state": "MT",
+    "zip_code": "59801"
+  },
+  {
     "id": "1d25e5fb610d646aac711801364ae01e",
     "name": "Designed Interiors",
     "city": "Menifee",
     "state": "CA",
     "zip_code": "92587"
+  },
+  {
+    "id": "e4f06d1fd884927ce84f5906ef653fee",
+    "name": "Designed Landscaping Inc",
+    "city": "San Mateo",
+    "state": "CA",
+    "zip_code": ""
   },
   {
     "id": "cc61d46820a6cb4f9dcb2605d92a35d7",
@@ -9483,6 +10414,13 @@
     "city": "Pittsburgh",
     "state": "PA",
     "zip_code": "15243"
+  },
+  {
+    "id": "a1d5204a304a4b08e23c0fa8ae435cf4",
+    "name": "Details 4 Scale",
+    "city": "Wittmann",
+    "state": "AZ",
+    "zip_code": "85361"
   },
   {
     "id": "2491c5a3c2e2e307e597dbd1cd2ae4f6",
@@ -9525,6 +10463,13 @@
     "city": "Macdoel",
     "state": "CA",
     "zip_code": "96058"
+  },
+  {
+    "id": "0618baa2c3180e08c792d4ac48ce53cc",
+    "name": "DeVito Direct Marketing Services",
+    "city": "Smithfield",
+    "state": "VA",
+    "zip_code": "23430"
   },
   {
     "id": "facc24992e8e217136ff851bc969bdee",
@@ -9625,6 +10570,13 @@
     "zip_code": "33436"
   },
   {
+    "id": "3d40222d65fba285bc3c3fa5eac1d202",
+    "name": "Dice Candies",
+    "city": "Aurora",
+    "state": "CO",
+    "zip_code": "80013-2329"
+  },
+  {
     "id": "566832b7a1ddc75326211b48c75f4852",
     "name": "Die Crawling Media",
     "city": "Valley Village",
@@ -9644,6 +10596,13 @@
     "city": "Los Angeles",
     "state": "CA",
     "zip_code": "91352"
+  },
+  {
+    "id": "d13c16614acec3f90e5cfd1ddaacf5d9",
+    "name": "Digital IQ",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip_code": "84105"
   },
   {
     "id": "e5dcecd10a5488ec41fa8e5c0d6a8e95",
@@ -9807,6 +10766,13 @@
     "zip_code": "28043"
   },
   {
+    "id": "e94198463064c2084b22bd2fa6bf743e",
+    "name": "DivisionOLT",
+    "city": "Towanda",
+    "state": "IL",
+    "zip_code": "61776"
+  },
+  {
     "id": "52c646eddc460687a37c280db00c6903",
     "name": "DiViT DESIGN",
     "city": "Orinda",
@@ -9828,6 +10794,13 @@
     "zip_code": "30188"
   },
   {
+    "id": "9ad41d0d1ebf09fb310cf9e8e89bf618",
+    "name": "DL Landscapes LLC",
+    "city": "Ada",
+    "state": "MI",
+    "zip_code": ""
+  },
+  {
     "id": "3de0418b3371603c7a7d843b1964fcfd",
     "name": "DLC Independent Investments LLC",
     "city": "Louisville",
@@ -9840,6 +10813,20 @@
     "city": "Windermere",
     "state": "FL",
     "zip_code": "34786"
+  },
+  {
+    "id": "be1fb31f706f83373c58db9b596e598c",
+    "name": "DNA Corporate Finance Services LLC",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip_code": "30318"
+  },
+  {
+    "id": "9d414c17ca66e2074a2f8700e73c9c08",
+    "name": "DNA FOODS LLC",
+    "city": "Seattle",
+    "state": "WA",
+    "zip_code": "98155"
   },
   {
     "id": "58e783b811639360469002548f645cce",
@@ -9875,6 +10862,13 @@
     "city": "Lake Oswego",
     "state": "OR",
     "zip_code": "97035"
+  },
+  {
+    "id": "2406df1867bfa92d5ea09efbbb423ab1",
+    "name": "DocVue LLC",
+    "city": "Morrison",
+    "state": "CO",
+    "zip_code": "80465"
   },
   {
     "id": "1aaa6c4ba275f725bdd778f0f1e3dcee",
@@ -9968,6 +10962,13 @@
     "zip_code": "94608"
   },
   {
+    "id": "4e6c0d29844171ce54d7f06857f93d54",
+    "name": "Donna M La Flamme, Inc.",
+    "city": "West Palm Beach",
+    "state": "FL",
+    "zip_code": ""
+  },
+  {
     "id": "647b4267ea058c279c1919d2cff9b4bb",
     "name": "Donna Rose MA LPC",
     "city": "Austin, TX",
@@ -10045,11 +11046,39 @@
     "zip_code": "70435"
   },
   {
+    "id": "4525f2c187bb1a4da99d5c8cc04c9103",
+    "name": "Douloi Group Ltd.",
+    "city": "Fuquay Varina",
+    "state": "NC",
+    "zip_code": "27526"
+  },
+  {
+    "id": "74291ba10fab28f1e5b76e35065372b8",
+    "name": "Downriver Orchard",
+    "city": "WA",
+    "state": "WA",
+    "zip_code": "99141"
+  },
+  {
     "id": "13f15c1f9bee8f108c2e9d89d0e86e48",
     "name": "Downtown Boys",
     "city": "Providence",
     "state": "RI",
     "zip_code": "02903"
+  },
+  {
+    "id": "e580451f07b0221008af56b081d7df51",
+    "name": "Downtown Dogs - Daycare and Boarding",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip_code": ""
+  },
+  {
+    "id": "a0d25048e2590931110b01bec1266439",
+    "name": "Downtown Yarns",
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10009"
   },
   {
     "id": "3f2a213d1d4c420f25f37e7047bede07",
@@ -10164,6 +11193,13 @@
     "zip_code": "43606"
   },
   {
+    "id": "3443e6b3efa6650c6479fb5426c597d9",
+    "name": "Dr. William L. Sharfman",
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10024"
+  },
+  {
     "id": "216809a8bb4642783378af0aaf8b113c",
     "name": "Dr.Rooter",
     "city": "New Philadelphia",
@@ -10274,6 +11310,13 @@
     "city": "SEBASTOPOL",
     "state": "CA",
     "zip_code": "95472"
+  },
+  {
+    "id": "dd1d042b3854fcfbd28e846706aa5aaa",
+    "name": "Dream Local Digital",
+    "city": "Rockland",
+    "state": "ME",
+    "zip_code": "04841"
   },
   {
     "id": "9098208d9767e8d35c967219705b589c",
@@ -10514,16 +11557,16 @@
     "zip_code": "19119-2439"
   },
   {
-    "id": "9be0ee180238ad26bd0ed348c5646a6c",
+    "id": "82ceb06a699f35d2a088c4a92e69bb8b",
     "name": "Duncan Design",
-    "city": "Wexford",
+    "city": "PA",
     "state": "PA",
     "zip_code": "15090-8692"
   },
   {
-    "id": "82ceb06a699f35d2a088c4a92e69bb8b",
+    "id": "9be0ee180238ad26bd0ed348c5646a6c",
     "name": "Duncan Design",
-    "city": "PA",
+    "city": "Wexford",
     "state": "PA",
     "zip_code": "15090-8692"
   },
@@ -10787,11 +11830,25 @@
     "zip_code": "01886"
   },
   {
+    "id": "9d9426da87ccedd5c79faca4f180f151",
+    "name": "Earthsome",
+    "city": "Edinburg",
+    "state": "TX",
+    "zip_code": "78541"
+  },
+  {
     "id": "fd90541802b6e4ec2a10d4dfa9d40841",
     "name": "Earthweare",
     "city": "Homosassa",
     "state": "FL",
     "zip_code": "34448"
+  },
+  {
+    "id": "58d0d463ade641bc073c9f0e11b91ec4",
+    "name": "Earthwind Publishing",
+    "city": "Seattle",
+    "state": "WA",
+    "zip_code": "98146"
   },
   {
     "id": "3fd1a18bf1760748a06f3dfe02224429",
@@ -10827,6 +11884,20 @@
     "city": "Tijeras",
     "state": "NM",
     "zip_code": "87059"
+  },
+  {
+    "id": "771ef4a8376e180461011761913157d6",
+    "name": "East Village Vintage Collective",
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10009"
+  },
+  {
+    "id": "69d7cb475e742a2916faf492511bcc63",
+    "name": "Eastburn Preventive Maintenance",
+    "city": "Eureka Springs",
+    "state": "AR",
+    "zip_code": ""
   },
   {
     "id": "5eaca382a5c415af665f726d7761c3c4",
@@ -10876,6 +11947,13 @@
     "city": "AK",
     "state": "AK",
     "zip_code": "99835"
+  },
+  {
+    "id": "f549d979ed59c35e5c1ee66aba47ad61",
+    "name": "eBee’s Tutoring",
+    "city": "Temple",
+    "state": "TX",
+    "zip_code": "76502"
   },
   {
     "id": "238c8dd259c093dbbf714c2327081fa2",
@@ -10960,6 +12038,13 @@
     "city": "Chicago",
     "state": "IL",
     "zip_code": "60630"
+  },
+  {
+    "id": "b7be43f2dd2f7498fc60b3eeeebd1736",
+    "name": "Economy Refrigeration Service",
+    "city": "60630",
+    "state": "IL",
+    "zip_code": ""
   },
   {
     "id": "a990b3f2f588ccb419bd3061c193651d",
@@ -11060,6 +12145,13 @@
     "zip_code": "15905"
   },
   {
+    "id": "c64000b6c01929e9cd7f40cff45e3faa",
+    "name": "Education Unlimited LLC",
+    "city": "Melbourne",
+    "state": "FL",
+    "zip_code": ""
+  },
+  {
     "id": "9634ae2051368497bb8d84fee1a73fa2",
     "name": "Educational Options Associates",
     "city": "Scottsdale",
@@ -11079,6 +12171,20 @@
     "city": "Cocoa",
     "state": "FL",
     "zip_code": "32922"
+  },
+  {
+    "id": "e6ac184d91d1543270043f702bfef9be",
+    "name": "Edward Allen Law",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip_code": "49508"
+  },
+  {
+    "id": "9e74eb20ed42ec89c5be1de4849323b6",
+    "name": "Edward L. Yeats, Ph.D.",
+    "city": "Newton",
+    "state": "MA",
+    "zip_code": "02458"
   },
   {
     "id": "489eaa7d936a9ca0a855d1a252f52acc",
@@ -11235,11 +12341,25 @@
     "zip_code": "53719"
   },
   {
+    "id": "3705c88bbb7dc1526ede9302ed909d7b",
+    "name": "Elementals",
+    "city": "Austin",
+    "state": "TX",
+    "zip_code": "78758"
+  },
+  {
     "id": "d1fa7ce5220798ff7fc4859a8fdeae83",
     "name": "Elements Healing Arts Center",
     "city": "New Bern",
     "state": "NC",
     "zip_code": "28560"
+  },
+  {
+    "id": "768365761b450fe556a3b1431188556c",
+    "name": "Elementum Research Ltd",
+    "city": "Bellmead",
+    "state": "TX",
+    "zip_code": "11111"
   },
   {
     "id": "3f8ae7854555a480663e6366932cdcad",
@@ -11305,6 +12425,13 @@
     "zip_code": "80015"
   },
   {
+    "id": "23a902226be80a32c344dd8508b3962f",
+    "name": "Elvi Design Group",
+    "city": "Aurora",
+    "state": "CO",
+    "zip_code": ""
+  },
+  {
     "id": "eb136e0955c4bbff14afd6a6e5ab1ca2",
     "name": "Ely Social",
     "city": "Fort Wayne",
@@ -11319,11 +12446,25 @@
     "zip_code": "20850"
   },
   {
+    "id": "559461f1e7be14bec305f3078ee83ba4",
+    "name": "Embassy of the People's Republic of China",
+    "city": "Washington",
+    "state": "DC",
+    "zip_code": "20008"
+  },
+  {
     "id": "6cf801689c080fea55f772f36a7b7667",
     "name": "Embedded & Mobile Systems Inc.",
     "city": "Boca Raton",
     "state": "FL",
     "zip_code": "33496"
+  },
+  {
+    "id": "0d48e090cfe7f7914f05bf2078d2425a",
+    "name": "Emcee Artist Management",
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10013"
   },
   {
     "id": "1d12b43897493802706c9626413a6a98",
@@ -11359,6 +12500,13 @@
     "city": "MADISON",
     "state": "WI",
     "zip_code": "53716"
+  },
+  {
+    "id": "6264dc328212c2cf606d96c10799a247",
+    "name": "Eminent Zen",
+    "city": "Bryan",
+    "state": "TX",
+    "zip_code": "77802"
   },
   {
     "id": "b9be1a2cf1fd66141f035fa8a3c676f9",
@@ -11415,6 +12563,13 @@
     "city": "Los Angeles",
     "state": "CA",
     "zip_code": "90045"
+  },
+  {
+    "id": "ac9d9126b24f5e2047764217d0473902",
+    "name": "Empowering Families",
+    "city": "Charlottesville",
+    "state": "VA",
+    "zip_code": ""
   },
   {
     "id": "e75dd706812f3e7dcaf4cc4927923d00",
@@ -11487,6 +12642,13 @@
     "zip_code": "49682"
   },
   {
+    "id": "8c5aec88e314b30e081d0c8332ef2c63",
+    "name": "Enerdyne Inc.",
+    "city": "Suttons Bay",
+    "state": "MI",
+    "zip_code": "49682"
+  },
+  {
     "id": "d16877b25c6bd346243f99b7fd98df4d",
     "name": "Energy Advantage",
     "city": "Buffalo",
@@ -11499,6 +12661,13 @@
     "city": "Kihei",
     "state": "HI",
     "zip_code": "96753"
+  },
+  {
+    "id": "e1413c7979d1fa88f6562c33edc9f265",
+    "name": "Enertiv",
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10018"
   },
   {
     "id": "f2e3366743fc5533806b44e2a938be1e",
@@ -11634,6 +12803,13 @@
     "zip_code": "44120"
   },
   {
+    "id": "da0353a1c3887f139f5af1baf61e0d76",
+    "name": "Epicenter Comics",
+    "city": "San Diego",
+    "state": "CA",
+    "zip_code": "92122"
+  },
+  {
     "id": "fbabbd66118887a86ce3713a40d7ff01",
     "name": "EPM 2006 LLC",
     "city": "Philadelphia",
@@ -11711,6 +12887,13 @@
     "zip_code": "65809"
   },
   {
+    "id": "cdb2ad2c881117b2baf191d541dcbc6b",
+    "name": "ERIKA SALDANA ART",
+    "city": "Waldport",
+    "state": "OR",
+    "zip_code": "97394"
+  },
+  {
     "id": "32543bdb3d690cf242bab68d38a50673",
     "name": "Erika The Coach",
     "city": "Oronogo",
@@ -11767,6 +12950,13 @@
     "zip_code": "20250"
   },
   {
+    "id": "4e0876be064d906cbcb6aa5f1e047f0b",
+    "name": "eSolutions",
+    "city": "ColoradoSprings",
+    "state": "CO",
+    "zip_code": ""
+  },
+  {
     "id": "afb286e19b0774b3d52d49da98115ef0",
     "name": "eSolutions Consulting LLC",
     "city": "Colorado Springs",
@@ -11802,6 +12992,13 @@
     "zip_code": "98177"
   },
   {
+    "id": "5787fecf149722ab4a0dfd0d8e7d50e7",
+    "name": "Essencia Artisan Bakery",
+    "city": "Yakima",
+    "state": "WA",
+    "zip_code": ""
+  },
+  {
     "id": "4989730337333f61109d5a3a27c76e1e",
     "name": "Essential Mediations",
     "city": "Bellaire",
@@ -11814,6 +13011,13 @@
     "city": "Englewood",
     "state": "CO",
     "zip_code": "80113"
+  },
+  {
+    "id": "42ad6da007076d9ed3699b58a424fb13",
+    "name": "ESStudios",
+    "city": "PACIFICA",
+    "state": "CA",
+    "zip_code": "94044"
   },
   {
     "id": "10735333c248207dc8afdaf6d9368340",
@@ -11870,6 +13074,13 @@
     "city": "Easthampton",
     "state": "MA",
     "zip_code": "01027"
+  },
+  {
+    "id": "e4f3d5e65f0fc3128b30c119ddca545f",
+    "name": "Eustis Chair",
+    "city": "Dorchester",
+    "state": "MA",
+    "zip_code": "02125"
   },
   {
     "id": "6d771299de0193e1540e7625efb7ad7a",
@@ -12019,6 +13230,13 @@
     "zip_code": "19341"
   },
   {
+    "id": "ded37f4174dc197f7d5951fe7ca2b64a",
+    "name": "Exit9 Gift Emporium",
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10009"
+  },
+  {
     "id": "654cb7195487a2d4ec6f5528d5366a99",
     "name": "Exotic Fog",
     "city": "Cathedral City",
@@ -12075,6 +13293,13 @@
     "zip_code": "84763"
   },
   {
+    "id": "0de37ae8f654107043013f1f77f32c56",
+    "name": "Exploring Moments Photography",
+    "city": "Show Low",
+    "state": "AZ",
+    "zip_code": "85901"
+  },
+  {
     "id": "1ccb58b06deb0f485a6b3a5f73a9e038",
     "name": "Expressions A Salon",
     "city": "Fulton",
@@ -12094,6 +13319,13 @@
     "city": "Oxford",
     "state": "MI",
     "zip_code": "48371"
+  },
+  {
+    "id": "a8bd6dc6e290209b9fb0a196367a49ed",
+    "name": "Exton Equities",
+    "city": "Roseville",
+    "state": "CA",
+    "zip_code": ""
   },
   {
     "id": "8d955f5d449315e850cf40d842285505",
@@ -12306,6 +13538,13 @@
     "zip_code": "94965"
   },
   {
+    "id": "29ecb5a7cb325719886c26fdf3f21135",
+    "name": "FastBridge Learning",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip_code": "55402"
+  },
+  {
     "id": "c01efa45fc2195b54245d91b79b80680",
     "name": "FaSTITCH",
     "city": "Lake Worth",
@@ -12390,6 +13629,20 @@
     "zip_code": "97703"
   },
   {
+    "id": "6e3803f99a29cd55c5d664174a893c9e",
+    "name": "Felice Croul Associates",
+    "city": "Glenside",
+    "state": "PA",
+    "zip_code": "19038"
+  },
+  {
+    "id": "8f40e1280998d60d9b94afbdd9ea5bf5",
+    "name": "Felice Croul Associates",
+    "city": "Jenkintown",
+    "state": "PA",
+    "zip_code": "19046"
+  },
+  {
     "id": "bc77fe0ba17a183b9811c2130efe654a",
     "name": "Feng Shui Digital",
     "city": "Arvada",
@@ -12460,6 +13713,34 @@
     "zip_code": "01930"
   },
   {
+    "id": "d1c78f0411ae4d0a5a3ca42015c762e2",
+    "name": "Filament Group, Inc.",
+    "city": "Boston",
+    "state": "MA",
+    "zip_code": "02111"
+  },
+  {
+    "id": "d2c4a191f4580ee392b15a8ecb1757ba",
+    "name": "Filimage",
+    "city": "Irving",
+    "state": "TX",
+    "zip_code": "75016"
+  },
+  {
+    "id": "66fbe645aa6ab933a98d9dda81e02b15",
+    "name": "Film Independent",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip_code": "90035"
+  },
+  {
+    "id": "efd1acf0a3d7ca4f56bd40ffe3266d3a",
+    "name": "Fin montauk",
+    "city": "Montauk",
+    "state": "NY",
+    "zip_code": "11954"
+  },
+  {
     "id": "6cf3153a02a2e4c4d448cf425fbdf4f5",
     "name": "Final STAR, Graphics & Signs",
     "city": "Edison",
@@ -12479,6 +13760,13 @@
     "city": "Columbus",
     "state": "OH",
     "zip_code": "43220"
+  },
+  {
+    "id": "eed8ebaf5858ee6d8b77653d60171f89",
+    "name": "Financial Dynamics",
+    "city": "Sarasota",
+    "state": "FL",
+    "zip_code": ""
   },
   {
     "id": "94d5035860ce20a0378ecac2df6e0937",
@@ -12656,6 +13944,13 @@
     "zip_code": "42530"
   },
   {
+    "id": "033e5ad9d2b0c5e08e1394b09928a084",
+    "name": "FitnessWorks",
+    "city": "Morro Bay",
+    "state": "CA",
+    "zip_code": ""
+  },
+  {
     "id": "c8a354ee90d04765fc8346f3a67a8001",
     "name": "Fitz Gibbon Ceramic Art",
     "city": "Woodland",
@@ -12710,6 +14005,13 @@
     "city": "Wilseyville",
     "state": "CA",
     "zip_code": "95257"
+  },
+  {
+    "id": "2907ebab745104b378bdad54e42a2c88",
+    "name": "Flame Kissed Creations, LLC",
+    "city": "North Canton",
+    "state": "OH",
+    "zip_code": "44720"
   },
   {
     "id": "061212475a2757358683473e0e357c2e",
@@ -12817,6 +14119,13 @@
     "zip_code": "33613"
   },
   {
+    "id": "c12a5ae72e47e3694f805a1c84972771",
+    "name": "Florida School of Insurance",
+    "city": "Apollo Beach",
+    "state": "FL",
+    "zip_code": "33572"
+  },
+  {
     "id": "384eb10b47ca12e982589f9c817b293c",
     "name": "Florida Virtual Bookkeeper LLC",
     "city": "",
@@ -12899,6 +14208,13 @@
     "city": "Portland",
     "state": "OR",
     "zip_code": "972198941"
+  },
+  {
+    "id": "0a1dcc34073e9941d4661dbbc16cf816",
+    "name": "Focused remodeling",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip_code": "55406"
   },
   {
     "id": "cd3782509c233e85e8c688641c081523",
@@ -13011,6 +14327,13 @@
     "city": "Corte Madera",
     "state": "CA",
     "zip_code": "94925"
+  },
+  {
+    "id": "8ce9ab3efe0c485f8b4fa3f451f191a9",
+    "name": "Fort Morgan Furniture",
+    "city": "Fort Morgan",
+    "state": "CO",
+    "zip_code": ""
   },
   {
     "id": "bcecc83e6caaf1c3bff1898538528177",
@@ -13151,6 +14474,13 @@
     "city": "Vienna",
     "state": "VA",
     "zip_code": "22182"
+  },
+  {
+    "id": "7454f102f2f46cd2f0adf95907164fd2",
+    "name": "Frank Westphal Music",
+    "city": "SAN DIEGO",
+    "state": "CA",
+    "zip_code": "92109"
   },
   {
     "id": "546f85a86c36725c16647e80a7e7dd92",
@@ -13559,18 +14889,18 @@
     "zip_code": "60626"
   },
   {
-    "id": "d4e84ce9a2a1e4ff3935e8e139191f8b",
-    "name": "Gaiadigm Books",
-    "city": "FL",
-    "state": "FL",
-    "zip_code": "33478-6204"
-  },
-  {
     "id": "accafd1d5a6f10c06b1276f800c028b8",
     "name": "Gaiadigm Books",
     "city": "Jupiter",
     "state": "FL",
     "zip_code": "33478"
+  },
+  {
+    "id": "d4e84ce9a2a1e4ff3935e8e139191f8b",
+    "name": "Gaiadigm Books",
+    "city": "FL",
+    "state": "FL",
+    "zip_code": "33478-6204"
   },
   {
     "id": "aff5cffddfa1d277d5870d383084b6f3",
@@ -13755,6 +15085,13 @@
     "zip_code": "10950"
   },
   {
+    "id": "c99afd64ed2032c7e1adf25322451c06",
+    "name": "GCA Accounting and Tax Services",
+    "city": "Jeffersonville",
+    "state": "IN",
+    "zip_code": "47130"
+  },
+  {
     "id": "1525525ba2ffcde7e456eac33fab6929",
     "name": "GDM Properties",
     "city": "N. Hollywood",
@@ -13818,6 +15155,13 @@
     "zip_code": "78745"
   },
   {
+    "id": "3af5162501bb0e231e2e7581ad4dc622",
+    "name": "Gemini Design",
+    "city": "Bowie",
+    "state": "MD",
+    "zip_code": "20715"
+  },
+  {
     "id": "f7271dbbd9ceb23dc5dea9ee79f881fb",
     "name": "Gemini Properties",
     "city": "ELMWOOD PARK",
@@ -13865,6 +15209,13 @@
     "city": "Wheat Ridge",
     "state": "CO",
     "zip_code": "80033"
+  },
+  {
+    "id": "c34450a0fccc186e70acf0b82928e554",
+    "name": "geoffrey saign",
+    "city": "st paul mn",
+    "state": "MN",
+    "zip_code": ""
   },
   {
     "id": "46f130e33ac827eec211d589780bfbff",
@@ -13951,6 +15302,13 @@
     "zip_code": "01983"
   },
   {
+    "id": "b897f8cbff41173f38f2e64c4f1cee46",
+    "name": "Ghost Pipe Studio",
+    "city": "Pittsboro",
+    "state": "NC",
+    "zip_code": ""
+  },
+  {
     "id": "5266c19caebe128e4dc2ef7f8ea72910",
     "name": "gies design",
     "city": "Saratoga",
@@ -13963,6 +15321,13 @@
     "city": "Brandon",
     "state": "FL",
     "zip_code": "33510"
+  },
+  {
+    "id": "6130ce338250bc245faeb81c04e09ba3",
+    "name": "giggle designs",
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "11364"
   },
   {
     "id": "5fb1b2297fba31b77e7bc014177d1e07",
@@ -14028,6 +15393,13 @@
     "zip_code": "53020"
   },
   {
+    "id": "91b68d7b3d71463c40ba319c75efa1f1",
+    "name": "GLass",
+    "city": "O Fallon",
+    "state": "MO",
+    "zip_code": ""
+  },
+  {
     "id": "7deb211f7806d6775bd3c593642cfbee",
     "name": "Glass Cannons",
     "city": "New London",
@@ -14040,6 +15412,13 @@
     "city": "San Diego",
     "state": "CA",
     "zip_code": "92123"
+  },
+  {
+    "id": "882cbf3b7c4ce959702ec88e38cfe51b",
+    "name": "Glenda Smith, Realtor",
+    "city": "Palmer",
+    "state": "AK",
+    "zip_code": "99645"
   },
   {
     "id": "1e3ea22ade69a0e051b6a543ed448f68",
@@ -14119,6 +15498,13 @@
     "zip_code": "06902"
   },
   {
+    "id": "181a0fdfdc05f7dc405a29a16bf96cee",
+    "name": "GlobalNet Internet Services",
+    "city": "Saint Albans",
+    "state": "VT",
+    "zip_code": "05478"
+  },
+  {
     "id": "d639197108857314f38465c3b2e42c42",
     "name": "Gloria Geleynse, M.Ed., LCPC",
     "city": "Eagle",
@@ -14152,6 +15538,13 @@
     "city": "Forest Grove",
     "state": "OR",
     "zip_code": "97116"
+  },
+  {
+    "id": "3883b34385206b6ab0a339b6ea5a834d",
+    "name": "Go!Gaming",
+    "city": "Cross Hill",
+    "state": "SC",
+    "zip_code": "29332-3600"
   },
   {
     "id": "4e9f005ea7c5548c6909e7b0c2f3dfce",
@@ -14194,6 +15587,13 @@
     "city": "Freeport",
     "state": "NY",
     "zip_code": "11520"
+  },
+  {
+    "id": "13fe4a00bb40ed4b6acc7721aa9c220e",
+    "name": "GODDESS BEAUTY LLC",
+    "city": "Little Falls",
+    "state": "NY",
+    "zip_code": "13365"
   },
   {
     "id": "2cf8ebbc884daf773c6206b73c54b55a",
@@ -14343,6 +15743,13 @@
     "zip_code": "60712"
   },
   {
+    "id": "45b1e95bbb6f19101800f9c9bd2cac83",
+    "name": "Goodlux Media",
+    "city": "Portland",
+    "state": "ME",
+    "zip_code": "04102"
+  },
+  {
     "id": "1c999415dfd2d1de8bc9c0bc36513da4",
     "name": "GoodMoney Intl.",
     "city": "Atlanta",
@@ -14439,6 +15846,13 @@
     "city": "Saint Petersburg",
     "state": "FL",
     "zip_code": "33702-2623"
+  },
+  {
+    "id": "643ce314516cdfc396ffe2024ea27622",
+    "name": "GPI",
+    "city": "Black Hawk",
+    "state": "CO",
+    "zip_code": ""
   },
   {
     "id": "3286435c76fe135884c7614843d2632c",
@@ -14560,6 +15974,13 @@
     "zip_code": "37604"
   },
   {
+    "id": "857872d46402a1b8bbdd8929bf3fb64e",
+    "name": "GratefulGemHead",
+    "city": "Center Moriches",
+    "state": "NY",
+    "zip_code": "11934"
+  },
+  {
     "id": "0514b811745eb2f93f8d198ac95e7b40",
     "name": "Gratitude Avatar",
     "city": "TX",
@@ -14586,6 +16007,13 @@
     "city": "Sacramento",
     "state": "CA",
     "zip_code": "95825"
+  },
+  {
+    "id": "2d1f36c3b98100d9b786756ba7a336c5",
+    "name": "Great Northern Landholding and Mining Co., Inc.",
+    "city": "Elkhart Lake",
+    "state": "WI",
+    "zip_code": "53020"
   },
   {
     "id": "86fb2d4ee336b3c9f953a2cb2b7b2ab9",
@@ -14707,6 +16135,13 @@
     "zip_code": "37206"
   },
   {
+    "id": "018fd90f80a306fa36b843214d1235c7",
+    "name": "Green's Handyman Service",
+    "city": "Frankfort",
+    "state": "IL",
+    "zip_code": ""
+  },
+  {
     "id": "db065c1d7717110ce16b91092a7fd06c",
     "name": "Green88vn",
     "city": "Bellmead",
@@ -14770,6 +16205,13 @@
     "zip_code": "90245"
   },
   {
+    "id": "89ffbe99639571e4911518c462b9fd32",
+    "name": "Gregory La Vardera Architect",
+    "city": "Merchantville",
+    "state": "NJ",
+    "zip_code": "08109"
+  },
+  {
     "id": "ea5e4c9598c5f60d5d2fe949b3847582",
     "name": "Grenadier Properties",
     "city": "Bingham Farms",
@@ -14826,6 +16268,13 @@
     "zip_code": "02461"
   },
   {
+    "id": "ea9d1d249fcb613a861cbcaeccdda15a",
+    "name": "Gripz Gym",
+    "city": "Southfield",
+    "state": "MI",
+    "zip_code": "48033"
+  },
+  {
     "id": "c830df5ac633968906b49ca84d72a19a",
     "name": "GroGardens",
     "city": "Mountain View",
@@ -14854,6 +16303,13 @@
     "zip_code": "97034"
   },
   {
+    "id": "b7cd35cd6c52e6890b6f4590a765da80",
+    "name": "Grouchy Girl Studios",
+    "city": "Fairfield",
+    "state": "CT",
+    "zip_code": "06825"
+  },
+  {
     "id": "36a42f74d74fff5d5dfaf50a79cbd7a3",
     "name": "Grouchy Girl Studios",
     "city": "Lebanon",
@@ -14861,11 +16317,11 @@
     "zip_code": "03766"
   },
   {
-    "id": "b7cd35cd6c52e6890b6f4590a765da80",
-    "name": "Grouchy Girl Studios",
-    "city": "Fairfield",
-    "state": "CT",
-    "zip_code": "06825"
+    "id": "645d4a4ad1eedadfadcff28c8515ec47",
+    "name": "GROUCHY Gorl studios",
+    "city": "Lebanon",
+    "state": "NH",
+    "zip_code": "03766"
   },
   {
     "id": "132a3adb5e0d016d687db4a578af6b98",
@@ -15034,6 +16490,13 @@
     "city": "Jackson Heights",
     "state": "NY",
     "zip_code": "11372-1439"
+  },
+  {
+    "id": "13d1b6d746c4429b37c9a5e5753fe906",
+    "name": "Hachisoft Corporation",
+    "city": "Kettle Falls",
+    "state": "WA",
+    "zip_code": "99141"
   },
   {
     "id": "3e90b058cfa20b60669c029044c99aba",
@@ -15344,11 +16807,32 @@
     "zip_code": "51537"
   },
   {
+    "id": "497f0374ba8df876dca7e615d339437a",
+    "name": "Harmonize yoga",
+    "city": "Henniker Town of",
+    "state": "NH",
+    "zip_code": "03242"
+  },
+  {
+    "id": "3bb932f032abbf782be18b3dc7a75839",
+    "name": "Harmony Acupuncture",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip_code": "84105"
+  },
+  {
     "id": "85cdb4af0d582a4ac0aaaa6759e8ce0d",
     "name": "Harmony Animal Behavior",
     "city": "Phoenix",
     "state": "AZ",
     "zip_code": "85044"
+  },
+  {
+    "id": "7978eccc5a69b1800677e6c144bf6786",
+    "name": "Harmony at Home",
+    "city": "Rohnert Park",
+    "state": "CA",
+    "zip_code": "94928"
   },
   {
     "id": "660d1d3cfc9e3bad5a7d9727ae76a352",
@@ -15533,6 +17017,13 @@
     "zip_code": "27510"
   },
   {
+    "id": "6def05e40698b097d4026374032ba55b",
+    "name": "Healing Spring Acupuncture Center",
+    "city": "Northbrook",
+    "state": "IL",
+    "zip_code": ""
+  },
+  {
     "id": "db19f0e90362515d704d7ae7447dfd27",
     "name": "Healing Touch by Jill",
     "city": "Fort Collins",
@@ -15568,11 +17059,11 @@
     "zip_code": "80011"
   },
   {
-    "id": "b0662ac5eafb09e32620194d233a1078",
-    "name": "Health Inspired Publishing",
-    "city": "VENTURA",
-    "state": "OR",
-    "zip_code": "97701"
+    "id": "5e2865451b45ca0f959468257198bb68",
+    "name": "Health Essentials LLC",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip_code": "87112"
   },
   {
     "id": "9c272362af063d9ef26b8c006eae264b",
@@ -15580,6 +17071,13 @@
     "city": "Bend",
     "state": "OR",
     "zip_code": "97701-6321"
+  },
+  {
+    "id": "b0662ac5eafb09e32620194d233a1078",
+    "name": "Health Inspired Publishing",
+    "city": "VENTURA",
+    "state": "OR",
+    "zip_code": "97701"
   },
   {
     "id": "c93a1373bf45626c1fbff0ed701dcf57",
@@ -15771,6 +17269,13 @@
     "zip_code": "05255"
   },
   {
+    "id": "d8ebee216120ce30295306633254a96b",
+    "name": "Hel's Kitchen Catering",
+    "city": "Northbrook",
+    "state": "IL",
+    "zip_code": ""
+  },
+  {
     "id": "7087eb4c5b860e9958bae76c4bf8fe6f",
     "name": "Helen Bailey Art",
     "city": "McKinney",
@@ -15825,6 +17330,13 @@
     "city": "Highland Park",
     "state": "IL",
     "zip_code": "60035"
+  },
+  {
+    "id": "d65890475088fce90c57eb35185c194e",
+    "name": "Hema's Beauty Lounge Inc.",
+    "city": "Upland",
+    "state": "CA",
+    "zip_code": "91784"
   },
   {
     "id": "643992f16f7f10dca1e59a09174eb387",
@@ -16044,6 +17556,13 @@
     "zip_code": "98310"
   },
   {
+    "id": "31a858ce46abdec85cb19885c84a2c8a",
+    "name": "HLF Consulting Services, Inc.",
+    "city": "Fl",
+    "state": "FL",
+    "zip_code": ""
+  },
+  {
     "id": "4301910b83ef52918910c5fb911c05e6",
     "name": "HMM: Hauling, Moving & Mowing, LLC",
     "city": "Harrisonburg",
@@ -16098,6 +17617,13 @@
     "city": "Kirkland",
     "state": "WA",
     "zip_code": "98033"
+  },
+  {
+    "id": "8546eca63fd872ecf33ba56e5eedc92f",
+    "name": "Holiday River Expeditions",
+    "city": "Murray",
+    "state": "UT",
+    "zip_code": "84107"
   },
   {
     "id": "5b48ca594d9a7c8e14e6579ddd7c72ca",
@@ -16177,6 +17703,13 @@
     "zip_code": "79227"
   },
   {
+    "id": "6002042d9ebec2a12a85f10464c20989",
+    "name": "Home business",
+    "city": "Arlington",
+    "state": "VA",
+    "zip_code": ""
+  },
+  {
     "id": "a1adca8c32b7e346214c96c1446c7624",
     "name": "Home Design",
     "city": "SAINT AUGUSTINE",
@@ -16189,6 +17722,13 @@
     "city": "Loveland",
     "state": "OH",
     "zip_code": "45140"
+  },
+  {
+    "id": "cd6e2761a9a026b4e02c0d2829b7714f",
+    "name": "Home Owner",
+    "city": "Houston",
+    "state": "TX",
+    "zip_code": ""
   },
   {
     "id": "709cc6752ff95057fbe42a12b87f85a9",
@@ -16345,6 +17885,13 @@
     "zip_code": "93446"
   },
   {
+    "id": "de017a6ed8a8d227403c1d06133820a5",
+    "name": "House Cleaning",
+    "city": "Oakland",
+    "state": "CA",
+    "zip_code": ""
+  },
+  {
     "id": "b1033a25d2a763bb0805b424312412d9",
     "name": "House Cleaning & Organizing",
     "city": "Oakland",
@@ -16492,16 +18039,16 @@
     "zip_code": "95401"
   },
   {
-    "id": "2a86322a4d36aee4b4b3090282c783a8",
+    "id": "bbd3a1afb4f0f19f69e4dd01b90d7eb3",
     "name": "Hughes Wood Service",
-    "city": "Rehoboth Beach",
+    "city": "Rehoboth",
     "state": "DE",
     "zip_code": "19971"
   },
   {
-    "id": "bbd3a1afb4f0f19f69e4dd01b90d7eb3",
+    "id": "2a86322a4d36aee4b4b3090282c783a8",
     "name": "Hughes Wood Service",
-    "city": "Rehoboth",
+    "city": "Rehoboth Beach",
     "state": "DE",
     "zip_code": "19971"
   },
@@ -16511,6 +18058,13 @@
     "city": "ORLANDO",
     "state": "FL",
     "zip_code": "32824"
+  },
+  {
+    "id": "1a8ef3746ab1a015958e1b9d64c52342",
+    "name": "Hulkbot Development",
+    "city": "Pontotoc",
+    "state": "TX",
+    "zip_code": "76869"
   },
   {
     "id": "5e00928c5667bc310afd0bd38d9a45fc",
@@ -16595,6 +18149,13 @@
     "city": "Chicago",
     "state": "IL",
     "zip_code": "60615"
+  },
+  {
+    "id": "da8311b4510273c75f3cc6b82e9798bf",
+    "name": "Hyden & Associates, P.C.",
+    "city": "Marietta",
+    "state": "GA",
+    "zip_code": "30066"
   },
   {
     "id": "1d906a66ed6392aa156ab74dfa24cad7",
@@ -16968,6 +18529,13 @@
     "zip_code": "95614"
   },
   {
+    "id": "24c7c9fc3b292d737a431cfb64e3979e",
+    "name": "Indigo farms",
+    "city": "Clear lake",
+    "state": "IA",
+    "zip_code": ""
+  },
+  {
     "id": "149209c7f6680342938dfd7ea35ff115",
     "name": "Indigo River Consulting",
     "city": "Newton",
@@ -16994,6 +18562,13 @@
     "city": "San Diego",
     "state": "CA",
     "zip_code": "92120"
+  },
+  {
+    "id": "195adb061890fad2d7477f74e7088ded",
+    "name": "Infinite SOULutiions Foundation",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip_code": "98229"
   },
   {
     "id": "a6c46c303981056d26d3c4fb4c29e18c",
@@ -17078,6 +18653,13 @@
     "city": "Portland",
     "state": "OR",
     "zip_code": "97212"
+  },
+  {
+    "id": "e346a1a3486f1654e339e8fe2200aea2",
+    "name": "Inner Hero LLC",
+    "city": "Nashville",
+    "state": "TN",
+    "zip_code": "37221"
   },
   {
     "id": "1138f8d9117d3517c44bc7dea0503fd8",
@@ -17248,11 +18830,25 @@
     "zip_code": "90065"
   },
   {
+    "id": "5ee228f1a980e2ad9dbe53c0c9b31ab1",
+    "name": "International Expo Service, inc.",
+    "city": "Cypress",
+    "state": "CA",
+    "zip_code": "90630"
+  },
+  {
     "id": "0c6ba0205542766b405bfd6e12e06895",
     "name": "International Plastics Equipment",
     "city": "Quail Valley",
     "state": "CA",
     "zip_code": "92587-9446"
+  },
+  {
+    "id": "14bd05b3c2c7571f272faa643617cff0",
+    "name": "International Professors Project",
+    "city": "Boca Raton",
+    "state": "FL",
+    "zip_code": "33434"
   },
   {
     "id": "7c25bb641012eb63b34842450475c9ec",
@@ -17304,6 +18900,13 @@
     "zip_code": "67060-7611"
   },
   {
+    "id": "c1fa107f8467b720b23a4ee2bb108bfb",
+    "name": "Intuitiv Designs",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip_code": "70119"
+  },
+  {
     "id": "c19e0452ca5c61c736fabccf79bc4c97",
     "name": "Intuitiv Designs",
     "city": "West Palm Beach",
@@ -17330,6 +18933,13 @@
     "city": "SHIPMAN",
     "state": "VA",
     "zip_code": "22971"
+  },
+  {
+    "id": "5f26262c9f643bdadc53b59c3c1e088c",
+    "name": "IO Cooperative, Inc.",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip_code": "94115"
   },
   {
     "id": "bcb430892ab649b95d1bc4a0c938f475",
@@ -17395,6 +19005,13 @@
     "zip_code": "11237"
   },
   {
+    "id": "69adf886b5f638616f55da4a37a54b27",
+    "name": "Iron Horse",
+    "city": "Fairfax",
+    "state": "VA",
+    "zip_code": ""
+  },
+  {
     "id": "9ad6893c9188cbb463b6b8eefebc33de",
     "name": "Irongorve",
     "city": "Houston",
@@ -17435,6 +19052,13 @@
     "city": "VAN NUYS",
     "state": "CA",
     "zip_code": "91406"
+  },
+  {
+    "id": "55164401ed46b8ddd1f47be4a68d8ea7",
+    "name": "Island Marc Fitness",
+    "city": "Arlington",
+    "state": "TX",
+    "zip_code": "76006"
   },
   {
     "id": "a455b9f36898afee8ca1d1282e7ee818",
@@ -17563,6 +19187,13 @@
     "zip_code": "06489"
   },
   {
+    "id": "bfe13e3f647bc307d80d0e9330e4dcf5",
+    "name": "IW Technologies Group",
+    "city": "Overland Park",
+    "state": "KS",
+    "zip_code": "66204"
+  },
+  {
     "id": "b2d7fa2ae7d84f0ef10265eac8d60f95",
     "name": "IWV Taxi Service LLC",
     "city": "Ridgecrest",
@@ -17624,6 +19255,13 @@
     "city": "Temple",
     "state": "TX",
     "zip_code": "76502"
+  },
+  {
+    "id": "ca9403759721c377e166aad1275b1a18",
+    "name": "J-Sonic Music Inc.",
+    "city": "Loganville",
+    "state": "GA",
+    "zip_code": "30052"
   },
   {
     "id": "4648000ef6d11fd1c714e85f389d7fad",
@@ -17843,18 +19481,18 @@
     "zip_code": "33025"
   },
   {
-    "id": "a425b5c63f793570f813dd1e83484e29",
-    "name": "Jason & Fischer",
-    "city": "Brookline Town of",
-    "state": "MA",
-    "zip_code": "02447"
-  },
-  {
     "id": "929940fafb55a00d48c7945aa5d797e2",
     "name": "Jason & Fischer",
     "city": "MA",
     "state": "MA",
     "zip_code": "02446"
+  },
+  {
+    "id": "a425b5c63f793570f813dd1e83484e29",
+    "name": "Jason & Fischer",
+    "city": "Brookline Town of",
+    "state": "MA",
+    "zip_code": "02447"
   },
   {
     "id": "f32db632fdb629dd963364b559d15826",
@@ -18193,6 +19831,13 @@
     "zip_code": "14624"
   },
   {
+    "id": "48c78235ad1c8aa08e3a19b41101e129",
+    "name": "JKA Architect",
+    "city": "Stillwater",
+    "state": "MN",
+    "zip_code": "55082"
+  },
+  {
     "id": "5f477794047b42364f9698e372e308a7",
     "name": "JLaB Photography",
     "city": "MALIBU",
@@ -18354,11 +19999,32 @@
     "zip_code": "85730"
   },
   {
+    "id": "9d1d69d79fdb1d0b21153efab862aaee",
+    "name": "Johnson Learning Center",
+    "city": "Conyers",
+    "state": "GA",
+    "zip_code": ""
+  },
+  {
+    "id": "b354643b4e556d45cff463789674fadc",
+    "name": "johnxgin3colourisations",
+    "city": "wells",
+    "state": "FL",
+    "zip_code": "0none"
+  },
+  {
     "id": "18c0326db766be036cc11d1cdf2d58d8",
     "name": "Joieful",
     "city": "New Orleans",
     "state": "LA",
     "zip_code": "70130"
+  },
+  {
+    "id": "0a3d8071841fa8adf52acb54fca756f4",
+    "name": "Jolly Good Media",
+    "city": "Lancaster",
+    "state": "CA",
+    "zip_code": "93536"
   },
   {
     "id": "f1b4452ba8c92a5253020b054c7dc7ec",
@@ -18921,6 +20587,13 @@
     "zip_code": "55804"
   },
   {
+    "id": "e601f49d0c88e0ba52a0f9d55c2c9a3e",
+    "name": "karkruff marine",
+    "city": "Jacksonville,Fl",
+    "state": "FL",
+    "zip_code": ""
+  },
+  {
     "id": "acb4becabd468ea82f0cf982cb563ec0",
     "name": "Karl and Alice Ruppenthal Foundation for the Arts",
     "city": "Oakland",
@@ -19003,6 +20676,13 @@
     "city": "Ephraim",
     "state": "WI",
     "zip_code": "54211"
+  },
+  {
+    "id": "b18a8fbe162388a95c1d50243df3488a",
+    "name": "Kathy Bowman, Sole Prop",
+    "city": "Joseph",
+    "state": "OR",
+    "zip_code": ""
   },
   {
     "id": "11cf6eaf1c57f42477a5caeeffbcee37",
@@ -19201,6 +20881,13 @@
     "zip_code": "20902"
   },
   {
+    "id": "743987ff7182ea10ccf67c8b2a922c32",
+    "name": "Kendra's Voice, LLC",
+    "city": "Sammamish",
+    "state": "WA",
+    "zip_code": "98075"
+  },
+  {
     "id": "3b70cceacf5085038fffc452a1d03de4",
     "name": "Kendrick Consulting International",
     "city": "Holyoke",
@@ -19283,6 +20970,13 @@
     "city": "Rochester",
     "state": "NY",
     "zip_code": "146101017"
+  },
+  {
+    "id": "ed514c350a09dd7014fada91b8a3551d",
+    "name": "Keys Construction",
+    "city": "West Lafayette",
+    "state": "IN",
+    "zip_code": ""
   },
   {
     "id": "3948cd72751b63ed7bc809006baf93ac",
@@ -19416,6 +21110,13 @@
     "city": "Watsonville, CA",
     "state": "CA",
     "zip_code": "95076"
+  },
+  {
+    "id": "dc2e78ef63928583527f8e68fa0458dc",
+    "name": "King Arthur Flour Bakery Café + Store",
+    "city": "Norwich Town of",
+    "state": "VT",
+    "zip_code": "05055"
   },
   {
     "id": "00bf73aaec3061ad42a31aabbaa26e2e",
@@ -19775,6 +21476,13 @@
     "zip_code": "28560"
   },
   {
+    "id": "8acb415044e4a3affebf6b2f624d543f",
+    "name": "Kunz Real Estate",
+    "city": "Mound, MN",
+    "state": "MN",
+    "zip_code": "55364"
+  },
+  {
     "id": "69307ec78126c0db9b780c6a4b15b6d8",
     "name": "KyferonLARP",
     "city": "San Diego",
@@ -19831,6 +21539,13 @@
     "zip_code": "91301"
   },
   {
+    "id": "5425c66fda300ad1562acaf110685258",
+    "name": "La Bicyclette Restaurant",
+    "city": "Carmel",
+    "state": "CA",
+    "zip_code": "93921"
+  },
+  {
     "id": "84f1d0af6424c230599433f98f5724d5",
     "name": "La Femme Boheme",
     "city": "Grass Valley",
@@ -19857,6 +21572,13 @@
     "city": "Salt Lake City",
     "state": "UT",
     "zip_code": "84116"
+  },
+  {
+    "id": "08bb7f4f8c981b8fc8025550ebf4cb76",
+    "name": "Lagoon Ridge Realty",
+    "city": "Haydenville",
+    "state": "MA",
+    "zip_code": ""
   },
   {
     "id": "897dc796e3603a1c66f5f9abfea055df",
@@ -20006,6 +21728,13 @@
     "zip_code": "95965"
   },
   {
+    "id": "5cc6cee26093bef75c77738436c8f665",
+    "name": "Language Links, LLC",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip_code": "74114"
+  },
+  {
     "id": "d6f494005195667c6b9b46cb54e785e1",
     "name": "Language Professionals",
     "city": "Bellaire",
@@ -20046,6 +21775,13 @@
     "city": "BOULDER",
     "state": "CO",
     "zip_code": "80304"
+  },
+  {
+    "id": "051f1c445091bcbb735ae6104be73e8d",
+    "name": "Larry Green Productions",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip_code": ""
   },
   {
     "id": "4b38eae49b23963faf4c2def1e493dc3",
@@ -20188,6 +21924,13 @@
     "zip_code": "80015"
   },
   {
+    "id": "229ce533c4d08641b0343c0401f4a8fa",
+    "name": "Law Office of Brett M. Schatz PC",
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10019"
+  },
+  {
     "id": "1ff0df59fc8788b368a5dd04213b660a",
     "name": "Law Office of Craig F. Anderson",
     "city": "Quincy",
@@ -20279,6 +22022,13 @@
     "zip_code": "90064"
   },
   {
+    "id": "08ae008a3212b2385df810a239c77623",
+    "name": "Law Offices of Kevin Crawford Orr",
+    "city": "Newark",
+    "state": "NJ",
+    "zip_code": "07102"
+  },
+  {
     "id": "ec0091ee202df8b9b6c7d6016e18b054",
     "name": "Law Offices of Marcy J. Gordon",
     "city": "Brooklyn, NY",
@@ -20321,6 +22071,13 @@
     "zip_code": "90045"
   },
   {
+    "id": "29b46e1dec9aef228f7d7285c8b61269",
+    "name": "Lawrence Kia",
+    "city": "Lawrence",
+    "state": "KS",
+    "zip_code": "66046"
+  },
+  {
     "id": "e41b20356eee502f7de0f0099d759179",
     "name": "Lawrence S. Nannis - Consultant to Entreprenuers",
     "city": "Framingham",
@@ -20333,6 +22090,13 @@
     "city": "Boulder",
     "state": "CO",
     "zip_code": "80303"
+  },
+  {
+    "id": "988ab05978e6f5c35c8c38ea706b7fce",
+    "name": "LAXMEDIA",
+    "city": "Oakland",
+    "state": "NJ",
+    "zip_code": "07436"
   },
   {
     "id": "9ccbf5fc92b3d1c86bc6f6a5be08561d",
@@ -20368,6 +22132,13 @@
     "city": "Athens",
     "state": "OH",
     "zip_code": "45701"
+  },
+  {
+    "id": "6e40a68770daa6232f46d1976db95b83",
+    "name": "Le Gendre Expressions Business Consulting LLC",
+    "city": "Norfolk",
+    "state": "VA",
+    "zip_code": "23501"
   },
   {
     "id": "391790bb697fc9162a80eba810cf5fd0",
@@ -20671,6 +22442,13 @@
     "zip_code": "98121"
   },
   {
+    "id": "3e3656e0dcd16ba54fa8d8f17507e608",
+    "name": "lexin innovations",
+    "city": "Seattle",
+    "state": "WA",
+    "zip_code": "98121"
+  },
+  {
     "id": "44ae27a1e48a5bdb02428b6ab8b8903a",
     "name": "LGBT Faith Leaders of African Descent",
     "city": "New York",
@@ -20727,6 +22505,13 @@
     "zip_code": "07839"
   },
   {
+    "id": "8df90fa79654e404682b5ee700d39516",
+    "name": "Librispark LLC",
+    "city": "",
+    "state": "",
+    "zip_code": "undefined"
+  },
+  {
     "id": "7867dec97b961ce72fb50f81ac84d75f",
     "name": "Licensed Home Inspections",
     "city": "Brooklyn",
@@ -20781,6 +22566,13 @@
     "city": "New Orleans",
     "state": "LA",
     "zip_code": "70124"
+  },
+  {
+    "id": "c2d02fc1b5060c2178177ebb8de0a017",
+    "name": "Light and Fire",
+    "city": "Palos Verdes Estates",
+    "state": "CA",
+    "zip_code": "90274"
   },
   {
     "id": "3e3ffe9cbc2ff38c4edb8c7b0a59359f",
@@ -20895,6 +22687,13 @@
     "zip_code": "14712"
   },
   {
+    "id": "54d1421f91cfd9fc0cbb4fa54a5d5b44",
+    "name": "Limbic Lines Publishing",
+    "city": "Lakeport",
+    "state": "CA",
+    "zip_code": ""
+  },
+  {
     "id": "1599df5b5ad815bbdbc295e3ae0a1ef4",
     "name": "Limina Advisors",
     "city": "OAK PARK",
@@ -20935,6 +22734,13 @@
     "city": "MO",
     "state": "MO",
     "zip_code": "63017"
+  },
+  {
+    "id": "cfbfdf265726c6332a07da8a1ea9d2e7",
+    "name": "Linda Johnson Therapy",
+    "city": "San Mateo",
+    "state": "CA",
+    "zip_code": ""
   },
   {
     "id": "669c045ebdb0d145829b70c77d9df5f0",
@@ -21287,11 +23093,25 @@
     "zip_code": "99203"
   },
   {
+    "id": "209d9f6369b83ef3cb40ec19d0c9ce2a",
+    "name": "LMR Consulting LLC",
+    "city": "",
+    "state": "",
+    "zip_code": "80435-831"
+  },
+  {
     "id": "2be692050238947053c1c2ea19f72d70",
     "name": "Lo McDowell",
     "city": "Washington",
     "state": "DC",
     "zip_code": "20008"
+  },
+  {
+    "id": "3551b667d705702e6333d6db88f99220",
+    "name": "Local Logistics of CA, LLC",
+    "city": "Davis",
+    "state": "CA",
+    "zip_code": "95616"
   },
   {
     "id": "fd95d8f4902eaef76a64c3d5e63caaf3",
@@ -21320,6 +23140,13 @@
     "city": "Lockhart",
     "state": "TX",
     "zip_code": "78644"
+  },
+  {
+    "id": "cfa3115d02547707112e0518805d544e",
+    "name": "Lockhart Realty",
+    "city": "Lockhart, Texas",
+    "state": "TX",
+    "zip_code": ""
   },
   {
     "id": "03986fdb2db406da4cac46026f944bd6",
@@ -21658,6 +23485,13 @@
     "zip_code": "98116"
   },
   {
+    "id": "b7597298c584ed2239003bfd0df420fa",
+    "name": "Luftwaffe Models",
+    "city": "Key West",
+    "state": "FL",
+    "zip_code": "33040"
+  },
+  {
     "id": "227da752851badb086b85480fcaafbec",
     "name": "Luke Pidgeon Photographic",
     "city": "Los Angeles",
@@ -21770,6 +23604,13 @@
     "zip_code": "98072"
   },
   {
+    "id": "6f4acb3ab67d8ada2b39213faf061120",
+    "name": "Lyon & Associates Creative Services",
+    "city": "La Jolla",
+    "state": "CA",
+    "zip_code": ""
+  },
+  {
     "id": "5384ca49438f0bda3a993959e4380f6f",
     "name": "Lyonnesse Books, LLC",
     "city": "Antioch",
@@ -21840,6 +23681,13 @@
     "zip_code": "19070"
   },
   {
+    "id": "c940a8c902697c402384480e61fe6216",
+    "name": "M.T. Curry Inc",
+    "city": "Chesapeake",
+    "state": "VA",
+    "zip_code": "23320"
+  },
+  {
     "id": "533c4c087fa48903a0a351225c39f401",
     "name": "m.zoro Consulting LLC",
     "city": "Minneapolis",
@@ -21875,6 +23723,13 @@
     "zip_code": "80104"
   },
   {
+    "id": "f258556190b0d2c6feb012db1fa5e78c",
+    "name": "MacCoy Technology LLC",
+    "city": "Vernon Rockville",
+    "state": "CT",
+    "zip_code": "06066"
+  },
+  {
     "id": "843419fcbdb86d99e790cb5d750cadde",
     "name": "Macedonia",
     "city": "Adams",
@@ -21887,6 +23742,20 @@
     "city": "Seattle",
     "state": "WA",
     "zip_code": "98109"
+  },
+  {
+    "id": "798d9a2de2230e5f4598fbdab3d2469f",
+    "name": "Mach 1 photography.",
+    "city": "Seattle",
+    "state": "WA",
+    "zip_code": ""
+  },
+  {
+    "id": "bbfb6b4a041940e0e940ee7efa6f66f4",
+    "name": "Machine Box Recordings LLC",
+    "city": "Brewster",
+    "state": "MA",
+    "zip_code": "02631"
   },
   {
     "id": "f5eef1e4b25a6e78d34809f20e1d2b4c",
@@ -22204,6 +24073,13 @@
     "zip_code": "80207-3959"
   },
   {
+    "id": "5bbb0ad62f186acd6fe6ef2f900e00bb",
+    "name": "Manor Services, Inc",
+    "city": "Berwyn",
+    "state": "IL",
+    "zip_code": ""
+  },
+  {
     "id": "140cf1bd9517a054f6676d62fe4dd3c6",
     "name": "Mantle. LLC",
     "city": "Jackson",
@@ -22260,6 +24136,13 @@
     "zip_code": "05443"
   },
   {
+    "id": "d474824cfd3cb7bb2176c18d43452a5f",
+    "name": "Maple Street Builders, Inc.",
+    "city": "Hot Sulphur Springs",
+    "state": "CO",
+    "zip_code": "80451"
+  },
+  {
     "id": "0d818fec7e8294fe84e5c694d25d908e",
     "name": "Maquisard",
     "city": "Green Cove Springs",
@@ -22279,6 +24162,13 @@
     "city": "Bellmead",
     "state": "TX",
     "zip_code": "03189"
+  },
+  {
+    "id": "b5a0fba0b318c1bfff3795da1def57d6",
+    "name": "Marc J. Wrzesinski Photography",
+    "city": "Pittsfield",
+    "state": "MA",
+    "zip_code": "01201"
   },
   {
     "id": "35fe2c4d5cf7c164f948380db8cf0b54",
@@ -22356,6 +24246,13 @@
     "city": "Davis",
     "state": "CA",
     "zip_code": "95616"
+  },
+  {
+    "id": "2408d26a2f66dfa6e9ef8f65647462e3",
+    "name": "Marian E.Krieger, llc",
+    "city": "Beachwood",
+    "state": "OH",
+    "zip_code": ""
   },
   {
     "id": "a4165f31fde95766aaf56adaa48225ea",
@@ -22750,6 +24647,13 @@
     "zip_code": "94904"
   },
   {
+    "id": "d71c87024b25bff06c6efecceb6a51df",
+    "name": "Maxwell Mansion",
+    "city": "bristol",
+    "state": "WI",
+    "zip_code": "53104"
+  },
+  {
     "id": "5e706a3b2cb45559565a4820734f6321",
     "name": "Mayafoto",
     "city": "Los Angeles",
@@ -22762,6 +24666,13 @@
     "city": "Santa Fe",
     "state": "NM",
     "zip_code": "87508"
+  },
+  {
+    "id": "49fe4bf6b08dd1ea5a9e5de90d708ef1",
+    "name": "Maynely Positive",
+    "city": "Van Nuys",
+    "state": "CA",
+    "zip_code": "91401"
   },
   {
     "id": "e899f0c3e2fc78ac4089625a76b1b0b1",
@@ -22876,6 +24787,13 @@
     "zip_code": "02770"
   },
   {
+    "id": "b39ee514797f650eeba0177d4d90e734",
+    "name": "MCM Inventions, Inc.",
+    "city": "Jamestown",
+    "state": "IN",
+    "zip_code": ""
+  },
+  {
     "id": "e74054bc0fcd7b13362f4ed9d6a93f14",
     "name": "McMahon Film Consultancy",
     "city": "Raleigh",
@@ -22925,6 +24843,20 @@
     "zip_code": "04609"
   },
   {
+    "id": "916e4578c355948a954fb2cc133450fd",
+    "name": "Me and Ewe",
+    "city": "Anacortes",
+    "state": "WA",
+    "zip_code": ""
+  },
+  {
+    "id": "b292ad6167696595377f014f775c5085",
+    "name": "Meade's PC Repair Shop, Inc",
+    "city": "Oakwood",
+    "state": "VA",
+    "zip_code": "24631"
+  },
+  {
     "id": "64ee5d66cdb82d043c2658ed69005cf1",
     "name": "Meadowlark Aviation",
     "city": "Gilbert",
@@ -22972,6 +24904,13 @@
     "city": "Katy",
     "state": "TX",
     "zip_code": "77450"
+  },
+  {
+    "id": "059b159b0370cf637ac69854131cfa1b",
+    "name": "Medical Massage",
+    "city": "Columbus, Ohio",
+    "state": "OH",
+    "zip_code": ""
   },
   {
     "id": "b13a6d77a0f982f6d251fe7b5354fe83",
@@ -23233,6 +25172,13 @@
     "zip_code": "10001"
   },
   {
+    "id": "434aca94d37c6919b73173d701157172",
+    "name": "Metropolis Cycle Repair",
+    "city": "Portland",
+    "state": "OR",
+    "zip_code": ""
+  },
+  {
     "id": "42a091dd30af86ecba544a7aeb76b4fc",
     "name": "Metropolis Cycles",
     "city": "Portland",
@@ -23324,6 +25270,13 @@
     "zip_code": "10464"
   },
   {
+    "id": "ed0c115f9b1cd56f3de4b0469baa7a54",
+    "name": "michael morrison, lcsw & ora yemini-morrison, lcsw",
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10003"
+  },
+  {
     "id": "b4f0a615ddab194c1b76ca1fc65216e7",
     "name": "Michael O'Connell, Ph.D. & Associates",
     "city": "Mukilteo",
@@ -23336,6 +25289,13 @@
     "city": "Oceanside",
     "state": "CA",
     "zip_code": "92054-3812"
+  },
+  {
+    "id": "a50eedc3f4c5d0dee672b57ab14b8538",
+    "name": "Michael's Mobile Massage LLC",
+    "city": "Palm Desert",
+    "state": "CA",
+    "zip_code": ""
   },
   {
     "id": "0bc697a99dcca16f499cbbc2ddf25a1a",
@@ -23527,6 +25487,27 @@
     "zip_code": "01742"
   },
   {
+    "id": "d2025d0f8edddce5d6b507998063307e",
+    "name": "Millennium",
+    "city": "Palmdale",
+    "state": "CA",
+    "zip_code": "93550"
+  },
+  {
+    "id": "14f9b1b054b4221fcbf0a15c7dc30be3",
+    "name": "Millennium Electronics",
+    "city": "Palmdale",
+    "state": "CA",
+    "zip_code": ""
+  },
+  {
+    "id": "00221ebf6ed723ee8f919892dd117510",
+    "name": "Miller Chiropractic",
+    "city": "Elsberry",
+    "state": "MO",
+    "zip_code": "63343"
+  },
+  {
     "id": "23d33cdbd9aaff9c5259560396f0d973",
     "name": "Miller Consulting Services LTD",
     "city": "Crest Hill",
@@ -23653,16 +25634,16 @@
     "zip_code": "81403"
   },
   {
-    "id": "cafa0ac172b2204583948f8ac50dd0c7",
+    "id": "61c0320150ef0f0162b34595d3afe2e0",
     "name": "MIR MUSIC",
-    "city": "Cornelius",
+    "city": "Hillsboro",
     "state": "OR",
     "zip_code": "97123"
   },
   {
-    "id": "61c0320150ef0f0162b34595d3afe2e0",
+    "id": "cafa0ac172b2204583948f8ac50dd0c7",
     "name": "MIR MUSIC",
-    "city": "Hillsboro",
+    "city": "Cornelius",
     "state": "OR",
     "zip_code": "97123"
   },
@@ -23679,6 +25660,13 @@
     "city": "Silver Spring",
     "state": "MD",
     "zip_code": "20910"
+  },
+  {
+    "id": "4faf8ae90cb649c897e1ecb3736f78af",
+    "name": "Mission Sweet Spot",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip_code": "94110"
   },
   {
     "id": "5d6a5b65eb4978b30543de007b921bd3",
@@ -23763,6 +25751,13 @@
     "city": "Longmont",
     "state": "CO",
     "zip_code": "80501"
+  },
+  {
+    "id": "7fd282574ba8258a3c1266e74c4fb8bb",
+    "name": "Mobile metal worx",
+    "city": "Pasadena",
+    "state": "MD",
+    "zip_code": "21122"
   },
   {
     "id": "ae6bc03f29a03d86e315a00a09149ac7",
@@ -24059,6 +26054,13 @@
     "zip_code": "02090-1814"
   },
   {
+    "id": "74a7697497ef777fbf090dda2aabf991",
+    "name": "Mosaic Acting Studio",
+    "city": "Rancho Cordova",
+    "state": "CA",
+    "zip_code": "95670"
+  },
+  {
     "id": "c47a25d54469c764a11fb158694b8d74",
     "name": "Moss Veterinary Referrals",
     "city": "Vale",
@@ -24127,6 +26129,13 @@
     "city": "New York",
     "state": "NY",
     "zip_code": "10024"
+  },
+  {
+    "id": "d23add75cb45bf5fc821852e18a043b0",
+    "name": "Mount Kisco Foot Specialists",
+    "city": "Mount Kisco",
+    "state": "NY",
+    "zip_code": ""
   },
   {
     "id": "c6e15863444757bdbc6701e92909b9a9",
@@ -24353,6 +26362,13 @@
     "zip_code": "12345"
   },
   {
+    "id": "a17ae8d29e2b350c612c6c2fe04831c9",
+    "name": "Mu's 11:11 Club",
+    "city": "Portland",
+    "state": "OR",
+    "zip_code": "97214"
+  },
+  {
     "id": "e88fbc2b3c98f57375a7683e52167986",
     "name": "Muddy Girl Pottery",
     "city": "Lake Orion",
@@ -24500,6 +26516,13 @@
     "zip_code": "43832"
   },
   {
+    "id": "bf3e4be1a0d2e2d589a8dfe35c319b5d",
+    "name": "MySeeds Chia",
+    "city": "Dania",
+    "state": "FL",
+    "zip_code": "33004"
+  },
+  {
     "id": "97e8e3dd3461a68efabd0f2af8795b25",
     "name": "MySQL Ajax Table Editor",
     "city": "West Valley",
@@ -24514,18 +26537,18 @@
     "zip_code": "92111"
   },
   {
-    "id": "9b432e4eb1b8d1fff146377f99294bf3",
-    "name": "Mystical Places Press",
-    "city": "Wenatchee",
-    "state": "WA",
-    "zip_code": "98801-2565"
-  },
-  {
     "id": "f0bbafd3fe628c96f286627797172013",
     "name": "Mystical places press",
     "city": "WA",
     "state": "WA",
     "zip_code": "98801"
+  },
+  {
+    "id": "9b432e4eb1b8d1fff146377f99294bf3",
+    "name": "Mystical Places Press",
+    "city": "Wenatchee",
+    "state": "WA",
+    "zip_code": "98801-2565"
   },
   {
     "id": "663a9c055ff463c6e29b8522d2995f4e",
@@ -24654,6 +26677,13 @@
     "zip_code": "14222"
   },
   {
+    "id": "274c6e1784b3f67cc20d7fafe09d0c1a",
+    "name": "Nancy Harlander, Piano Instruction",
+    "city": "Benicia",
+    "state": "CA",
+    "zip_code": ""
+  },
+  {
     "id": "f14a910cf8b72778a6ce1a15bc6108b9",
     "name": "Nancy K Salovich Consulting",
     "city": "University Place",
@@ -24729,6 +26759,13 @@
     "city": "Monrovia",
     "state": "CA",
     "zip_code": "91016"
+  },
+  {
+    "id": "8f87dba39c03377c2ef384c6598c6831",
+    "name": "Natassia Lopez Photography",
+    "city": "Springfield",
+    "state": "MO",
+    "zip_code": "65804"
   },
   {
     "id": "365c9390f16d6b4a7d60db584526f0cd",
@@ -25144,6 +27181,13 @@
     "zip_code": "70114"
   },
   {
+    "id": "bcc783717b57bb0b5f2b59f8db703a0b",
+    "name": "New Quilter Llc.",
+    "city": "Kissimmee",
+    "state": "FL",
+    "zip_code": "34744"
+  },
+  {
     "id": "acbdc99fdd108866c9c6e45ab97dd84b",
     "name": "New Stream LLC",
     "city": "Nashua",
@@ -25156,6 +27200,13 @@
     "city": "La Puente",
     "state": "CA",
     "zip_code": "91746"
+  },
+  {
+    "id": "5ab474cd5a8963e5516f8cf9303f026a",
+    "name": "New York bagel and deli",
+    "city": "Easton",
+    "state": "PA",
+    "zip_code": "18042"
   },
   {
     "id": "7f8ce83f36fd0d5a25fc665b480da064",
@@ -25207,6 +27258,13 @@
     "zip_code": "07060"
   },
   {
+    "id": "c4a3e9c16e7a8cfff6ee2aa32d3aa362",
+    "name": "NFI-VT Family Center",
+    "city": "South Burlington",
+    "state": "VT",
+    "zip_code": "05403"
+  },
+  {
     "id": "ab618100facb1497cb13de757a4f87ba",
     "name": "NFW Custom Coaching NYC",
     "city": "New York, New York",
@@ -25233,6 +27291,20 @@
     "city": "Buffalo",
     "state": "NY",
     "zip_code": "14209"
+  },
+  {
+    "id": "0f4d022752675e6023114951296efd6b",
+    "name": "Nico's Homestyle",
+    "city": "Springfield",
+    "state": "IL",
+    "zip_code": "62707"
+  },
+  {
+    "id": "58962aee8448d322a1e68303dbfc61da",
+    "name": "Nicola Holmes Life Coaching",
+    "city": "Bellmead",
+    "state": "ID",
+    "zip_code": "M6N3Y5"
   },
   {
     "id": "56ba6ddf797f2fb2acc73734f8a5c403",
@@ -25268,6 +27340,13 @@
     "city": "Ridgefield",
     "state": "CT",
     "zip_code": "06877"
+  },
+  {
+    "id": "b9c2cdb4f28f5cebfc192c8505898f4d",
+    "name": "NIKSIM CONSULTING GROUP INC",
+    "city": "Ashland Town of",
+    "state": "MA",
+    "zip_code": "01721"
   },
   {
     "id": "0df559d76cfbe937bddfa92ae26476d9",
@@ -25326,6 +27405,13 @@
     "zip_code": "52556"
   },
   {
+    "id": "52a3b5c101793c81541da12ec33adf4e",
+    "name": "Noble Horse Gallery",
+    "city": "Seattle",
+    "state": "WA",
+    "zip_code": ""
+  },
+  {
     "id": "a02e2efda9b07f489f7507018d4a1cd8",
     "name": "Noble Inc.",
     "city": "Fort Collins",
@@ -25352,6 +27438,13 @@
     "city": "Wichita",
     "state": "KS",
     "zip_code": "67211"
+  },
+  {
+    "id": "e41fbf2309bd4d7cf1f7177c3dfd855a",
+    "name": "Nomadic Works",
+    "city": "Hillsborough",
+    "state": "NJ",
+    "zip_code": "08844"
   },
   {
     "id": "9a9aebcccc0e32f145698faa5d3efdd2",
@@ -25450,6 +27543,20 @@
     "city": "Oakland",
     "state": "CA",
     "zip_code": "94602"
+  },
+  {
+    "id": "48ae30447b5fde10a3097a18ce36955c",
+    "name": "North Star Systems",
+    "city": "Citrus Heights",
+    "state": "CA",
+    "zip_code": "95621"
+  },
+  {
+    "id": "8e21d41c1a8d71076dbf36ce38239854",
+    "name": "Northern Pacific Digital",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip_code": "98404"
   },
   {
     "id": "83039aff0d4fdfd6a08d7316098e52ba",
@@ -25781,6 +27888,13 @@
     "zip_code": "95992"
   },
   {
+    "id": "8641a746a9b110ce76f80d9177a45618",
+    "name": "Office Wife",
+    "city": "Dulzura",
+    "state": "CA",
+    "zip_code": "91917"
+  },
+  {
     "id": "491380d28922eee5aab8c0c68939814e",
     "name": "Ogilvy",
     "city": "WHITESTONE",
@@ -25821,6 +27935,13 @@
     "city": "Bellmead",
     "state": "TX",
     "zip_code": "11257"
+  },
+  {
+    "id": "c947d02739f74b8a2cb66dbb2f576f9a",
+    "name": "Olberg Enterprises",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "zip_code": "85258"
   },
   {
     "id": "a0f056573a8a60ad89de391d69f07d38",
@@ -25877,6 +27998,13 @@
     "city": "Potter Valley",
     "state": "CA",
     "zip_code": "95469"
+  },
+  {
+    "id": "924c2189527cc509e5a62d63561a26c5",
+    "name": "Olivia Owen",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip_code": "90802"
   },
   {
     "id": "bd3a49c7d45bd2ead4e2897512645ae1",
@@ -25970,16 +28098,16 @@
     "zip_code": "30188"
   },
   {
-    "id": "7c7df31b5298e7960acfc4f19e9cdb9d",
+    "id": "f88c4844a45e832aeecc252ebfc1feb7",
     "name": "One of a Kind",
-    "city": "Damascus",
+    "city": "Damascus, OR",
     "state": "OR",
     "zip_code": "97089"
   },
   {
-    "id": "f88c4844a45e832aeecc252ebfc1feb7",
+    "id": "7c7df31b5298e7960acfc4f19e9cdb9d",
     "name": "One of a Kind",
-    "city": "Damascus, OR",
+    "city": "Damascus",
     "state": "OR",
     "zip_code": "97089"
   },
@@ -26089,6 +28217,20 @@
     "zip_code": "91001"
   },
   {
+    "id": "1b4ad6188967021509cc45f7993facf3",
+    "name": "Opus az, llc",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "zip_code": "85250"
+  },
+  {
+    "id": "cbe846660ca7176a14da996415b89f27",
+    "name": "OPUS FUNDING and investments, llc",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "zip_code": "85250"
+  },
+  {
     "id": "bd2a89c28193e963bea7e2157b51eaa8",
     "name": "Orange Coast Computers",
     "city": "Huntington Beach",
@@ -26143,6 +28285,13 @@
     "city": "Portland",
     "state": "OR",
     "zip_code": "97206"
+  },
+  {
+    "id": "4b34fb4793677465b3c2ad04c15cf3d7",
+    "name": "OREGON Small Business Help",
+    "city": "Portland",
+    "state": "OR",
+    "zip_code": "97223"
   },
   {
     "id": "6e367648af642213100160755ca2ea3f",
@@ -26250,18 +28399,18 @@
     "zip_code": "60622"
   },
   {
-    "id": "f2831dae2b69473a7776dedff4f28582",
-    "name": "Otherwild",
-    "city": "Cornwallville",
-    "state": "NY",
-    "zip_code": "12418"
-  },
-  {
     "id": "4e422c8cb21459123edcb10717046a9a",
     "name": "Otherwild",
     "city": "Los Angeles",
     "state": "CA",
     "zip_code": "90027"
+  },
+  {
+    "id": "f2831dae2b69473a7776dedff4f28582",
+    "name": "Otherwild",
+    "city": "Cornwallville",
+    "state": "NY",
+    "zip_code": "12418"
   },
   {
     "id": "a4ca60f8e0790100a9fb16c852b4e101",
@@ -26614,6 +28763,13 @@
     "zip_code": "91745"
   },
   {
+    "id": "2a2f722eea9cb5797297ff8e10cb406e",
+    "name": "Parlor",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip_code": "11217"
+  },
+  {
     "id": "9f603f0f43f7ce6c0daad94849313a63",
     "name": "Parrillo Painting",
     "city": "Rochester, NY",
@@ -26626,6 +28782,13 @@
     "city": "Pasadena",
     "state": "CA",
     "zip_code": "91124"
+  },
+  {
+    "id": "d128939f07f46cbcf1acfdc0eb53b5b0",
+    "name": "Particulier",
+    "city": "Not provided",
+    "state": "TX",
+    "zip_code": "21000"
   },
   {
     "id": "915abf3e8daa41c129a2ad95c541fc95",
@@ -26675,6 +28838,13 @@
     "city": "Dallas",
     "state": "TX",
     "zip_code": "75228"
+  },
+  {
+    "id": "3b0c279ccbd48651cd9fb6c0debc7c8d",
+    "name": "Patchwork Ponies",
+    "city": "fort scott",
+    "state": "KS",
+    "zip_code": ""
   },
   {
     "id": "8612db3ddc6ff6617eacd104e84e7dbe",
@@ -26794,6 +28964,20 @@
     "city": "Eugene",
     "state": "OR",
     "zip_code": "97403"
+  },
+  {
+    "id": "7cec43bd6e378be9c00f21b9c9b2f5b2",
+    "name": "Pauseplayrepeat",
+    "city": "Columbia",
+    "state": "MO",
+    "zip_code": "65203"
+  },
+  {
+    "id": "88703abe1db45eace841ca8eb7e45260",
+    "name": "PAWA House of Florida Inc.",
+    "city": "Tampa",
+    "state": "FL",
+    "zip_code": ""
   },
   {
     "id": "7659c87a093d58bea72b29294a87fa1d",
@@ -27006,6 +29190,13 @@
     "zip_code": "27278"
   },
   {
+    "id": "e49eb30ff8501b31c5455fce1fac8c70",
+    "name": "Pediatric Smiles",
+    "city": "Topeka",
+    "state": "KS",
+    "zip_code": "66614"
+  },
+  {
     "id": "17fa1fa9eac602b3285b601ff11d2b55",
     "name": "Peel and Company",
     "city": "New Orleans",
@@ -27074,6 +29265,13 @@
     "city": "Lisle",
     "state": "IL",
     "zip_code": "60532"
+  },
+  {
+    "id": "8a581a45232999f3768c1317785f5cc0",
+    "name": "PelUS",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip_code": "87108"
   },
   {
     "id": "bca60ae5355a0351ab7c645ad11f2573",
@@ -27370,6 +29568,13 @@
     "zip_code": "32159"
   },
   {
+    "id": "4208ddab683158dadfa165a454e89a21",
+    "name": "Phoebe's Footwear",
+    "city": "Talent",
+    "state": "OR",
+    "zip_code": "97540"
+  },
+  {
     "id": "048c38e49c4a0ff15a1f03509f66f0ed",
     "name": "Phoenix Alternative Energy, Inc.",
     "city": "METAIRIE",
@@ -27552,11 +29757,25 @@
     "zip_code": "05472"
   },
   {
+    "id": "8cc3ddd0adec0dc0aca7730bba9216b3",
+    "name": "Pike Market Medical Clinic",
+    "city": "",
+    "state": "WA",
+    "zip_code": ""
+  },
+  {
     "id": "629f5645df7d8ea99eed0ed65fd8b6f5",
     "name": "Pilates for Dressage",
     "city": "Reddick",
     "state": "FL",
     "zip_code": "32686"
+  },
+  {
+    "id": "76342e5188d5107c5cd38f7c8a97657d",
+    "name": "Pine Bluff Camp Sites LLC",
+    "city": "Waterville",
+    "state": "IA",
+    "zip_code": ""
   },
   {
     "id": "9acd27e5b727efc6fb73bed9d6137280",
@@ -27767,6 +29986,13 @@
     "city": "Brooklyn",
     "state": "NY",
     "zip_code": "11215"
+  },
+  {
+    "id": "5d28279a59a8684dd39475b5c0bba324",
+    "name": "PnD Services LLC dba PnD Knives and Sharpening Services",
+    "city": "",
+    "state": "",
+    "zip_code": ""
   },
   {
     "id": "cbce0c26e2bf48e9fcf8fccd9a926dfb",
@@ -28133,6 +30359,13 @@
     "zip_code": "02874"
   },
   {
+    "id": "ac60a46e65ce6169fe96cb0b09ac0c51",
+    "name": "private company",
+    "city": "Bellmead",
+    "state": "",
+    "zip_code": ""
+  },
+  {
     "id": "febe7878cf199c9ddecd1d26e4ec424c",
     "name": "Private Computing",
     "city": "Pound Ridge",
@@ -28159,6 +30392,13 @@
     "city": "Easton",
     "state": "PA",
     "zip_code": "18044"
+  },
+  {
+    "id": "374e8d3e612daefb736be43399d9c4c0",
+    "name": "Prizebolt",
+    "city": "Bellmead",
+    "state": "TX",
+    "zip_code": "000000"
   },
   {
     "id": "6dc86db2c0cf69c1de9690212f570d70",
@@ -28243,6 +30483,13 @@
     "city": "Denver",
     "state": "CO",
     "zip_code": "80211"
+  },
+  {
+    "id": "34c678acabe3b122e295243cb7d961c5",
+    "name": "Project Ink",
+    "city": "El Cajon",
+    "state": "CA",
+    "zip_code": "92020"
   },
   {
     "id": "d662e34d210ba8035eaaca3929a7b74a",
@@ -28350,11 +30597,25 @@
     "zip_code": "40217"
   },
   {
+    "id": "a8f8f0336a6b3bafd5846b2b7bb327d7",
+    "name": "PSSTechnology, LLC",
+    "city": "Woodbury",
+    "state": "MN",
+    "zip_code": "55125"
+  },
+  {
     "id": "19bc650855614a7b8b325a43b1fb3b77",
     "name": "Psych Software Innovations",
     "city": "Evans",
     "state": "CO",
     "zip_code": "80620"
+  },
+  {
+    "id": "a5f6dd7281f59cd103cec1d9ae76506f",
+    "name": "Psychicfortunes",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip_code": "90034"
   },
   {
     "id": "6d470a62d99278f96d1c760e4af4e264",
@@ -28518,6 +30779,13 @@
     "zip_code": "48446"
   },
   {
+    "id": "f5097a2c4c5067aee091212282e86105",
+    "name": "QSwordWielder",
+    "city": "Pinole",
+    "state": "CA",
+    "zip_code": "94564"
+  },
+  {
     "id": "57b52415bd772b40de7b8465c48e2f61",
     "name": "Quadrature Consultant",
     "city": "Pompano Beach",
@@ -28567,6 +30835,13 @@
     "zip_code": "53075"
   },
   {
+    "id": "65d5bdcfd839f3fb226babc0ecbfa754",
+    "name": "QubaVR",
+    "city": "Redmond",
+    "state": "WA",
+    "zip_code": "98052"
+  },
+  {
     "id": "ab29550faa530bcb54d8d41a7b3d4944",
     "name": "Queen & Associates, LLC",
     "city": "Richmond",
@@ -28593,6 +30868,13 @@
     "city": "BLOOMFIELD",
     "state": "CT",
     "zip_code": "06002"
+  },
+  {
+    "id": "ddc2bf9b4e81b885f8b9c354cecdc310",
+    "name": "Queridomundo Creative",
+    "city": "Oakland",
+    "state": "CA",
+    "zip_code": "94601"
   },
   {
     "id": "3d314c654ca751a941e68cb857bf456a",
@@ -28777,6 +31059,13 @@
     "zip_code": "80304"
   },
   {
+    "id": "ca68e43ece150183c77b94b3b4f24a9e",
+    "name": "Radiant Soul Massage",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip_code": ""
+  },
+  {
     "id": "29bcd569953f5b19fed7433ed2d3d795",
     "name": "Radio Grind/The Dirty Grind Independent Artist Community",
     "city": "Largo",
@@ -28882,6 +31171,13 @@
     "zip_code": "02909"
   },
   {
+    "id": "5b7d68d22392184249d3a98395123e35",
+    "name": "Randall Smith Law Office",
+    "city": "Minneapolis, MN",
+    "state": "MN",
+    "zip_code": "55414"
+  },
+  {
     "id": "6d7e3577e4d8fdbd98cac65ba9ab8e09",
     "name": "Randall-Mac Consulting",
     "city": "Portland",
@@ -28901,6 +31197,13 @@
     "city": "Indian Land, SC",
     "state": "SC",
     "zip_code": "29707"
+  },
+  {
+    "id": "d0a1aa26fe44c69e791935464bcc3bc3",
+    "name": "Random Accessories",
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10003"
   },
   {
     "id": "3b95c4bac32dc34fabcd7b0fbf84d54d",
@@ -29078,11 +31381,25 @@
     "zip_code": "87901"
   },
   {
+    "id": "fb147dc25136addd1f094840439d1924",
+    "name": "Real Estate Learning Center",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "zip_code": "85260"
+  },
+  {
     "id": "34ffcf766c4efaf267ff44c400b4cf65",
     "name": "Real Estate Photography LA",
     "city": "Montrose",
     "state": "CA",
     "zip_code": "91020"
+  },
+  {
+    "id": "cfea51291b462603dd2a6d21edcd5379",
+    "name": "Realco Guns",
+    "city": "District Heights",
+    "state": "MD",
+    "zip_code": "20747"
   },
   {
     "id": "6c40c2e9dca231abffd964a1a8b4f25e",
@@ -29195,6 +31512,13 @@
     "city": "Fort Worth",
     "state": "TX",
     "zip_code": "76108"
+  },
+  {
+    "id": "21e00a04d5cf84c543f630d6cb60d788",
+    "name": "Red Tail Design Company",
+    "city": "Athens",
+    "state": "OH",
+    "zip_code": "45701"
   },
   {
     "id": "d33e510e28a7f016b477f2b8c204a3c8",
@@ -29435,6 +31759,13 @@
     "zip_code": "85308"
   },
   {
+    "id": "048306520687828c480a5e8eea6a81e1",
+    "name": "Reser Mechanics LLC",
+    "city": "Hermiston",
+    "state": "OR",
+    "zip_code": "97838"
+  },
+  {
     "id": "dc0404cad9dd6075ec162cba0cc71a21",
     "name": "Residential Reconditioning, LLC",
     "city": "Pleasant Ridge",
@@ -29566,6 +31897,13 @@
     "city": "Arlington",
     "state": "TX",
     "zip_code": "76017"
+  },
+  {
+    "id": "2a24155482eadb5f13d3be2a7970de12",
+    "name": "Rhonda's Country Craft's",
+    "city": "Dade City",
+    "state": "FL",
+    "zip_code": "33525"
   },
   {
     "id": "f09545b27846ae225c1996332ee823da",
@@ -29755,6 +32093,20 @@
     "city": "West Bend",
     "state": "WI",
     "zip_code": "53090"
+  },
+  {
+    "id": "a9c8502cfa00dc0eaadb3b1f90c4f17d",
+    "name": "River Street Gardens",
+    "city": "Halifax",
+    "state": "MA",
+    "zip_code": ""
+  },
+  {
+    "id": "fe96fbb124fe888383b2f69d28178f2c",
+    "name": "Riverside Auto Spa",
+    "city": "Riverside",
+    "state": "IA",
+    "zip_code": ""
   },
   {
     "id": "b88284f9bd33082730593fbcc38d28ba",
@@ -30149,6 +32501,13 @@
     "zip_code": "44120"
   },
   {
+    "id": "8b709376481012c8417df8f61de3b1d1",
+    "name": "Rough n Refined",
+    "city": "Lusk",
+    "state": "WY",
+    "zip_code": "82225"
+  },
+  {
     "id": "e1966c8a9fcd16f9bec8b386f938d302",
     "name": "Roush Video Production",
     "city": "North Wilkesboro",
@@ -30359,6 +32718,13 @@
     "zip_code": "03055"
   },
   {
+    "id": "09008cb129778abf499d29be97833655",
+    "name": "RUSSELL ORRELL CONSTRUCTION, INC.",
+    "city": "Frazier Park",
+    "state": "CA",
+    "zip_code": "93222"
+  },
+  {
     "id": "0a9c3cb9c0d8976a029f909c0c24a54b",
     "name": "Russet Boho to Go",
     "city": "Sarasota",
@@ -30441,6 +32807,13 @@
     "city": "GRAND RAPIDS",
     "state": "MI",
     "zip_code": "49546"
+  },
+  {
+    "id": "b54ae19fab821bfef748b93c5d742f7c",
+    "name": "RZ Farming & Gardening",
+    "city": "New Haven",
+    "state": "CT",
+    "zip_code": ""
   },
   {
     "id": "1cadb4eb18dbb5a800768edcca634553",
@@ -30548,6 +32921,13 @@
     "zip_code": "89131"
   },
   {
+    "id": "64a345bf0c4a7e7602ea9d301b84c871",
+    "name": "Safety Compliance Advisors",
+    "city": "sparks",
+    "state": "NV",
+    "zip_code": ""
+  },
+  {
     "id": "be1f635373d5afac6ce9604fe34b9bde",
     "name": "safety first electrical",
     "city": "Brentwood",
@@ -30609,6 +32989,13 @@
     "city": "Burlington",
     "state": "VT",
     "zip_code": "05401"
+  },
+  {
+    "id": "304c99d9f2867abe733051c488b53e5b",
+    "name": "Sajid",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip_code": "91367"
   },
   {
     "id": "3654fa2b8492357b8f5d42763204682a",
@@ -30891,6 +33278,13 @@
     "zip_code": "03904"
   },
   {
+    "id": "1471d4a9067c0fb1b02ed2fbc8ce0908",
+    "name": "Sarah Reesor Ceramics",
+    "city": "SOUTH LAKE TAHOE",
+    "state": "CA",
+    "zip_code": "96150"
+  },
+  {
     "id": "dfa6a1f58a2203e2c69f23e41e7e496a",
     "name": "Sarah's Business Solutions",
     "city": "BRONSON",
@@ -30903,6 +33297,13 @@
     "city": "Sarasota",
     "state": "FL",
     "zip_code": "34241"
+  },
+  {
+    "id": "c159e2f3b685046814ebb9ffc6c30b3b",
+    "name": "Saratoga Bagpiping",
+    "city": "Saratoga Springs",
+    "state": "NY",
+    "zip_code": "12866"
   },
   {
     "id": "a3eaa266273f5a40d2ca18da1175944d",
@@ -31036,6 +33437,13 @@
     "city": "middlebury",
     "state": "VT",
     "zip_code": "05753"
+  },
+  {
+    "id": "3ce87eacabd43515cf37b01ee689935c",
+    "name": "School Psychologist",
+    "city": "Flanders, NJ",
+    "state": "NJ",
+    "zip_code": ""
   },
   {
     "id": "11b658fbfd88e3ccaab6e809fdb7f3a5",
@@ -31325,11 +33733,11 @@
     "zip_code": "10016"
   },
   {
-    "id": "3062deb1f4c8488d84f0a4c5ade1a7ee",
-    "name": "self-employed",
-    "city": "Oakland",
-    "state": "CA",
-    "zip_code": "94605"
+    "id": "b6404fbe9d562369577ed374a0b60df3",
+    "name": "Self Directed Healing Inc",
+    "city": "Wheaton",
+    "state": "IL",
+    "zip_code": "60187"
   },
   {
     "id": "b0ce5dffd68255b481606a49941d1048",
@@ -31337,6 +33745,13 @@
     "city": "Millbrae",
     "state": "CA",
     "zip_code": "94030"
+  },
+  {
+    "id": "3062deb1f4c8488d84f0a4c5ade1a7ee",
+    "name": "self-employed",
+    "city": "Oakland",
+    "state": "CA",
+    "zip_code": "94605"
   },
   {
     "id": "711ca3e37f1ceae8c29617d17dfa0276",
@@ -31435,6 +33850,13 @@
     "city": "River Falls",
     "state": "WI",
     "zip_code": "54022"
+  },
+  {
+    "id": "992c81bc4bef732da2a1238c62b41f4f",
+    "name": "Serenity1SocialMedia",
+    "city": "Ellabell",
+    "state": "GA",
+    "zip_code": "31308"
   },
   {
     "id": "8094df1c73046f9a0a04ce10437fc93b",
@@ -31577,6 +33999,13 @@
     "zip_code": "16127"
   },
   {
+    "id": "b32ea3744f840912623beff177a58e14",
+    "name": "SG23 Design, LLC",
+    "city": "Palmyra",
+    "state": "NJ",
+    "zip_code": "08065"
+  },
+  {
     "id": "f0d6211b855555682c75c32752224ded",
     "name": "SGP Design Studio",
     "city": "San Juan",
@@ -31596,6 +34025,13 @@
     "city": "Jamison, PA",
     "state": "PA",
     "zip_code": "18929"
+  },
+  {
+    "id": "53cc36352b3ac9eda2b8f7e6fe99456a",
+    "name": "Shady Ladies Tours",
+    "city": "Watertown",
+    "state": "MA",
+    "zip_code": ""
   },
   {
     "id": "9ea641c342c6971267f9732e52de1093",
@@ -31680,6 +34116,13 @@
     "city": "Long Beach",
     "state": "CA",
     "zip_code": "90804"
+  },
+  {
+    "id": "8a9603a0cc513d79c9e21599a5919103",
+    "name": "Sharon Saint Don Jewelry",
+    "city": "Port Townsend",
+    "state": "WA",
+    "zip_code": "98368"
   },
   {
     "id": "7e44285de6750415f51a738f5c095a77",
@@ -31850,6 +34293,13 @@
     "zip_code": "33304"
   },
   {
+    "id": "63c4caacf0daae65ad2b539735c56fe7",
+    "name": "Shorebreeze Enterprises",
+    "city": "Venice",
+    "state": "FL",
+    "zip_code": "34293"
+  },
+  {
     "id": "e25ce326cc425c8819aa46042ec5aea2",
     "name": "Shur-rig",
     "city": "Buda",
@@ -31948,11 +34398,25 @@
     "zip_code": "95073"
   },
   {
+    "id": "20f196f1279057b94c85fdfa7cbf3a82",
+    "name": "Silver Rockets Web & Graphic Design",
+    "city": "Medford",
+    "state": "OR",
+    "zip_code": "97504"
+  },
+  {
     "id": "7891b0f67f2b54721dd86be10780e95f",
     "name": "Silver shoe products",
     "city": "Denton",
     "state": "MD",
     "zip_code": "21629"
+  },
+  {
+    "id": "026788e411f1beeeb98eb64f78d38cba",
+    "name": "Silver Sound",
+    "city": "New York",
+    "state": "NY",
+    "zip_code": ""
   },
   {
     "id": "4ac6b2ee3399109e456afd490114ee1e",
@@ -32016,6 +34480,13 @@
     "city": "",
     "state": "",
     "zip_code": "956717"
+  },
+  {
+    "id": "9f8843014e6c5c78b1280ce227ceac89",
+    "name": "Simply Hear",
+    "city": "Mount Prospect",
+    "state": "IL",
+    "zip_code": "60056"
   },
   {
     "id": "e7a8baf039b3d3a80bdc686ab37ef043",
@@ -32305,6 +34776,62 @@
     "zip_code": "45220"
   },
   {
+    "id": "d38b8ca72af9a82678af455cb701cfda",
+    "name": "Smacked Shop",
+    "city": "Olney",
+    "state": "MD",
+    "zip_code": "20832"
+  },
+  {
+    "id": "6b88c158d329aa4aeae0845f6a3dc347",
+    "name": "Small Business Owner",
+    "city": "Sterling Heights",
+    "state": "MI",
+    "zip_code": ""
+  },
+  {
+    "id": "a19cf561a766a51d2b1719f4c86d1ead",
+    "name": "Small Business Owner",
+    "city": "Escondido",
+    "state": "CA",
+    "zip_code": ""
+  },
+  {
+    "id": "f4613c95ec7d3d4cc92483e4415e8cd4",
+    "name": "Small Business Owner",
+    "city": "Limestone",
+    "state": "ME",
+    "zip_code": ""
+  },
+  {
+    "id": "6ee51cd15c2a382577ddf4081bc8781f",
+    "name": "Small Business Owner",
+    "city": "Mesa",
+    "state": "CA",
+    "zip_code": ""
+  },
+  {
+    "id": "fe8100c1c86a46d7521689d7302d8f8c",
+    "name": "Small Business Owner",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip_code": ""
+  },
+  {
+    "id": "4ffe88fa18a47c89a6531a5f19d7e192",
+    "name": "Small Business Owner",
+    "city": "Shoreline",
+    "state": "WA",
+    "zip_code": ""
+  },
+  {
+    "id": "d82dc4c2ecfc04e087259c69c2fa2a77",
+    "name": "Smalltrees 24hr Childcare",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip_code": "85017"
+  },
+  {
     "id": "18f02f08ed3e669f780f21b58f413dce",
     "name": "Smart Ascots",
     "city": "San Francisco",
@@ -32473,6 +35000,13 @@
     "zip_code": "96161"
   },
   {
+    "id": "47350e0577f98ac0a36de2a51b091baa",
+    "name": "Snowy Peak Systems, LLC",
+    "city": "Pueblo",
+    "state": "CO",
+    "zip_code": "81007"
+  },
+  {
     "id": "147fb3aeda88c4e7c0c178e94f2afdff",
     "name": "Soccer Source",
     "city": "Eden Prairie",
@@ -32536,6 +35070,13 @@
     "zip_code": "33455"
   },
   {
+    "id": "0ab91ae3f99a6242ead903118dde5b61",
+    "name": "Soft Focus",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip_code": "30319"
+  },
+  {
     "id": "d6939e4de5b7e058fceed36fc7b527e5",
     "name": "Soft Green Corp",
     "city": "West Columbia",
@@ -32583,6 +35124,20 @@
     "city": "Los Osos",
     "state": "CA",
     "zip_code": "93402"
+  },
+  {
+    "id": "43b54fe1aebb79b0664119871d99674a",
+    "name": "Solar Professional Services, LLC",
+    "city": "Fort Collins",
+    "state": "CO",
+    "zip_code": "80521"
+  },
+  {
+    "id": "1bff897cbec407a5921893f3703e2a35",
+    "name": "Solar Temple Tapes",
+    "city": "Chicago",
+    "state": "IL",
+    "zip_code": "60641"
   },
   {
     "id": "53396324b5d7e15c016e0f7bad7ccd29",
@@ -32639,6 +35194,13 @@
     "city": "Indianapolis",
     "state": "IN",
     "zip_code": "46217"
+  },
+  {
+    "id": "be5634de3eee13361190ffa019a461d0",
+    "name": "Soligen Corp.",
+    "city": "Irvine",
+    "state": "CA",
+    "zip_code": "92614"
   },
   {
     "id": "2a02b504e2d50d467726d222d3fa17e2",
@@ -33061,11 +35623,25 @@
     "zip_code": "34949"
   },
   {
+    "id": "a1e4367a8c5b3eda6511262cf6878ca5",
+    "name": "Spirit Outsource, LLC",
+    "city": "Johnson City",
+    "state": "TX",
+    "zip_code": "78636"
+  },
+  {
     "id": "359f82abdda120cede37f743b3106aa7",
     "name": "Spiritbody Inc",
     "city": "Los Angeles",
     "state": "CA",
     "zip_code": "90065"
+  },
+  {
+    "id": "38d4619293c47fea1c2382ee1ac65a7b",
+    "name": "Spiritcaller Studios",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip_code": "85715"
   },
   {
     "id": "ee182e92cd49b233af26b42673c84bb0",
@@ -33215,6 +35791,13 @@
     "zip_code": "56401"
   },
   {
+    "id": "31d26e6d2a34605c6fd02e419db21e24",
+    "name": "SRIORT LLC",
+    "city": "Jasper",
+    "state": "IN",
+    "zip_code": "47546"
+  },
+  {
     "id": "d139f722ed739cfb1b083b775388d3e1",
     "name": "SS Howard Real Estate Services, LLC",
     "city": "Baltimore",
@@ -33313,6 +35896,13 @@
     "zip_code": "80301"
   },
   {
+    "id": "713428a7c934498346297d3725debcf1",
+    "name": "Stageline Pizza",
+    "city": "Polson",
+    "state": "MT",
+    "zip_code": "59860"
+  },
+  {
     "id": "0515745ef5b0de7ccafef6e31be3c21b",
     "name": "Staging Prestige LLC",
     "city": "Orlando",
@@ -33348,6 +35938,13 @@
     "zip_code": "33020"
   },
   {
+    "id": "7af9c092bb5af61a7467fbb2c7e6f6c3",
+    "name": "Standard 5&10 Ace, Marin Ace and Laurel Ace",
+    "city": "greenbrae",
+    "state": "CA",
+    "zip_code": ""
+  },
+  {
     "id": "105a93da6070f3fecac4bbed739ba677",
     "name": "Stanley consultants",
     "city": "Denver",
@@ -33367,6 +35964,13 @@
     "city": "South Portland",
     "state": "ME",
     "zip_code": "04106"
+  },
+  {
+    "id": "b85956bfafe7b29aa77056f9b53814de",
+    "name": "Stardust Market Garden",
+    "city": "Fairland, Oklahoma",
+    "state": "OK",
+    "zip_code": ""
   },
   {
     "id": "1f76087332d786552c848b126b88cdac",
@@ -33437,6 +36041,13 @@
     "city": "Greensboro",
     "state": "NC",
     "zip_code": "27455"
+  },
+  {
+    "id": "d5e82ff88519cbd9decc5b2fb9d6ff7f",
+    "name": "Steadyrudder.com",
+    "city": "Washington",
+    "state": "IA",
+    "zip_code": ""
   },
   {
     "id": "4fb7a5033fbd5c518a91e4e466d6a131",
@@ -33535,6 +36146,13 @@
     "city": "Oakland",
     "state": "CA",
     "zip_code": "94607"
+  },
+  {
+    "id": "4a79c890e64d348a6141e755fe843b1e",
+    "name": "Steven Biel Strategies",
+    "city": "La Puente",
+    "state": "ME",
+    "zip_code": "04102"
   },
   {
     "id": "669579d0804c3dcf1b69be13974ff45f",
@@ -33647,6 +36265,13 @@
     "city": "Cambridge",
     "state": "MA",
     "zip_code": "02140"
+  },
+  {
+    "id": "0bc021a99da1ce76ae8d28f71057765b",
+    "name": "StoreStream LLC",
+    "city": "Idaho Falls",
+    "state": "ID",
+    "zip_code": "83406"
   },
   {
     "id": "2fb444f3a83ff52cdd4fbb19bbeb9923",
@@ -34013,6 +36638,13 @@
     "zip_code": "10065"
   },
   {
+    "id": "96e51ee305155b6654b388c9c83305eb",
+    "name": "Summerana LLC",
+    "city": "Eagle River",
+    "state": "WI",
+    "zip_code": "54521"
+  },
+  {
     "id": "80635d199b23e0db477dbaffb228298b",
     "name": "SummitWest Environmental",
     "city": "Bend",
@@ -34062,6 +36694,13 @@
     "zip_code": "93406"
   },
   {
+    "id": "ff5dd0b948669b522f7ab07ac199fbe7",
+    "name": "Sunset Productions",
+    "city": "Jamestown",
+    "state": "RI",
+    "zip_code": ""
+  },
+  {
     "id": "0e740503338efcd95e644d0bab6ce5c8",
     "name": "Sunset Travel Inc.",
     "city": "Sandpoint",
@@ -34074,6 +36713,13 @@
     "city": "SAINT CROIX FALLS",
     "state": "WI",
     "zip_code": "54024"
+  },
+  {
+    "id": "fdc13ecb26bfdca00a437771f9b1a1c5",
+    "name": "Super Electro",
+    "city": "Swannanoa",
+    "state": "NC",
+    "zip_code": ""
   },
   {
     "id": "46bb7200959c49f6e84b97c1ec30c8bb",
@@ -34097,6 +36743,13 @@
     "zip_code": "85117"
   },
   {
+    "id": "addca9593689d3368834dcc8fb85b470",
+    "name": "Supporting citizen",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip_code": ""
+  },
+  {
     "id": "90c84cd9981647b4f43fa4fd09bad4da",
     "name": "Surf Trips Llc.",
     "city": "Northridge",
@@ -34109,6 +36762,13 @@
     "city": "Knoxville",
     "state": "TN",
     "zip_code": "37923"
+  },
+  {
+    "id": "cf0eb821f0649d0e3d3ce35431d00233",
+    "name": "Survival Media Agency",
+    "city": "Oakland",
+    "state": "CA",
+    "zip_code": "94611"
   },
   {
     "id": "34a5439d8590085839778d0d1b4808bc",
@@ -34130,6 +36790,13 @@
     "city": "Richmond",
     "state": "VA",
     "zip_code": "23230"
+  },
+  {
+    "id": "67581d13f202559ba42e725155127658",
+    "name": "Susan J Weiand Photography",
+    "city": "San Jose",
+    "state": "CA",
+    "zip_code": "95129"
   },
   {
     "id": "d38c9c9bb23a7115f64d18b79148eda0",
@@ -34559,11 +37226,25 @@
     "zip_code": "29178-1544"
   },
   {
+    "id": "110945a8d00d2e65b3617f906172056e",
+    "name": "Tangent Artists",
+    "city": "Warrenton",
+    "state": "VA",
+    "zip_code": "20187"
+  },
+  {
     "id": "41cb21c0074807953119ffdaf391423e",
     "name": "Tangled Sky Press",
     "city": "Mount Vernon",
     "state": "WA",
     "zip_code": "98273"
+  },
+  {
+    "id": "e09f4104de77c1117326503be7633736",
+    "name": "Tanglewood Forest Gallery",
+    "city": "Grass Valley",
+    "state": "CA",
+    "zip_code": "95945-5607"
   },
   {
     "id": "18c88fb258a4a4e4c295814017da6b99",
@@ -34671,6 +37352,13 @@
     "zip_code": "85009"
   },
   {
+    "id": "eac47cf7e4fb375e668e0b0fea3be926",
+    "name": "TAYLOR RIGHT Copr",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip_code": ""
+  },
+  {
     "id": "8a4fedb1637f9e4e6dfc1122d9d8faf6",
     "name": "Taylor Right Corp",
     "city": "Phoenix",
@@ -34746,6 +37434,13 @@
     "city": "WI",
     "state": "WI",
     "zip_code": "53211"
+  },
+  {
+    "id": "d997d4593f9f0a8f66f8e1ddada5c6d1",
+    "name": "Tech Interpreter LLC",
+    "city": "Olathe",
+    "state": "KS",
+    "zip_code": "66061"
   },
   {
     "id": "c6942400618e4996d4c7ef97cb4e284e",
@@ -34979,6 +37674,13 @@
     "zip_code": "77586"
   },
   {
+    "id": "cf9ca357395f0f570fd5fb8fbccb4f94",
+    "name": "TextileArtist.org",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip_code": "11222"
+  },
+  {
     "id": "a048e21d70d2a8a73a9dcffcaab362e5",
     "name": "TextileArtist.org",
     "city": "New York",
@@ -35068,6 +37770,20 @@
     "city": "mint hill",
     "state": "NC",
     "zip_code": "28227"
+  },
+  {
+    "id": "19e117bab91bf674194089937d366d29",
+    "name": "The Baroness",
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10009"
+  },
+  {
+    "id": "9c1b3c3d6b90073332958306542cc705",
+    "name": "The Barre Code Grand Rapids",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip_code": "49503"
   },
   {
     "id": "14681e5c569031ebb3f70f58b1cd72ca",
@@ -35301,6 +38017,20 @@
     "zip_code": "70115"
   },
   {
+    "id": "035bfef8f0dd992804ad29362f7c5a59",
+    "name": "The Declutter Therapist",
+    "city": "Encinitas",
+    "state": "CA",
+    "zip_code": ""
+  },
+  {
+    "id": "42648aaab3e5a3c169bab1d0ac2ad8c0",
+    "name": "The Diabetes Initiative",
+    "city": "Park City",
+    "state": "UT",
+    "zip_code": ""
+  },
+  {
     "id": "816706a43226c2904d46be807229dd32",
     "name": "The Diabetes Initiative LLC",
     "city": "Park City",
@@ -35476,6 +38206,20 @@
     "zip_code": "81004"
   },
   {
+    "id": "53e025433b0063bdc0ff6ec84f223a90",
+    "name": "The Hot Brain",
+    "city": "Henrico",
+    "state": "VA",
+    "zip_code": "23229"
+  },
+  {
+    "id": "4af5adac74f50bc6c4a8f2b0415de70a",
+    "name": "The Human Dimension",
+    "city": "Castle Rock",
+    "state": "CO",
+    "zip_code": ""
+  },
+  {
     "id": "a5e82525d4f2ffc8306e7fddf64390b4",
     "name": "The Independence Center",
     "city": "CO",
@@ -35602,6 +38346,13 @@
     "zip_code": "33469"
   },
   {
+    "id": "f074bdf2b934841186c8633d2360c2ea",
+    "name": "The Line Up",
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10003"
+  },
+  {
     "id": "a6dbadccc4a0033f2be0c7d5345d73f6",
     "name": "The Living Cosmos Society",
     "city": "Eugene",
@@ -35621,6 +38372,20 @@
     "city": "cape may court house",
     "state": "NJ",
     "zip_code": "08210"
+  },
+  {
+    "id": "f51f495899899aeed19dc21794159727",
+    "name": "The Magick Cabinet",
+    "city": "North Hollywood",
+    "state": "CA",
+    "zip_code": "91602"
+  },
+  {
+    "id": "bdee7a16fd55a162aa686e18b1b5fc20",
+    "name": "The Mane Attraction",
+    "city": "Louisville",
+    "state": "KY",
+    "zip_code": "40214"
   },
   {
     "id": "3e07036556c830b4f2e158aa9b456be1",
@@ -35705,6 +38470,13 @@
     "city": "Boulder",
     "state": "CO",
     "zip_code": "80301-2359"
+  },
+  {
+    "id": "ee2aac717bec987e828e306a1f522bb5",
+    "name": "The oodcarver",
+    "city": "Corvallis",
+    "state": "MT",
+    "zip_code": ""
   },
   {
     "id": "926f8e781cb4e06d163992e5e2a4eb08",
@@ -35847,6 +38619,13 @@
     "zip_code": "64154"
   },
   {
+    "id": "12d5bc3d525971646af7f1870c4703df",
+    "name": "The Rusty Bucket",
+    "city": "Sheffield",
+    "state": "VT",
+    "zip_code": ""
+  },
+  {
     "id": "8c03117341f5911282698911e8d1417e",
     "name": "The Sages' Touch LLC",
     "city": "Cincinnati",
@@ -35945,6 +38724,13 @@
     "zip_code": "87108"
   },
   {
+    "id": "a691ea2f7c4b9cfab99a9b4b3a97abf8",
+    "name": "The Story Shop",
+    "city": "Anderson",
+    "state": "IN",
+    "zip_code": "46011"
+  },
+  {
     "id": "c6961f793575e0043ec0cb03583ce3ef",
     "name": "The Stranded Yankee",
     "city": "Corpus Christi",
@@ -35978,6 +38764,13 @@
     "city": "Brunswick",
     "state": "ME",
     "zip_code": "04011"
+  },
+  {
+    "id": "118e1c7d2fc5c615acf438bb7c297410",
+    "name": "The Sustainable Living Project",
+    "city": "Tampa",
+    "state": "FL",
+    "zip_code": "33612"
   },
   {
     "id": "242e493c807c26bbd709fae9fa5ff618",
@@ -36099,16 +38892,16 @@
     "zip_code": "07410"
   },
   {
-    "id": "c5b128f6fe6a1790761d3402ebdd1ca9",
+    "id": "031b2fcd22645186037533b74282045b",
     "name": "The Weirdland Story",
-    "city": "Napa",
+    "city": "Napa, CA",
     "state": "CA",
     "zip_code": "94559"
   },
   {
-    "id": "031b2fcd22645186037533b74282045b",
+    "id": "c5b128f6fe6a1790761d3402ebdd1ca9",
     "name": "The Weirdland Story",
-    "city": "Napa, CA",
+    "city": "Napa",
     "state": "CA",
     "zip_code": "94559"
   },
@@ -36251,6 +39044,13 @@
     "city": "Saint Louis",
     "state": "MO",
     "zip_code": "63108"
+  },
+  {
+    "id": "b9dd5f15a4be5b6f7f89acba1f5680a2",
+    "name": "Thinking Systems",
+    "city": "St Petersburg",
+    "state": "FL",
+    "zip_code": ""
   },
   {
     "id": "9489e849ee5e9ba671e725029a554fa1",
@@ -36568,6 +39368,13 @@
     "zip_code": "81201"
   },
   {
+    "id": "151309d8b276fdf8f3a1aa06dbe86523",
+    "name": "Tischer STudios",
+    "city": "CO",
+    "state": "CO",
+    "zip_code": "81201"
+  },
+  {
     "id": "9ac1d9a20b3a65d3686233f94a722474",
     "name": "TitanEZ.net",
     "city": "Spokane",
@@ -36764,6 +39571,13 @@
     "zip_code": "98596"
   },
   {
+    "id": "ad17eaaf15ca9208bec737c44269c263",
+    "name": "Touch of Class",
+    "city": "Highland",
+    "state": "MD",
+    "zip_code": ""
+  },
+  {
     "id": "66f6ffc1822979d2216f26725011276a",
     "name": "Touching the Core with Chi Nei Tsang",
     "city": "Oakland",
@@ -36874,6 +39688,13 @@
     "city": "Sanford",
     "state": "NC",
     "zip_code": "27330"
+  },
+  {
+    "id": "e4f7c5ef3e63a2995c97e71f1de9b4ba",
+    "name": "Train Productions",
+    "city": "Nashville",
+    "state": "TN",
+    "zip_code": "37214"
   },
   {
     "id": "d4419386ca4dd837018dd81b67c09a23",
@@ -37030,6 +39851,20 @@
     "zip_code": "12477"
   },
   {
+    "id": "a4d167960f1f0cfbd72d9ab2d9f77727",
+    "name": "Trigon Consulting",
+    "city": "Camano Island",
+    "state": "WA",
+    "zip_code": "98282"
+  },
+  {
+    "id": "4e8a04e45766ce9af7d6a990513b168e",
+    "name": "Trillium Northwest",
+    "city": "Portland",
+    "state": "OR",
+    "zip_code": "97222"
+  },
+  {
     "id": "c22bf14fd32f1d2d0f14e318b44ecccc",
     "name": "Trilogy Trxhnology Solitions llc",
     "city": "Wheelersburg",
@@ -37042,6 +39877,13 @@
     "city": "Cary NC",
     "state": "NC",
     "zip_code": "27511"
+  },
+  {
+    "id": "a65254891323b32bf67bcfdee0c35867",
+    "name": "Trinideli",
+    "city": "Weaverville",
+    "state": "CA",
+    "zip_code": "96093"
   },
   {
     "id": "ad65d4315b0874bd502d1147aa9a8b20",
@@ -37226,6 +40068,13 @@
     "zip_code": "15010"
   },
   {
+    "id": "f8e3a9fb1f822b68f251951f5d204f1c",
+    "name": "Turnstil",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip_code": "11215"
+  },
+  {
     "id": "579096a169796e1b76a440860345ac2c",
     "name": "Turtle Island Web Design",
     "city": "Lummi Island",
@@ -37373,6 +40222,20 @@
     "zip_code": "85248"
   },
   {
+    "id": "57c7a6ce00fa47317f64cb9f31675c94",
+    "name": "Ultimate Dive Travel",
+    "city": "Vero Beach",
+    "state": "FL",
+    "zip_code": "32969"
+  },
+  {
+    "id": "35a312e123bc8c62cddfe0ef6268bb2e",
+    "name": "Ultimate Dive Travel, Ltd",
+    "city": "Vero Beach",
+    "state": "FL",
+    "zip_code": "32969"
+  },
+  {
     "id": "5577a370aa5144c38bd55969fb7928ab",
     "name": "Ultimate Dive Travel, Ltd.",
     "city": "Vero Beach",
@@ -37392,6 +40255,13 @@
     "city": "Brewster",
     "state": "NY",
     "zip_code": "10509"
+  },
+  {
+    "id": "b9d6609b25614f862d10b120d38db0d7",
+    "name": "Umbergers of Fontana",
+    "city": "Lebanon",
+    "state": "PA",
+    "zip_code": "17042"
   },
   {
     "id": "27884033078b552c4fb76f0a86d6736f",
@@ -37541,6 +40411,13 @@
     "zip_code": "77586"
   },
   {
+    "id": "ee8fb860f65729d9cd16c84e9c04a201",
+    "name": "Up & Down, Inc.",
+    "city": "Santa Barbara",
+    "state": "CA",
+    "zip_code": "93121"
+  },
+  {
     "id": "ce0072dcb69cf77fd1dee1beb9bbbd4d",
     "name": "Up & Running Computer Services",
     "city": "San Francisco",
@@ -37604,11 +40481,25 @@
     "zip_code": "28801"
   },
   {
+    "id": "2e4a2e52fdf917f2078f8dd2c962200e",
+    "name": "US Ascension Group",
+    "city": "South Glastonbury",
+    "state": "CT",
+    "zip_code": "06073-0101"
+  },
+  {
     "id": "23cedc8221a1e427e7b69508df3cb2b3",
     "name": "US Tax Liens &Deeds, LLC",
     "city": "Waldorf",
     "state": "MD",
     "zip_code": "20601"
+  },
+  {
+    "id": "666fe04cb96b9bc76452da53006ade09",
+    "name": "usc lgbt resource center",
+    "city": "Acworth",
+    "state": "NH",
+    "zip_code": "03601"
   },
   {
     "id": "6ad10d0caed1fc4bd0ee8d5732fbde84",
@@ -37623,6 +40514,13 @@
     "city": "Saint Paul",
     "state": "MN",
     "zip_code": "55126"
+  },
+  {
+    "id": "1750f2043ea04dc3c9834247c69a1922",
+    "name": "UVM LGBTQA Center",
+    "city": "Burlington",
+    "state": "VT",
+    "zip_code": "05405"
   },
   {
     "id": "a3451143a60c00022eb4648e9daea351",
@@ -37693,6 +40591,13 @@
     "city": "forest grove",
     "state": "OR",
     "zip_code": "97116"
+  },
+  {
+    "id": "25d1698bb2cbe6404b706bca827721a0",
+    "name": "Van Dyke & Associates",
+    "city": "Monte Rio",
+    "state": "CA",
+    "zip_code": ""
   },
   {
     "id": "08c11b026ca01d9d68e4d61f17f54750",
@@ -37779,6 +40684,13 @@
     "zip_code": "90068"
   },
   {
+    "id": "552aab913d606484610fc6dfe8c5bb11",
+    "name": "Vedarcis LLC",
+    "city": "Grand Prairie",
+    "state": "TX",
+    "zip_code": "75050"
+  },
+  {
     "id": "698c8c0b9e29cbc6ae713c07364ec290",
     "name": "Vedrica Forest Gardens LLC",
     "city": "Greencreek",
@@ -37805,6 +40717,13 @@
     "city": "Davis",
     "state": "CA",
     "zip_code": "95617"
+  },
+  {
+    "id": "5ecc9e393560b68c0940d02bfcd54a3d",
+    "name": "Vela Wood P.C.",
+    "city": "Austin",
+    "state": "TX",
+    "zip_code": "78701"
   },
   {
     "id": "9b96c53ad7177c8b8272d62273880009",
@@ -37884,6 +40803,13 @@
     "zip_code": "05753"
   },
   {
+    "id": "ee8df22565b5d16d0b8d0ed5db8ab354",
+    "name": "Vermont Gas",
+    "city": "South Burlington",
+    "state": "VT",
+    "zip_code": "05403"
+  },
+  {
     "id": "10db06d0950634204e54511710df73e4",
     "name": "Vermont Lottery",
     "city": "Barre",
@@ -37931,6 +40857,13 @@
     "city": "Denver",
     "state": "CO",
     "zip_code": "80205"
+  },
+  {
+    "id": "1b44ae5418870fe42a7d61c69f1eb81a",
+    "name": "veselasimic.com",
+    "city": "Vernon Hills",
+    "state": "IL",
+    "zip_code": ""
   },
   {
     "id": "efedffa8cd9e85b499c19778518d2415",
@@ -38045,6 +40978,13 @@
     "zip_code": "62703"
   },
   {
+    "id": "ebfcbf4c20518fa4da1327acf61cc0a1",
+    "name": "Viking Innovations LLC",
+    "city": "Glendale",
+    "state": "CA",
+    "zip_code": "91204"
+  },
+  {
     "id": "06500cbaf49646206898ee5cedb1f1ba",
     "name": "Vince Decker Homes",
     "city": "Seattle",
@@ -38057,6 +40997,13 @@
     "city": "Mount Pleasant",
     "state": "SC",
     "zip_code": "29464"
+  },
+  {
+    "id": "54a9184ccf78c00c29b7868a82b08caf",
+    "name": "Vinnie's Pizza LLC",
+    "city": "Portland",
+    "state": "OR",
+    "zip_code": "97213"
   },
   {
     "id": "d8858aac2673b1331b8d2733be87ad89",
@@ -38101,6 +41048,13 @@
     "zip_code": "19119"
   },
   {
+    "id": "b6bb7092b1d10fdd4912451994e0610b",
+    "name": "Virginia Gun Safety",
+    "city": "Alexandria",
+    "state": "VA",
+    "zip_code": "22310"
+  },
+  {
     "id": "94ab9669602900fe00b0884e5d97732a",
     "name": "Virginia Miller Galleries",
     "city": "Coral Gables",
@@ -38134,6 +41088,13 @@
     "city": "Seattle",
     "state": "WA",
     "zip_code": "98195"
+  },
+  {
+    "id": "9d5e376c1db05dffc64ec313b05fe2f8",
+    "name": "VIRTUALhaus",
+    "city": "Dallas",
+    "state": "TX",
+    "zip_code": "75201"
   },
   {
     "id": "6ae59a817a2165afd2bbc80c40577d39",
@@ -38409,6 +41370,13 @@
     "zip_code": "94030"
   },
   {
+    "id": "00d0ac194b7647b0fa9dd1838b470f50",
+    "name": "Warm Media",
+    "city": "Bend",
+    "state": "OR",
+    "zip_code": "97701"
+  },
+  {
     "id": "67206f7ed0710dd52cc3a4132640aa58",
     "name": "Warm Window Designs",
     "city": "Mill Creek",
@@ -38442,6 +41410,13 @@
     "city": "Denver",
     "state": "CO",
     "zip_code": "80246"
+  },
+  {
+    "id": "54c5d6550d236ad98ddc4916ca0d4c4a",
+    "name": "Watermark Deasigns",
+    "city": "Irvine",
+    "state": "CA",
+    "zip_code": ""
   },
   {
     "id": "bd515bb608ce35734dc0c34fb4dd5ad7",
@@ -38549,6 +41524,13 @@
     "zip_code": "10023"
   },
   {
+    "id": "21642abe0229db05e686609a6eafb2f3",
+    "name": "Weathering Solutions",
+    "city": "Maplewood",
+    "state": "MO",
+    "zip_code": "63143"
+  },
+  {
     "id": "2b73163c0cd60310ae0fbf38c9a7c262",
     "name": "Web Design Kinetix",
     "city": "Jacksonville",
@@ -38561,6 +41543,13 @@
     "city": "Oviedo",
     "state": "FL",
     "zip_code": "32765"
+  },
+  {
+    "id": "07632d447cee8cece048bd757edd6de4",
+    "name": "Weber Engineering",
+    "city": "N. Mankato, MN",
+    "state": "MN",
+    "zip_code": "56003"
   },
   {
     "id": "575bbe1703532787a6b8fd2a380387bf",
@@ -38598,6 +41587,13 @@
     "zip_code": "55343"
   },
   {
+    "id": "cf466b1ee657715fc28efc2001813a94",
+    "name": "Well Built Bikes",
+    "city": "Tampa",
+    "state": "FL",
+    "zip_code": "33602"
+  },
+  {
     "id": "29a52bde9479a82e9d5855e4f4617b8d",
     "name": "Well Spent",
     "city": "Ancram Town of",
@@ -38619,6 +41615,13 @@
     "zip_code": "99573"
   },
   {
+    "id": "6069d3f9365383ef3fd6c3e2a7b657f6",
+    "name": "Wendy gold",
+    "city": "Saugerties",
+    "state": "NY",
+    "zip_code": ""
+  },
+  {
     "id": "c4632c770bf95298be8ce96871ed710a",
     "name": "Wendy Joffe Ph.D",
     "city": "MIAMI",
@@ -38638,6 +41641,13 @@
     "city": "Berkeley",
     "state": "CA",
     "zip_code": "94708"
+  },
+  {
+    "id": "a54211475576b4304850bf911aa36495",
+    "name": "Weprin Properties",
+    "city": "Lafayette",
+    "state": "CO",
+    "zip_code": ""
   },
   {
     "id": "6f52cc7d48f955e551bb23571d845e9b",
@@ -38822,6 +41832,13 @@
     "zip_code": "64110"
   },
   {
+    "id": "8be91d977974561bd38dde0beaa49571",
+    "name": "Whodunnit - Murder Mystery Game App",
+    "city": "Mission Hills",
+    "state": "CA",
+    "zip_code": "91345"
+  },
+  {
     "id": "48f325eee4c42062081780f3136465f2",
     "name": "Whole Body Beats",
     "city": "ALAMO",
@@ -38869,6 +41886,27 @@
     "city": "Pittsburgh",
     "state": "PA",
     "zip_code": "15235"
+  },
+  {
+    "id": "5338085520fdfd94f6e591d15e1d1bdb",
+    "name": "Widetrack Productions",
+    "city": "Waterford",
+    "state": "MI",
+    "zip_code": "48327"
+  },
+  {
+    "id": "2649995b0b7e7689c096176e6096af3b",
+    "name": "Wigs By Byron",
+    "city": "North Hollywood",
+    "state": "CA",
+    "zip_code": "91601"
+  },
+  {
+    "id": "f5ce907cc0b9c1ba301e71ba55f7e707",
+    "name": "Wilcox Foods",
+    "city": "Oakland",
+    "state": "CA",
+    "zip_code": "94602"
   },
   {
     "id": "3ffc4b0a15359b68dc95b3e413a735f7",
@@ -38969,6 +42007,13 @@
     "zip_code": "32301"
   },
   {
+    "id": "b28bdcb2c99d86f2c1621a8d503ab9a0",
+    "name": "Williams & Williams, Inc.",
+    "city": "Wayzata",
+    "state": "MN",
+    "zip_code": ""
+  },
+  {
     "id": "f96001cbe70db59329c70f5d3de242e9",
     "name": "Williams & Williams, inc.",
     "city": "deephaven",
@@ -39002,6 +42047,13 @@
     "city": "TX",
     "state": "TX",
     "zip_code": "76230"
+  },
+  {
+    "id": "7ec03bdee09abf037a6a1a44e39bcc13",
+    "name": "Willow Wolf Contracting",
+    "city": "Bozeman",
+    "state": "MT",
+    "zip_code": "59715"
   },
   {
     "id": "5ac17720aacc1af32ab07a2348856df7",
@@ -39494,6 +42546,13 @@
     "zip_code": "20895"
   },
   {
+    "id": "1ca495b1dffac1e232531668d5e064eb",
+    "name": "Xtrepid Design",
+    "city": "Kensington",
+    "state": "MD",
+    "zip_code": "20895"
+  },
+  {
     "id": "7016df9b1cdf7be5522bec19eed1686d",
     "name": "Xun Biosphere Project",
     "city": "Cazadero",
@@ -39627,6 +42686,13 @@
     "zip_code": "61536"
   },
   {
+    "id": "bf4b7a221cd9b74a305affa70bd0256d",
+    "name": "your story counseling",
+    "city": "Columbia Town of",
+    "state": "CT",
+    "zip_code": "06237"
+  },
+  {
     "id": "a056ce4135a613bed30651eccc8e5731",
     "name": "Your Tech Therapist",
     "city": "OMAHA",
@@ -39697,6 +42763,13 @@
     "zip_code": "49707"
   },
   {
+    "id": "a0ea8c52911fd56571257f971ac55899",
+    "name": "Zen Infinity",
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10302"
+  },
+  {
     "id": "44b4182d774c823bac86b5c5efd04b3c",
     "name": "Zen Shiatsu Chicago",
     "city": "Evanston",
@@ -39732,6 +42805,13 @@
     "zip_code": "12209"
   },
   {
+    "id": "5ddb51db81eb360d017eb06457cc42da",
+    "name": "ZEWA Design",
+    "city": "Windsor",
+    "state": "MO",
+    "zip_code": "65360"
+  },
+  {
     "id": "c4becb919111a72b079be6564898cfd2",
     "name": "Zinn Technologies",
     "city": "Easton, PA",
@@ -39744,6 +42824,13 @@
     "city": "Tooele",
     "state": "UT",
     "zip_code": "84074"
+  },
+  {
+    "id": "a9741aa639778e35965d82ba30ce7ea2",
+    "name": "Zip's Cafe",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip_code": "45208"
   },
   {
     "id": "567021b2bc712d026c7a1f1500082e78",
@@ -39793,6 +42880,13 @@
     "city": "ARDEN",
     "state": "NC",
     "zip_code": "28704"
+  },
+  {
+    "id": "c0e4fe20c30d5206699e7b0dccd09781",
+    "name": "Zowie Music and Productions",
+    "city": "Arden",
+    "state": "NC",
+    "zip_code": ""
   },
   {
     "id": "1df2796f50ea275316fbcde0c7359985",
