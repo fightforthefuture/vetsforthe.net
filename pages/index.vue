@@ -6,7 +6,7 @@
       </h1>
       <p>Small businesses will be among those hurt most by the loss of net neutrality, but they can also 
       play a key role in saving it. In May 2018, we organized thousands of small business owners from 
-      around the nationto sign on to our open letter to Congress in support of net neutrality. 
+      around the nation to sign on to our open letter to Congress in support of net neutrality. 
       Many of these business owners attended protest events and hand-delivered copies of the open letter 
       to their lawmakers ... and it worked. The Senate voted to overturn the FCC's repeal of net neutrality.</p>
       <p>Now we need to win the vote in the House of Representatives, and we're calling on small
