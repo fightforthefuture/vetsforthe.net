@@ -2,12 +2,18 @@
   <div class="container">
     <section>
       <h1>
-        <small>May 2nd, 2018:</small>
         Small Businesses Can Save the Internet
       </h1>
-      <p>The first week of May is national “Small Business Week.” Thousands of small businesses are signing on to this open letter to Congress, just weeks before they’re expected to vote on the Congressional Review Act (CRA) resolution to block the FCC’s repeal of net neutrality</p>
-      <p>Small businesses will be hurt the most by the loss of net neutrality, but can also play a key role in saving it. Members of Congress take businesses owners from their district very seriously. We’re delivering the letter on May 2, so we have until then to get as many businesses to sign as possible. Please spread the word!</p>
-      <p>
+      <p>Small businesses will be among those hurt most by the loss of net neutrality, but they 
+      can also play a key role in saving it. Because small businesses are vital to their local
+      economies, members of Congres take business owners from their district very seriously.</p>
+      <p>So in May 2018, we organized thousands of small business owners from around the nation
+      to sign on to our open letter to Congress in support of net neutrality. Many of these business 
+      owners attended protest events and hand-delivered copies of the open letter to their lawmakers ...
+      and it worked. The Senate voted in favor of overturning the FCC's repeal of net neutrality.</p>
+      <p>But now we need to win the vote in the House of Representatives, and we're calling on small
+      business owners across America to demand their lawmakers support net neutrality to protect
+      competition and free markets on the Internet.</p>
         <a class="btn btn-block" href="#signon">Sign the letter</a>
       </p>
       <nav class="section-links flex-center">
@@ -86,7 +92,7 @@
     </section>
 
     <section id="events">
-      <h2><strong>May 2:</strong> Host or Join an Event</h2>
+      <h2>Host or Join an Event</h2>
       <p>
         <b>Check out the map to find events related to net neutrality in your area</b><br>
         If you’d like to organize a letter delivery to a congressperson in your area, read the instructions below and click the link to Organize a Delivery.
