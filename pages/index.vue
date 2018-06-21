@@ -4,16 +4,15 @@
       <h1>
         Small Businesses Can Save the Internet
       </h1>
-      <p>Small businesses will be among those hurt most by the loss of net neutrality, but they can also 
-      play a key role in saving it. In May 2018, we organized thousands of small business owners from 
-      around the nation to sign on to our open letter to Congress in support of net neutrality. 
-      Many of these business owners attended protest events and hand-delivered copies of the open letter 
+      <p>Small businesses will be among those hurt most by the loss of net neutrality, but they can also
+      play a key role in saving it. In May 2018, we organized thousands of small business owners from
+      around the nation to sign on to our open letter to Congress in support of net neutrality.
+      Many of these business owners attended protest events and hand-delivered copies of the open letter
       to their lawmakers ... and it worked. The Senate voted to overturn the FCC's repeal of net neutrality.</p>
       <p>Now we need to win the vote in the House of Representatives, and we're calling on small
-      business owners once again. Tell your lawmakers to protect competition and free markets on the 
+      business owners once again. Tell your lawmakers to protect competition and free markets on the
       Internet. Tell your lawmakers to support net neutrality.</p>
-        <a class="btn btn-block" href="#signon">Sign the letter</a>
-      </p>
+      <p><a class="btn btn-block" href="#signon">Sign the letter</a></p>
       <nav class="section-links flex-center">
         <a href="#letter">Read the Letter</a>
         <a href="#businesses">Participating Businesses</a>
