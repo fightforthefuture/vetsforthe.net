@@ -15,7 +15,7 @@
     "generate-businesses": "node scripts/generate-businesses.js",
     "generate-pdfs": "bash scripts/generate-all-pdfs.sh",
     "generate-pdf": "node scripts/generate-pdfs.js",
-    "deploy": "aws s3 sync dist s3://www.businessesfornetneutrality.com --delete",
+    "deploy": "aws s3 sync dist s3://www.vetsforthe.net --delete",
     "deploy-branch": "bash scripts/deploy-branch.sh"
   },
   "dependencies": {

@@ -1,6 +1,6 @@
 #!/bin/bash
 BRANCH=$(git rev-parse --abbrev-ref HEAD)
-BUCKET="bfnn-$BRANCH"
+BUCKET="vftn-$BRANCH"
 
 # if bucket doesn't exist, create it and set up website hosting
 if aws s3 ls "s3://$BUCKET" 2>&1 | grep -q 'NoSuchBucket'; then
