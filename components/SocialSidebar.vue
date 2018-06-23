@@ -47,12 +47,6 @@
       top: 5px;
     }
 
-    &.btn-linkedin img {
-      height: 30px;
-      top: 15px;
-      right: 22.5px;
-    }
-
     &:hover {
       width: 250px;
 
@@ -74,23 +68,17 @@
       <span>Share on Facebook</span>
       <img src="~/assets/images/facebook_white.svg" alt="">
     </facebook-button>
-    <linked-in-button>
-      <span>Share on LinkedIn</span>
-      <img src="~/assets/images/linked-in-share-button.png" alt="">
-    </linked-in-button>
   </div>
 </template>
 
 <script>
 import FacebookButton from '~/components/FacebookButton'
 import TwitterButton from '~/components/TwitterButton'
-import LinkedInButton from '~/components/LinkedInButton'
 
 export default {
   components: {
     FacebookButton,
-    TwitterButton,
-    LinkedInButton
+    TwitterButton
   }
 }
 </script>

@@ -42,8 +42,6 @@
           <facebook-button></facebook-button>
           &nbsp;
           <twitter-button></twitter-button>
-          &nbsp;
-          <linked-in-button></linked-in-button>
         </p>
 
         <p>Now we need you to help deliver the open letter directly to Congress:</p>
