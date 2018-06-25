@@ -18,7 +18,6 @@
       <p><a class="btn btn-block" href="#signon">Sign the letter</a></p>
       <nav class="section-links flex-center">
         <a href="#letter">Read the Letter</a>
-        <a href="#signatories">Signatories</a>
         <a href="#events">Join an Event</a>
       </nav>
     </section>
@@ -27,13 +26,12 @@
       <div v-if="!hasSigned">
         <h2>
           Sign the Letter
-          <small>Business owners: enter your company information below</small>
         </h2>
         <action-network-form></action-network-form>
       </div>
       <div class="thanks" v-else>
         <h2>Thanks for signing on.</h2>
-        <p>Thank you for signing on the to the open letter in support of the Congressional Review Act (CRA) resolution to restore net neutrality. Please forward widely and spread the word to other small business owners you know:</p>
+        <p>Thank you for signing on the to the open letter in support of the Congressional Review Act (CRA) resolution to restore net neutrality. Please forward widely and spread the word to other veterans and patriots you know:</p>
 
         <p>Thank you for signing on the to the open letter. We will be sure to add your name.</p>
         <p>Now, will you take the next step and share this campaign to maximize your impact? Share now with just a couple of clicks:</p>
@@ -60,22 +58,6 @@
         <small><a href="/businesses_for_net_neutrality.pdf">Download the Letter to Congress</a></small>
       </h2>
       <div v-html="letterToCongress"></div>
-    </section>
-
-    <section id="signatories">
-      <h2>Signatories</h2>
-      <p>Veterans from all over America have signed the letter to support the CRA to save net neutrality.  Will you join us?</p>
-
-      <a @click.prevent="toggleBusinessList()" href="#" class="view-all"><span v-if="businessListIsVisible"><strong>-</strong> Hide</span><span v-else><strong>+</strong> View</span> all {{ signatureCount }} Businesses</a>
-      <div v-if="businessListIsVisible">
-        <p v-if="isLoading"><i>Loading businesses...</i></p>
-        <ul v-else>
-          <li v-for="biz in businesses" :key="biz.id">
-            {{ biz.name }}
-            <small v-if="biz.city && biz.state">{{ biz.city }}, {{ biz.state }}</small>
-          </li>
-        </ul>
-      </div>
     </section>
 
     <section id="events">
