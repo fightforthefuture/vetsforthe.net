@@ -25,13 +25,13 @@ function createPDF(selectedState) {
   doc
     .font(headerFont)
     .fontSize(headerFontSize)
-    .text('Small Businesses Can Save Net Neutrality'.toUpperCase(), { align: 'center' })
+    .text('Veterans support net neutrality'.toUpperCase(), { align: 'center' })
     .moveDown()
 
   doc
     .font(bodyFont)
     .fontSize(bodyFontSize)
-    .text(`${businesses.length} American businesses support the CRA to block the FCC's repeal of net neutrality.\n\n${localBusinesses.length} businesses in ${selectedState.name} support the CRA to block the FCC's repeal of net neutrality.`, { align: 'center' })
+    .text(`${businesses.length} US Veterans support the CRA to block the FCC's repeal of net neutrality.\n\n${localBusinesses.length} veterans in ${selectedState.name} support the CRA to block the FCC's repeal of net neutrality.`, { align: 'center' })
 
 
 //-- PAGE 2: Letter
