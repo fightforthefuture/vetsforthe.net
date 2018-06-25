@@ -1,6 +1,6 @@
-[![CircleCI](https://circleci.com/gh/fightforthefuture/businessesfornetneutrality.com.svg?style=svg)](https://circleci.com/gh/fightforthefuture/businessesfornetneutrality.com)
+[![CircleCI](https://circleci.com/gh/fightforthefuture/vetsforthe.net.svg?style=svg)](https://circleci.com/gh/fightforthefuture/vetsforthe.net)
 
-# bfnn-nuxt
+# vetsforthe.net
 
 > Nuxt.js project
 
