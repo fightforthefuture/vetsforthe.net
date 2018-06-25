@@ -52,7 +52,7 @@
     <section id="letter">
       <h2>
         Read the Letter
-        <!-- <small><a href="/businesses_for_net_neutrality.pdf">Download the Letter to Congress</a></small> -->
+        <!-- <small><a href="/letter.pdf">Download the Letter to Congress</a></small> -->
       </h2>
       <div v-html="letterToCongress"></div>
     </section>
