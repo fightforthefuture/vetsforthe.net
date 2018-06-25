@@ -8,13 +8,10 @@
       ones overseas and access essential services at home. The open Internet allows American small businesses 
       to thrive, and has created new jobs &mdash; in the tech field and others &mdash; that veterans urgently need.
       The loss of net neutrality will allow cable companies to throttle services to online communities used by 
-      service members, censor free speech, and charge new fees that veterans can’t afford.
-
-      The Senate has already moved to restore Net Neutrality protection.  Now we need the House of Representatives
+      service members, censor free speech, and charge new fees that veterans can’t afford.</p>
+      <p>The Senate has already moved to restore Net Neutrality protection.  Now we need the House of Representatives
       to do the same.  If you are a fellow Veteran, we urge you to sign this open letter to Congress demanding a
-      return to net neutrality.
-
-</p>
+      return to net neutrality.</p>
       <p><a class="btn btn-block" href="#signon">Sign the letter</a></p>
       <nav class="section-links flex-center">
         <a href="#letter">Read the Letter</a>
@@ -55,11 +52,12 @@
     <section id="letter">
       <h2>
         Read the Letter
-        <small><a href="/businesses_for_net_neutrality.pdf">Download the Letter to Congress</a></small>
+        <!-- <small><a href="/businesses_for_net_neutrality.pdf">Download the Letter to Congress</a></small> -->
       </h2>
       <div v-html="letterToCongress"></div>
     </section>
 
+<!--
     <section id="events">
       <h2>Host or Join an Event</h2>
       <p>
@@ -106,6 +104,7 @@
         </li>
       </ol>
     </section>
+-->
 
     <footer class="site-footer">
       <p>Built by:</p>
