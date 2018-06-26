@@ -15,7 +15,7 @@
       <p><a class="btn btn-block" href="#signon">Sign the letter</a></p>
       <nav class="section-links flex-center">
         <a href="#letter">Read the Letter</a>
-        <a href="#events">Join an Event</a>
+        <!-- <a href="#events">Join an Event</a> -->
       </nav>
     </section>
 
