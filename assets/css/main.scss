@@ -72,6 +72,7 @@ body {
   background-image: url("~/assets/images/bg.jpg");
   background-size: 100% auto;
   background-repeat: no-repeat;
+  overflow-x: hidden;
 }
 
 h1, h2, h3, h4, h5,
@@ -101,10 +102,13 @@ h1 {
 }
 
 h2 {
-  color: $red;
   text-transform: uppercase;
   font-size: 3.4rem;
   margin-bottom: 2rem;
+
+  #signon & {
+    color: $red;
+  }
 
   small {
     display: block;

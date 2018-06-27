@@ -57,6 +57,11 @@
       <div v-html="letterToCongress"></div>
     </section>
 
+    <section id="quotes">
+      <h2>What Vets are saying:</h2>
+      <quote-scroller></quote-scroller>
+    </section>
+
 <!--
     <section id="events">
       <h2>Host or Join an Event</h2>
@@ -124,6 +129,7 @@
 import { mapState } from 'vuex'
 import { stringify } from 'querystring'
 import ActionNetworkForm from '~/components/ActionNetworkForm'
+import QuoteScroller from '~/components/QuoteScroller'
 import SocialSidebar from '~/components/SocialSidebar'
 import FacebookButton from '~/components/FacebookButton'
 import TwitterButton from '~/components/TwitterButton'
@@ -139,7 +145,8 @@ export default {
     SocialSidebar,
     FacebookButton,
     TwitterButton,
-    LinkedInButton
+    LinkedInButton,
+    QuoteScroller
   },
 
   computed: {
