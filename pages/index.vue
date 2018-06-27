@@ -4,10 +4,10 @@
       <h1>
         Veterans support net neutrality
       </h1>
-      <p>Veterans, military families, and service members rely on the Internet to keep in touch with loved 
-      ones overseas and access essential services at home. The open Internet allows American small businesses 
+      <p>Veterans, military families, and service members rely on the Internet to keep in touch with loved
+      ones overseas and access essential services at home. The open Internet allows American small businesses
       to thrive, and has created new jobs &mdash; in the tech field and others &mdash; that veterans urgently need.
-      The loss of net neutrality will allow cable companies to throttle services to online communities used by 
+      The loss of net neutrality will allow cable companies to throttle services to online communities used by
       service members, censor free speech, and charge new fees that veterans can’t afford.</p>
       <p>The Senate has already moved to restore Net Neutrality protection.  Now we need the House of Representatives
       to do the same.  If you are a fellow Veteran, we urge you to sign this open letter to Congress demanding a
