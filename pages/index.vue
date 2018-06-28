@@ -57,12 +57,11 @@
       <div v-html="letterToCongress"></div>
     </section>
 
-<!--
     <section id="quotes">
       <h2>What Vets are saying:</h2>
       <quote-scroller></quote-scroller>
     </section>
--->
+
 
 <!--
     <section id="events">
