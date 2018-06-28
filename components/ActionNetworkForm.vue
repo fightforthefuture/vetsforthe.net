@@ -47,10 +47,10 @@ export default {
 
   computed: {
     tags() {
-      const tags = ['bfnn', 'net-neutrality']
+      const tags = ['net-neutrality']
 
       if (this.$route.query.source) {
-        tags.push(`bfnn-${this.$route.query.source}`)
+        tags.push(`vftn-${this.$route.query.source}`)
       }
 
       return tags
@@ -77,7 +77,8 @@ export default {
               company: this.company,
               company_url: this.companyURL,
             },
-            tags: this.tags
+            tags: this.tags,
+            source: this.$route.query.source
           }
         )
 
