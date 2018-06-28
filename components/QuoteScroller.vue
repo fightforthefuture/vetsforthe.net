@@ -21,6 +21,10 @@
     &.active {
       opacity: 1;
     }
+
+    &:hover {
+      cursor: pointer;
+    }
   }
 
   @include mobile {
@@ -79,7 +83,7 @@ nav {
   <div>
     <div class="quote-scroller" @touchstart="touchStart" @touchend="touchEnd">
       <div class="scroll-container" :style="{ width: `${totalWidth}px`, transform: translate3d }">
-        <blockquote v-for="(quote, index) in quotes" :key="`quote-${index}`" ref="quote" :class="index == page ? 'active' : ''" v-html="quote"></blockquote>
+        <blockquote v-for="(quote, index) in quotes" :key="`quote-${index}`" ref="quote" :class="index == page ? 'active' : ''" v-html="quote.text" @click="clickQuote(quote)"></blockquote>
       </div>
     </div>
     <nav class="clearfix">
@@ -155,6 +159,13 @@ export default {
       // swipe right
       else if (endX > this.touchStartX) {
         this.prevPage()
+      }
+    },
+
+    clickQuote({ link }) {
+      if (link) {
+        this.$ga.event('quote', 'click', link)
+        window.open(link, '_blank')
       }
     }
   }
