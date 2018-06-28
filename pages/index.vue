@@ -59,6 +59,7 @@
     <section id="quotes">
       <h2>What Vets are saying:</h2>
       <p>When the FCC announced their proposal to eliminate net neturality protections, they were required by law to allow the public to voice their opinions. The public responded, logging over 22 million comments. Many of those who commented were veterans ... men and women who served our country to protect our freedoms and were now standing up to protect freedom online.  Here's what some of them had to say:
+      </p>
       <quote-scroller></quote-scroller>
     </section>
 
