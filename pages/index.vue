@@ -4,14 +4,13 @@
       <h1>
         Veterans support net neutrality
       </h1>
-      <p>Veterans, military families, and service members rely on the Internet to keep in touch with loved
-      ones overseas and access essential services at home. The open Internet allows American small businesses
-      to thrive, and has created new jobs &mdash; in the tech field and others &mdash; that veterans urgently need.
-      The loss of net neutrality will allow cable companies to throttle services to online communities used by
-      service members, censor free speech, and charge new fees that veterans can’t afford.</p>
-      <p>The Senate has already moved to restore Net Neutrality protection.  Now we need the House of Representatives
-      to do the same.  If you are a fellow Veteran, we urge you to sign this open letter to Congress demanding a
-      return to net neutrality.</p>
+      <p>Veterans, military families, and service members rely on the Internet to keep in touch with loved ones 
+      overseas and access essential services at home. The open Internet allows American small businesses to thrive, 
+      and has created new jobs that veterans urgently need. The loss of net neutrality will allow cable companies to 
+      throttle services s, censor free speech, and charge new fees that veterans can’t afford.</p>
+      <p>The Senate already voted to overrule the FCC and restore net neutrality. Now we need the House of 
+      Representatives to do the same. If you are a fellow Veteran, we urge you to sign this open letter to Congress 
+      demanding a return to net neutrality.</p>
       <p><a class="btn btn-block" href="#signon">Sign the letter</a></p>
       <nav class="section-links flex-center">
         <a href="#letter">Read the Letter</a>
@@ -59,6 +58,7 @@
 
     <section id="quotes">
       <h2>What Vets are saying:</h2>
+      <p>When the FCC announced their proposal to eliminate net neturality protections, they were required by law to allow the public to voice their opinions. The public responded, logging over 22 million comments. Many of those who commented were veterans ... men and women who served our country to protect our freedoms and were now standing up to protect freedom online.  Here's what some of them had to say:
       <quote-scroller></quote-scroller>
     </section>
 
