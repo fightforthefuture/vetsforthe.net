@@ -58,7 +58,7 @@
 
     <section id="quotes">
       <h2>What Vets are saying:</h2>
-      <p>When the FCC announced their proposal to eliminate net neturality protections, they were required by law to allow the public to voice their opinions. Thousands of veterans spoke up in to protect net neutrality and freedom online. Here's what some of them had to say:
+      <p>Tens of millions of Americans of all political persuasions spoke out against the Federal Communications Commission’s repeal of net neutrality and filed public comments with the agency. Many of those who comments were from US veterans who felt the destruction of net neutrality was counter to the values they had fought for. Here are some of their comments, directly from the FCC docket:
       </p>
       <quote-scroller></quote-scroller>
     </section>
