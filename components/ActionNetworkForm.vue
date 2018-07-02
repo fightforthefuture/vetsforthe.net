@@ -2,7 +2,7 @@
   <form @submit.prevent="submitForm()">
     <div class="row">
       <input v-model="name" name="name" type="text" placeholder="Name*" required autocomplete="name">
-      <input type="text" v-model="branchOfService" placeholder="Branch of Service">
+      <input type="text" v-model="branchOfService" placeholder="Branch of Service*" required>
 <!--       <select v-model="branchOfService">
         <option :value="null">Branch of Service...</option>
         <option v-for="branch in militaryBranches" :key="branch">{{ branch }}</option>
