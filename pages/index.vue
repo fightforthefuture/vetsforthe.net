@@ -5,10 +5,10 @@
         Veterans support net neutrality
       </h1>
       <p>Veterans, service members and military families rely on the open Internet to stay in touch with loved ones 
-      and for essential services — such as health care, education and employment — at home.  The loss of net 
-      neutrality will allow cable companies to throttle traffic, censor free speech, and charge new fees that veterans 
-      don’t want … and can’t afford.  If you are a veteran or service members, demand a return to net neutrality by 
-      signing this open letter Congress.</p>
+      overseas, and for essential services — such as health care, education and employment — at home.  The loss of net 
+      neutrality has given cable companies the authority to throttle traffic, censor free speech, and charge new fees 
+      that veterans dont want ... and can’t afford.  If you are a veteran or active-duty service member, demand Congress 
+      restore net neutrality by signing this open letter.</p>
       <p><a class="btn btn-block" href="#signon">Sign the letter</a></p>
       <nav class="section-links flex-center">
         <a href="#letter">Read the Letter</a>
