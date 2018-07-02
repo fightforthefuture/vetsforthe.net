@@ -2,9 +2,14 @@
   <form @submit.prevent="submitForm()">
     <div class="row">
       <input v-model="name" name="name" type="text" placeholder="Name*" required autocomplete="name">
-      <input v-model="email" name="email" type="email" placeholder="Email*" required autocomplete="email">
+      <input type="text" v-model="branchOfService" placeholder="Branch of Service">
+<!--       <select v-model="branchOfService">
+        <option :value="null">Branch of Service...</option>
+        <option v-for="branch in militaryBranches" :key="branch">{{ branch }}</option>
+      </select> -->
     </div>
     <div class="row">
+      <input v-model="email" name="email" type="email" placeholder="Email*" required autocomplete="email">
       <input v-model="phone" name="phone" type="tel" placeholder="Phone" autocomplete="tel">
       <input v-model="zipCode" name="zip_code" type="tel" placeholder="ZIP Code*" required autocomplete="postal-code">
     </div>
@@ -33,8 +38,7 @@ export default {
     return {
       name: null,
       email: null,
-      company: null,
-      companyURL: null,
+      branchOfService: null,
       phone: null,
       zipCode: null,
       comments: null,
@@ -54,7 +58,9 @@ export default {
       }
 
       return tags
-    }
+    },
+
+    militaryBranches: () => [ 'Air Force', 'Army', 'Marines', 'Navy' ]
   },
 
   methods: {
@@ -74,8 +80,7 @@ export default {
             zip_code: this.zipCode,
             comments: this.comments,
             custom: {
-              company: this.company,
-              company_url: this.companyURL,
+              military_branch: this.branchOfService
             },
             tags: this.tags,
             source: this.$route.query.source
@@ -98,8 +103,7 @@ export default {
       this.phone = null
       this.zipCode = null
       this.comments = null
-      this.company = null
-      this.companyURL = null
+      this.branchOfService = null
     }
   }
 }
