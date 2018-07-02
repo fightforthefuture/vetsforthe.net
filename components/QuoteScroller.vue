@@ -1,25 +1,86 @@
-<style lang="scss" scoped>
+<style lang="scss">
 .quote-scroller {
   .scroll-container {
     transition: transform .3s;
     display: flex;
   }
 
-  blockquote {
+  .quote {
+    position: relative;
     width: 550px;
     float: left;
     padding: 0;
-    margin: 0 15px 5px 0;
+    margin: 0 50px 5px 0;
     border: 1px solid $border-color;
     border-radius: $border-radius;
     padding: 20px;
     font-size: 96%;
     opacity: 0.5;
-    transition: opacity .4s;
-    transition-delay: .2s;
+    transition: opacity .4s, background-color .2s;
+    display: flex;
+    align-items: center;
+
+    blockquote {
+      padding: 0;
+      margin: 0;
+
+      .source {
+        color: #7c57ff;
+        text-decoration: underline;
+        display: block;
+        font-style: normal;
+        font-size: 92%;
+        margin-top: 1rem;
+      }
+    }
+
+    nav {
+      display: none;
+
+      button {
+        background: none;
+        border: none;
+        width: 2.5rem;
+        height: 2.5rem;
+        padding: 0;
+        transition: opacity .4s ease-in .2s;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        display: flex;
+        height: 100%;
+
+        &:hover {
+          cursor: pointer;
+        }
+
+        &:focus {
+          outline: none;
+        }
+
+        &:disabled {
+          opacity: 0.5;
+        }
+
+        &.prev {
+          transform: rotate(180deg);
+          left: -3.5rem;
+        }
+
+        &.next {
+          right: -3.5rem;
+        }
+      }
+    }
 
     &.active {
       opacity: 1;
+      color: #1e1e1e;
+      background-color: #fff;
+
+      nav {
+        display: block;
+      }
     }
 
     &:hover {
@@ -28,79 +89,49 @@
   }
 
   @include mobile {
-    overflow: hidden;
-    width: 100%;
-    height: auto;
+    .scroller {
+      overflow: hidden;
+      width: 100%;
+      height: auto;
+    }
 
-    blockquote {
-      width: 300px;
+    .quote {
+      width: 80vw;
       height: auto;
       font-size: 90%;
-    }
-  }
-
-}
-
-nav {
-  padding: 0.5rem;
-
-  button {
-    background: none;
-    border: none;
-    width: 2.5rem;
-    height: 2.5rem;
-    display: block;
-    float: left;
-    padding: 0;
-    transition: opacity .4s;
-    transition-delay: .2s;
-
-    &:hover {
-      cursor: pointer;
-    }
-
-    &:focus {
-      outline: none;
-    }
-
-    &:disabled {
-      opacity: 0.5;
-    }
-
-    &.prev {
-      transform: rotate(180deg);
-      float: left;
-    }
-
-    &.next {
-      float: right;
+      margin: 0 30px 5px;
     }
   }
 }
 </style>
 
 <template>
-  <div>
-    <div class="quote-scroller" @touchstart="touchStart" @touchend="touchEnd">
+  <div class="quote-scroller">
+    <div class="scroller" @touchstart="touchStart" @touchend="touchEnd">
       <div class="scroll-container" :style="{ width: `${totalWidth}px`, transform: translate3d }">
-        <blockquote v-for="(quote, index) in quotes" :key="`quote-${index}`" ref="quote" :class="index == page ? 'active' : ''" v-html="quote.text" @click="clickQuote(quote)"></blockquote>
+        <div class="quote" v-for="(quote, index) in quotes" :key="`quote-${index}`" ref="quote" :class="index == page ? 'active' : ''">
+          <blockquote @click="clickQuote(quote)">
+            “{{ quote.text }}”
+            <span class="source" v-if="quote.source">{{ quote.source }}</span>
+          </blockquote>
+          <nav>
+            <button class="prev" @click="prevPage()" :disabled="page < 1"><img src="~/assets/images/scroller-arrow.svg" alt=""></button>
+            <button class="next" @click="nextPage()" :disabled="page == lastPage"><img src="~/assets/images/scroller-arrow.svg" alt=""></button>
+          </nav>
+        </div>
       </div>
     </div>
-    <nav class="clearfix">
-      <button class="prev" @click="prevPage()" :disabled="page < 1"><img src="~/assets/images/scroller-arrow.svg" alt=""></button>
-      <button class="next" @click="nextPage()" :disabled="page == lastPage"><img src="~/assets/images/scroller-arrow.svg" alt=""></button>
-    </nav>
   </div>
 </template>
 
 <script>
 import quotes from '~/assets/data/quotes.json'
-const paddingRight = 15
+const paddingRight = 50
 
 export default {
   data() {
     return {
-      page: 0,
+      page: 1,
       contentWidth: 570
     }
   },
