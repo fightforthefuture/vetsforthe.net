@@ -56,7 +56,7 @@
 
     <section id="quotes">
       <h2>What Vets are saying:</h2>
-      <p>Thousands of veterans from all five branches of service have signed this open letter to Congress, urging our lawmakers to listen to the voices of the people and overturn the FCC's repeal of net neutrality.  These are just a few comments:
+      <p>Thousands of veterans from all five branches of service have signed this open letter to Congress, urging our lawmakers to listen to the voices of the people and overturn the FCC's repeal of net neutrality.  These are just a few comments from men and women who feel that the destruction of net neutrality is counter to the values they have fought to protect:
       </p>
       <quote-scroller></quote-scroller>
     </section>
