@@ -2,7 +2,7 @@
   <div class="container">
     <section>
       <h1>
-        Veterans support net neutrality
+        Veterans for net neutrality
       </h1>
       <p>Veterans, service members and military families rely on the open Internet to stay in touch with loved ones 
       overseas, and to access essential services at home such as health care, education and employment. The repeal 
