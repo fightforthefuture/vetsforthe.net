@@ -2,7 +2,7 @@
   <div class="container">
     <section>
       <h1>
-        <Counter />
+        <Counter /></br>
         Veterans for net neutrality
       </h1>
       <p>Veterans, service members and military families rely on the open Internet to stay in touch with loved ones 
