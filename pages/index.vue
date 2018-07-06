@@ -2,7 +2,7 @@
   <div class="container">
     <section>
       <h1>
-        Veterans for net neutrality
+        <Counter />Veterans for net neutrality
       </h1>
       <p>Veterans, service members and military families rely on the open Internet to stay in touch with loved ones 
       overseas, and to access essential services at home such as health care, education and employment. The repeal 
@@ -69,9 +69,9 @@
         <b>Check out the map to find events related to net neutrality in your area</b><br>
         If you’d like to organize a letter delivery to a congressperson in your area, read the instructions below and click the link to Organize a Delivery.
       </p>
-			<p>
-				<a href="https://www.battleforthenet.com/map/"><img src="/images/events-map.png" alt="Events map" /></a>
-			</p>
+      <p>
+        <a href="https://www.battleforthenet.com/map/"><img src="/images/events-map.png" alt="Events map" /></a>
+      </p>
 
       <h3>
         How to Organize a Letter Delivery
@@ -129,6 +129,7 @@
 import { mapState } from 'vuex'
 import { stringify } from 'querystring'
 import ActionNetworkForm from '~/components/ActionNetworkForm'
+import Counter from '~/components/Counter'
 import QuoteScroller from '~/components/QuoteScroller'
 import SocialSidebar from '~/components/SocialSidebar'
 import FacebookButton from '~/components/FacebookButton'
@@ -142,6 +143,7 @@ import axios from 'axios'
 export default {
   components: {
     ActionNetworkForm,
+    Counter,
     SocialSidebar,
     FacebookButton,
     TwitterButton,
