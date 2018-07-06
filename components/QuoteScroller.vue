@@ -82,10 +82,6 @@
         display: block;
       }
     }
-
-    &:hover {
-      cursor: pointer;
-    }
   }
 
   @include mobile {
@@ -110,7 +106,7 @@
     <div class="scroller" @touchstart="touchStart" @touchend="touchEnd">
       <div class="scroll-container" :style="{ width: `${totalWidth}px`, transform: translate3d }">
         <div class="quote" v-for="(quote, index) in quotes" :key="`quote-${index}`" ref="quote" :class="index == page ? 'active' : ''">
-          <blockquote @click="clickQuote(quote)">
+          <blockquote>
             “{{ quote.text }}”
             <span class="source" v-if="quote.source">{{ quote.source }}</span>
           </blockquote>
@@ -190,13 +186,6 @@ export default {
       // swipe right
       else if (endX > this.touchStartX) {
         this.prevPage()
-      }
-    },
-
-    clickQuote({ link }) {
-      if (link) {
-        this.$ga.event('quote', 'click', link)
-        window.open(link, '_blank')
       }
     }
   }
