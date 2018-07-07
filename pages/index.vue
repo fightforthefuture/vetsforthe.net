@@ -62,6 +62,13 @@
       <quote-scroller></quote-scroller>
     </section>
 
+<!--
+    <section id="participants">
+      <h2>Participants</h2>
+      <p>These organizations support the veterans and active service members who have signed the open letter to Congress to restore net neutrality.</p>
+      <LogoCloud />
+    </section>
+-->
 
 <!--
     <section id="events">
@@ -136,6 +143,7 @@ import SocialSidebar from '~/components/SocialSidebar'
 import FacebookButton from '~/components/FacebookButton'
 import TwitterButton from '~/components/TwitterButton'
 import LinkedInButton from '~/components/LinkedInButton'
+import LogoCloud from '~/components/LogoCloud'
 import states from '~/assets/data/states.json'
 import { geocodeState, simpleFormat } from '~/assets/js/helpers.js'
 import settings from '~/config.json'
@@ -149,6 +157,7 @@ export default {
     FacebookButton,
     TwitterButton,
     LinkedInButton,
+    LogoCloud,
     QuoteScroller
   },
 
