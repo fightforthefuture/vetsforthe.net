@@ -265,7 +265,7 @@ section {
   }
 
   @include mobile {
-    padding: 3rem 1rem;
+    padding: 3rem;
 
     &:nth-child(odd):before {
       content: none;
