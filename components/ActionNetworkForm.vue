@@ -1,5 +1,6 @@
 <template>
   <form @submit.prevent="submitForm()">
+    <p class="error" v-if="errorMessage">{{ errorMessage }}</p>
     <div class="row">
       <input v-model="name" name="name" type="text" placeholder="Name*" required autocomplete="name">
       <input type="text" v-model="branchOfService" placeholder="Branch of Service*" required>
@@ -13,7 +14,7 @@
       <input v-model="phone" name="phone" type="tel" placeholder="Phone" autocomplete="tel">
       <input v-model="zipCode" name="zip_code" type="tel" placeholder="ZIP Code*" required autocomplete="postal-code">
     </div>
-    <div class="comments">
+    <div>
       <textarea v-model="comments" placeholder="Comments" class="display-block" autocomplete="off"></textarea>
     </div>
     <div class="row">
