@@ -26,10 +26,10 @@
 
       .source {
         color: #7c57ff;
-        text-decoration: underline;
         display: block;
         font-style: normal;
         font-size: 92%;
+        font-weight: bold;
         margin-top: 1rem;
       }
     }
