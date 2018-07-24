@@ -64,7 +64,7 @@
 
 
     <section id="participants">
-      <h2>Participants</h2>
+      <h2>Participanting Organizations</h2>
       <p>These organizations support the veterans and active service members who have signed the open letter to Congress to restore net neutrality.</p>
       <LogoCloud />
     </section>
