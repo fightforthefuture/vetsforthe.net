@@ -13,6 +13,7 @@
   "signatureCount": 10,
   "counterValue": 3714,
   "logos": [
+    {"img": "common-defense.png", "alt": "Common Defense"},
     {"img": "uvc-logo.png", "alt": "Union Veterans Council"},
     {"img": "veterans-for-peace.jpg", "alt": "Veterans for Peace"}
   ]
