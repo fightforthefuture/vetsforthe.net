@@ -10,7 +10,7 @@
       of net neutrality gives cable companies the authority to throttle traffic, censor online free speech and charge
       new fees that veterans can’t afford. If you are a US veteran or active-duty service member, please sign this open
       letter calling on our elected officials in Congress to restore net neutrality. </p>
-      <p><a class="btn btn-block" href="#signon">Sign the letter</a></p>
+      <p><a class="btn btn-block" href="#signon" @click.prevent="scrollTo('#signon')>Sign the letter</a></p>
       <nav class="section-links flex-center">
         <a href="#letter" @click.prevent="scrollTo('#letter')">Read the Letter</a>
         <a href="#events" @click.prevent="scrollTo('#events')">Attend a Letter Delivery</a>
@@ -77,11 +77,12 @@
       <form>
         <div class="row">
           <input type="tel" v-model="zipCode" placeholder="ZIP Code">
-          <a class="btn" :href="`https://www.battleforthenet.com/map/?zip=${zipCode}`">Find a Delivery</a>
+          <a class="btn" :href="`https://www.battleforthenet.com/map/?zip=${zipCode || ''}`">Find a Delivery</a>
           <a class="btn" href="mailto:team@fightforthefuture.org?subject=I%20want%20to%20host%20a%20Veterans%20for%20Net%20Neutrality%20Letter%20Delivery">Host a Delivery</a>
         </div>
       </form>
 
+<!--
       <h3>
         How to Organize a Letter Delivery
         <a href="https://docs.google.com/document/d/1dS-GtwKUxFPnjcpXzTtEroEiGmct1L6B-aUVBewN1YQ/" target="_blank">(Click Here to View a Downloadable Package):</a>
@@ -117,8 +118,8 @@
           </div>
         </li>
       </ol>
+-->
     </section>
-
 
     <footer class="site-footer">
       <p>Built by:</p>
