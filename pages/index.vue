@@ -12,8 +12,9 @@
       letter calling on our elected officials in Congress to restore net neutrality. </p>
       <p><a class="btn btn-block" href="#signon">Sign the letter</a></p>
       <nav class="section-links flex-center">
-        <a href="#letter">Read the Letter</a>
-        <!-- <a href="#events">Join an Event</a> -->
+        <a href="#letter" @click.prevent="scrollTo('#letter')">Read the Letter</a>
+        <a href="#events" @click.prevent="scrollTo('#events')">Attend a Letter Delivery</a>
+        <a href="#participants" @click.prevent="scrollTo('#participants')">Participating Organizations</a>
       </nav>
     </section>
 
@@ -62,24 +63,24 @@
       <quote-scroller></quote-scroller>
     </section>
 
-
     <section id="participants">
       <h2>Participating Organizations</h2>
       <p>These organizations support the veterans and active service members who have signed the open letter to Congress to restore net neutrality.</p>
       <LogoCloud />
     </section>
 
-
-<!--
     <section id="events">
-      <h2>Host or Join an Event</h2>
-      <p>
-        <b>Check out the map to find events related to net neutrality in your area</b><br>
-        If you’d like to organize a letter delivery to a congressperson in your area, read the instructions below and click the link to Organize a Delivery.
-      </p>
-      <p>
-        <a href="https://www.battleforthenet.com/map/"><img src="/images/events-map.png" alt="Events map" /></a>
-      </p>
+      <h2>JOIN A VETERANS DELEGATION TO DELIVER THE LETTER ON AUGUST 28</h2>
+      <p>Our Congressional representatives are home in their districts for August recess. On Tuesday, August 28th, US veterans and supporters across the country will gather outside our elected officials' offices and present them with our open letter calling on lawmakers to restore net neutrality.</p>
+      <p><a href="https://www.battleforthenet.com/map/"><img src="https://data.battleforthenet.com/events.png" alt="Events map" class="rounded" /></a></p>
+
+      <form>
+        <div class="row">
+          <input type="tel" v-model="zipCode" placeholder="ZIP Code">
+          <a class="btn" :href="`https://www.battleforthenet.com/map/?zip=${zipCode}`">Find a Delivery</a>
+          <a class="btn" href="mailto:team@fightforthefuture.org?subject=I%20want%20to%20host%20a%20Veterans%20for%20Net%20Neutrality%20Letter%20Delivery">Host a Delivery</a>
+        </div>
+      </form>
 
       <h3>
         How to Organize a Letter Delivery
@@ -117,7 +118,7 @@
         </li>
       </ol>
     </section>
--->
+
 
     <footer class="site-footer">
       <p>Built by:</p>
@@ -145,7 +146,7 @@ import TwitterButton from '~/components/TwitterButton'
 import LinkedInButton from '~/components/LinkedInButton'
 import LogoCloud from '~/components/LogoCloud'
 import states from '~/assets/data/states.json'
-import { geocodeState, simpleFormat } from '~/assets/js/helpers.js'
+import { geocodeState, simpleFormat, smoothScrollToElement } from '~/assets/js/helpers.js'
 import settings from '~/config.json'
 import axios from 'axios'
 
@@ -175,6 +176,16 @@ export default {
 
     createEventURL() {
       return `https://act.demandprogress.org/event/team-internet/create/?${this.eventsQueryString}`
+    },
+
+    zipCode: {
+      get() {
+        return this.$store.state.zipCode
+      },
+
+      set(value) {
+        this.$store.commit('setZipCode', value)
+      }
     }
   },
 
@@ -225,6 +236,14 @@ export default {
       const { data } = await axios.get('/businesses.json')
       this.businesses = data
       this.isLoading = false
+    },
+
+    scrollTo(hash) {
+      const duration = 500
+      smoothScrollToElement(hash, duration)
+      setTimeout(() => {
+        location.hash = hash
+      }, duration)
     }
   }
 }

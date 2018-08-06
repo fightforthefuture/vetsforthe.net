@@ -14,8 +14,14 @@
       <input v-model="phone" name="phone" type="tel" placeholder="Phone" autocomplete="tel">
       <input v-model="zipCode" name="zip_code" type="tel" placeholder="ZIP Code*" required autocomplete="postal-code">
     </div>
-    <div>
+    <div class="row">
       <textarea v-model="comments" placeholder="Comments" class="display-block" autocomplete="off"></textarea>
+    </div>
+    <div class="row">
+      <label class="checkbox-label">
+        <input type="checkbox" v-model="canAttendDelivery">
+        <small>I can join other vets to deliver the letter to my representative on August 28</small>
+      </label>
     </div>
     <div class="row">
       <button class="btn btn-block" :disabled="isSending">
@@ -40,8 +46,8 @@ export default {
       name: null,
       email: null,
       branchOfService: null,
+      canAttendDelivery: 0,
       phone: null,
-      zipCode: null,
       comments: null,
       isAuthorized: false,
       isSending: false,
@@ -61,11 +67,21 @@ export default {
       return tags
     },
 
-    militaryBranches: () => [ 'Air Force', 'Army', 'Marines', 'Navy' ]
+    militaryBranches: () => [ 'Air Force', 'Army', 'Marines', 'Navy' ],
+
+    zipCode: {
+      get() {
+        return this.$store.state.zipCode
+      },
+
+      set(value) {
+        this.$store.commit('setZipCode', value)
+      }
+    }
   },
 
   methods: {
-    ...mapMutations(['setHasSigned']),
+    ...mapMutations([ 'setHasSigned' ]),
 
     async submitForm() {
       this.isSending = true
@@ -81,7 +97,8 @@ export default {
             zip_code: this.zipCode,
             comments: this.comments,
             custom: {
-              military_branch: this.branchOfService
+              military_branch: this.branchOfService,
+              can_attend_delivery: this.canAttendDelivery
             },
             tags: this.tags,
             source: this.$route.query.source

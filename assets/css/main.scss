@@ -64,6 +64,10 @@ html {
   font-weight: bold;
 }
 
+.rounded {
+  border-radius: $border-radius;
+}
+
 img {
   max-width: 100%;
 }
@@ -77,6 +81,10 @@ body {
   background-image: url("~/assets/images/bg.jpg");
   background-size: 100% auto;
   background-repeat: no-repeat;
+  overflow-x: hidden;
+}
+
+#__layout {
   overflow-x: hidden;
 }
 
@@ -234,6 +242,17 @@ form {
       font-weight: bold;
     }
   }
+
+  .checkbox-label {
+    line-height: 1.1;
+    display: flex;
+    align-items: center;
+    padding-left: 0.25rem;
+
+    input {
+      margin-right: 1rem;
+    }
+  }
 }
 
 .container {
@@ -280,7 +299,7 @@ section {
 
 .section-links a {
   text-align: center;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   text-transform: uppercase;
   text-decoration: none;
   margin: 0 0.5rem 2rem;
