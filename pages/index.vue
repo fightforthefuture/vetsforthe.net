@@ -10,7 +10,7 @@
       of net neutrality gives cable companies the authority to throttle traffic, censor online free speech and charge
       new fees that veterans can’t afford. If you are a US veteran or active-duty service member, please sign this open
       letter calling on our elected officials in Congress to restore net neutrality. </p>
-      <p><a class="btn btn-block" href="#signon" @click.prevent="scrollTo('#signon')>Sign the letter</a></p>
+      <p><a class="btn btn-block" href="#signon" @click.prevent="scrollTo('#signon')">Sign the letter</a></p>
       <nav class="section-links flex-center">
         <a href="#letter" @click.prevent="scrollTo('#letter')">Read the Letter</a>
         <a href="#events" @click.prevent="scrollTo('#events')">Attend a Letter Delivery</a>
