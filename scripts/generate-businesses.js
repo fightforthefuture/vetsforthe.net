@@ -27,30 +27,32 @@ function md5(str) {
 }
 
 async function main() {
-  const doc = new GoogleSpreadsheet(process.env.GOOGLE_SHEET_ID)
-  const setAuth = Promise.promisify(doc.useServiceAccountAuth)
-  const getRows = Promise.promisify(doc.getRows)
-  const worksheet = 1
+  // const doc = new GoogleSpreadsheet(process.env.GOOGLE_SHEET_ID)
+  // const setAuth = Promise.promisify(doc.useServiceAccountAuth)
+  // const getRows = Promise.promisify(doc.getRows)
+  // const worksheet = 1
 
-  await setAuth(googleCreds)
-  const rows = await getRows(worksheet)
-  const verifiedRows = rows.filter(r => r.verified && (r.verified.toUpperCase() === 'Y' || r.verified === '*'))
+  // await setAuth(googleCreds)
+  // const rows = await getRows(worksheet)
+  // const verifiedRows = rows.filter(r => r.verified && (r.verified.toUpperCase() === 'Y' || r.verified === '*'))
 
-  const businesses = verifiedRows.map(row => {
-    let zip = row.zipcode.trim()
+  // const businesses = verifiedRows.map(row => {
+  //   let zip = row.zipcode.trim()
 
-    if (zip.length === 4) {
-      zip = `0${zip}`
-    }
+  //   if (zip.length === 4) {
+  //     zip = `0${zip}`
+  //   }
 
-    return {
-      id: md5([row.company, row.city, row.state].join('')),
-      name: row.company.trim(),
-      city: row.city.trim(),
-      state: row.state.trim(),
-      zip_code: zip
-    }
-  })
+  //   return {
+  //     id: md5([row.company, row.city, row.state].join('')),
+  //     name: row.company.trim(),
+  //     city: row.city.trim(),
+  //     state: row.state.trim(),
+  //     zip_code: zip
+  //   }
+  // })
+
+  const businesses = []
 
   const unique = {}
 
