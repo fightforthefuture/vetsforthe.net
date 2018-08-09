@@ -73,7 +73,7 @@ export default {
       function fakeGetCount() {
         return new Promise(resolve => {
           setTimeout(() => {
-            resolve(settings.counterValue);
+            resolve(settings.signatureCount);
           }, 200);
         });
       }

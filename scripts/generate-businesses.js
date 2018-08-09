@@ -3,6 +3,7 @@ const GoogleSpreadsheet = require('google-spreadsheet')
 const fs = require('fs')
 const path = require('path')
 const crypto = require('crypto')
+const uniq = require('lodash/uniq')
 
 require('dotenv').config()
 
@@ -27,14 +28,15 @@ function md5(str) {
 }
 
 async function main() {
-  // const doc = new GoogleSpreadsheet(process.env.GOOGLE_SHEET_ID)
-  // const setAuth = Promise.promisify(doc.useServiceAccountAuth)
-  // const getRows = Promise.promisify(doc.getRows)
-  // const worksheet = 1
+  const doc = new GoogleSpreadsheet(process.env.GOOGLE_SHEET_ID)
+  const setAuth = Promise.promisify(doc.useServiceAccountAuth)
+  const getRows = Promise.promisify(doc.getRows)
+  const worksheet = 1
 
-  // await setAuth(googleCreds)
-  // const rows = await getRows(worksheet)
-  // const verifiedRows = rows.filter(r => r.verified && (r.verified.toUpperCase() === 'Y' || r.verified === '*'))
+  await setAuth(googleCreds)
+  const rows = await getRows(worksheet)
+  const verifiedRows = rows.filter(r => r.verified && (r.verified.toUpperCase() === 'Y' || r.verified === '*'))
+
 
   // const businesses = verifiedRows.map(row => {
   //   let zip = row.zipcode.trim()
@@ -52,33 +54,32 @@ async function main() {
   //   }
   // })
 
-  const businesses = []
+  // const unique = {}
 
-  const unique = {}
+  // for (let biz of businesses) {
+  //   const key = `${biz.name}${biz.zip_code}`.toLowerCase()
 
-  for (let biz of businesses) {
-    const key = `${biz.name}${biz.city}`.toLowerCase()
+  //   if (!unique[key]) {
+  //     unique[key] = biz
+  //   }
+  // }
 
-    if (!unique[key]) {
-      unique[key] = biz
-    }
-  }
+  // const sorted = Object.values(unique).sort((a, b) => {
+  //   if (a.name.toLowerCase() < b.name.toLowerCase()) {
+  //     return -1
+  //   }
+  //   else if (a.name.toLowerCase() > b.name.toLowerCase()) {
+  //     return 1
+  //   }
+  //   return 0
+  // })
 
-  const sorted = Object.values(unique).sort((a, b) => {
-    if (a.name.toLowerCase() < b.name.toLowerCase()) {
-      return -1
-    }
-    else if (a.name.toLowerCase() > b.name.toLowerCase()) {
-      return 1
-    }
-    return 0
-  })
-
-  fs.writeFileSync(dataFile, JSON.stringify(sorted, null, 2))
+  // fs.writeFileSync(dataFile, JSON.stringify(sorted, null, 2))
 
   // update config with new signature count
+  const emails = uniq(verifiedRows.map(r => r.email.trim().toLowerCase()))
   const config = require(configFile)
-  config.signatureCount = sorted.length
+  config.signatureCount = emails.length
   fs.writeFileSync(configFile, JSON.stringify(config, null, 2))
 }
 
