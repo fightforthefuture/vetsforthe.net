@@ -10,7 +10,7 @@
     width: 550px;
     float: left;
     padding: 0;
-    margin: 0 50px 5px 0;
+    margin: 0 25px 5px;
     border: 1px solid $border-color;
     border-radius: $border-radius;
     padding: 20px;
@@ -92,7 +92,6 @@
     }
 
     .quote {
-      width: 80vw;
       height: auto;
       font-size: 90%;
       margin: 0 30px 5px;
@@ -125,15 +124,25 @@ import quotes from '~/assets/data/quotes.json'
 const paddingRight = 50
 
 export default {
+  props: {
+    initQuotesWidth: {
+      type: Number,
+      required: false,
+      default: 550
+    }
+  },
+
   data() {
     return {
-      page: 1,
-      contentWidth: 570
+      page: 1
     }
   },
 
   computed: {
     quotes: () => quotes,
+    contentWidth () {
+      return this.initQuotesWidth
+    },
 
     totalWidth() {
       return this.quotes.length * this.contentWidth
@@ -149,17 +158,7 @@ export default {
     }
   },
 
-  mounted() {
-    this.resizeContent()
-  },
-
   methods: {
-    resizeContent() {
-      if (this.$refs.quote && this.$refs.quote[0]) {
-        this.contentWidth = this.$refs.quote[0].clientWidth + paddingRight
-      }
-    },
-
     nextPage() {
       if (this.page < this.lastPage) {
         this.page++

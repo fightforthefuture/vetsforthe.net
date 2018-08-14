@@ -57,10 +57,10 @@
     </section>
 
     <section id="quotes">
-      <h2>What Vets are saying:</h2>
+      <h2 ref="quotesWidth">What Vets are saying:</h2>
       <p>Thousands of veterans from all five branches of service have signed this open letter to Congress, urging our lawmakers to listen to the voices of the people and overturn the FCC's repeal of net neutrality.  These are just a few comments from men and women who feel that the destruction of net neutrality is counter to the values they have fought to protect:
       </p>
-      <quote-scroller></quote-scroller>
+      <quote-scroller :init-quotes-width="initQuotesWidth"></quote-scroller>
     </section>
 
     <section id="participants">
@@ -195,7 +195,8 @@ export default {
       selectedState: null,
       businessListIsVisible: false,
       businesses: [],
-      isLoading: false
+      isLoading: false,
+      initQuotesWidth: 550
     }
   },
 
@@ -216,9 +217,17 @@ export default {
         el.scrollIntoView()
       }
     }
+
+    this.setQuoteWidthInScroller()
+    this.$nextTick(function() {
+      window.addEventListener('resize', this.setQuoteWidthInScroller)
+    })
   },
 
   methods: {
+    setQuoteWidthInScroller() {
+      this.initQuotesWidth = this.$refs.quotesWidth.clientWidth
+    },
     printLetter() {
       this.$ga.event('button', 'clicked', 'Print the Letter')
       window.open(`/pdfs/${this.selectedState.toLowerCase()}.pdf`, '_blank')
