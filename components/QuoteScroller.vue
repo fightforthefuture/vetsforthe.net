@@ -104,14 +104,19 @@
   <div class="quote-scroller">
     <div class="scroller" @touchstart="touchStart" @touchend="touchEnd">
       <div class="scroll-container" :style="{ width: `${totalWidth}px`, transform: translate3d }">
-        <div class="quote" v-for="(quote, index) in quotes" :key="`quote-${index}`" ref="quote" :class="index == page ? 'active' : ''">
+        <div v-for="(quote, index) in quotes" :key="`quote-${index}`"
+             ref="quote" class="quote" :class="index == page ? 'active' : ''">
           <blockquote>
             “{{ quote.text }}”
             <span class="source" v-if="quote.source">{{ quote.source }}</span>
           </blockquote>
           <nav>
-            <button class="prev" @click="prevPage()" :disabled="page < 1"><img src="~/assets/images/scroller-arrow.svg" alt=""></button>
-            <button class="next" @click="nextPage()" :disabled="page == lastPage"><img src="~/assets/images/scroller-arrow.svg" alt=""></button>
+            <button class="prev" @click="prevPage()" :disabled="page < 1">
+              <img src="~/assets/images/scroller-arrow.svg" alt="">
+            </button>
+            <button class="next" @click="nextPage()" :disabled="page == lastPage">
+              <img src="~/assets/images/scroller-arrow.svg" alt="">
+            </button>
           </nav>
         </div>
       </div>
@@ -121,7 +126,6 @@
 
 <script>
 import quotes from '~/assets/data/quotes.json'
-const paddingRight = 50
 
 export default {
   props: {
