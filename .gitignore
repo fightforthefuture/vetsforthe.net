@@ -11,6 +11,7 @@ logs/
 # Nuxt generate
 dist
 static/pdfs/*pdf
+assets/data/signatures.json
 
 # local config
 .env

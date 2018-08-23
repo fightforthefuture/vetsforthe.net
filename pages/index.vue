@@ -82,6 +82,17 @@
         </div>
       </form>
 
+      <br>
+      <h2>Print the Letter</h2>
+      <p>Select your state below to print out the letter and complete list of veterans who have signed on. Show up a few minutes early and wait outside the office for others to come. Around 15 minutes after the start time, go into the office with your crew of people and deliver the letter to the staffer at the front desk. Be friendly and polite, note the number of veterans in their district that have signed, and ask them to make sure the lawmaker gets it. Reiterate the ask of the letter: we want the Congress member to support the Congressional Review Act (CRA) resolution to overturn the FCC’s repeal of net neutrality.</p>
+      <div class="state-selector flex-row">
+        <select v-model="selectedState">
+          <option :value="null">Select your state</option>
+          <option v-for="(name, abbr) in states" :key="abbr" :value="abbr">{{ name }}</option>
+        </select>
+        <button class="btn" :disabled="!selectedState" @click="printLetter()">Print the Letter</button>
+      </div>
+
 <!--
       <h3>
         How to Organize a Letter Delivery
@@ -118,7 +129,7 @@
           </div>
         </li>
       </ol>
--->
+ -->
     </section>
 
     <footer class="site-footer">
