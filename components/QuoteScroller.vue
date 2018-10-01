@@ -125,7 +125,7 @@
 </template>
 
 <script>
-import quotes from '~/assets/data/quotes.json'
+import axios from 'axios'
 
 export default {
   props: {
@@ -138,12 +138,22 @@ export default {
 
   data() {
     return {
-      page: 1
+      page: 1,
+      quotes: []
+    }
+  },
+
+  async created() {
+    try {
+      const { data } = await axios.get('https://data.battleforthenet.com/vetsforthenet/quotes.json')
+      this.quotes = data
+    }
+    catch (error) {
+      //
     }
   },
 
   computed: {
-    quotes: () => quotes,
     contentWidth () {
       return this.initQuotesWidth
     },
