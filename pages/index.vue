@@ -2,7 +2,7 @@
   <div class="container">
     <section>
       <h1>
-        <Counter /><br />
+        <Counter :count="signatureCount" /><br />
         Veterans for net neutrality
       </h1>
       <p>Veterans, service members and military families rely on the open Internet to stay in touch with loved ones
@@ -177,7 +177,6 @@ export default {
   computed: {
     ...mapState(['hasSigned']),
     states: () => states,
-    signatureCount: () => settings.signatureCount,
     letterToCongress: () => simpleFormat(settings.letterToCongress),
 
     eventsQueryString() {
@@ -211,6 +210,21 @@ export default {
     }
   },
 
+  async asyncData() {
+    let signatureCount = 0
+
+    try {
+      const { data } = await axios.get('https://data.battleforthenet.com/vetsforthenet/data.json')
+      signatureCount = data.signatureCount
+    }
+    catch (error) {
+      // Signature count as of 10/1/18
+      signatureCount = 4629
+    }
+
+    return { signatureCount: signatureCount }
+  },
+
   async created() {
     try {
       const state = await geocodeState()
@@ -242,7 +256,7 @@ export default {
 
     printLetter() {
       this.$ga.event('button', 'clicked', 'Print the Letter')
-      window.open(`/pdfs/${this.selectedState.toLowerCase()}.pdf`, '_blank')
+      window.open(`https://data.battleforthenet.com/vetsforthenet/pdfs/${this.selectedState.toLowerCase()}.pdf`, '_blank')
     },
 
     toggleBusinessList() {

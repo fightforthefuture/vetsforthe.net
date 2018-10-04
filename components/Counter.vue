@@ -26,13 +26,17 @@
 </template>
 
 <script>
-import settings from '~/config.json'
-
 export default {
+  props: {
+    count: {
+      type: Number,
+      default: 37
+    }
+  },
+
   data() {
     return {
-      c: null,
-      count: null
+      c: null
     }
   },
 
@@ -68,27 +72,12 @@ export default {
         }
         await doTick();
       }
-    },
-    async getCount() {
-      function fakeGetCount() {
-        return new Promise(resolve => {
-          setTimeout(() => {
-            resolve(settings.signatureCount);
-          }, 200);
-        });
-      }
-      const count = await fakeGetCount();
-      this.count = count;
-      this.c = 0;
-      this.doCountdown();
-    },
-    init() {
-      this.getCount();
     }
   },
 
   mounted() {
-    this.init();
+    this.c = 0
+    this.doCountdown()
   }
 }
 </script>
