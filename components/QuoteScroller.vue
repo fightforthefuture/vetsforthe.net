@@ -45,10 +45,10 @@
         padding: 0;
         transition: opacity .4s ease-in .2s;
         position: absolute;
-        top: 0;
+        top: 50%;
         bottom: 0;
+        margin-top: -1.25rem; // Half the height
         display: flex;
-        height: 100%;
 
         &:hover {
           cursor: pointer;
